@@ -12,7 +12,7 @@
 * Categorie 7: permanente ban
 * Categorie 8: account wipe
 
-Een lid van het staffteam heeft de mogelijkheid om op basis van de context, situatie of eerdere straffen/waarschuwingen van een overtreder te beslissen om straffen te verhogen of te verlagen. Het stafflid heeft ten alle tijden het recht om te bepalen of het gedrag onder één van onderstaande artikelen valt en hier een straf op uit te delen. Wanneer je vaker voor een zelfde soort categorie bent gewaarschuwd of verbannen, wordt de straf hoger. Bij veel bans is er kans op een perm ban.
+Een lid van het staffteam heeft de mogelijkheid om op basis van de context, situatie of eerdere straffen/waarschuwingen van een overtreder te beslissen om straffen te verhogen of te verlagen. Het stafflid heeft ten alle tijden het recht om te bepalen of het gedrag onder één van onderstaande artikelen valt en hier een straf op uit te delen. Wanneer je vaker voor een zelfde soort categorie bent gewaarschuwd of verbannen, wordt de straf hoger. Bij veel bans is er kans op een perm ban. Wanneer iets niet in het APV staat, zullen meerdere staff-leden, in overleg, zich over de situatie buigen waaruit een actie en/of beoordeling zal voortvloeien. Het kan dus voorkomen dat iets wat hier niet specifiek in staat verwezen, alsnog een andere conclusie of aanpak krijgt. 
 
 ## Openbare orde
 
