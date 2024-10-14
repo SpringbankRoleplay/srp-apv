@@ -438,7 +438,7 @@ Straf ⇨ Categorie 7: permanente ban
 ### Artikel 33 - Basis criminele organisaties
 
 1. Met de term 'criminele organisaties' worden alle officiele & verified groeperingen bedoeld.
-2. Op het moment mogen criminele organisaties maximaal 20 leden hebben. Dit is exclusief leden die een proefperiode begaan bij een criminele organisatie en nog niet officieel zijn opgenomen binnen de organisatie.
+2. Op het moment mogen criminele organisaties maximaal 20 leden hebben. Dit is inclusief leden die een proefperiode begaan bij een criminele organisatie en nog niet officieel zijn opgenomen binnen de organisatie.
 3. Bij overtreding van lid 2 zal in de basis een straf van de eerste categorie worden opgelegd aan het leiderschap van de organisatie. Indien het vaker voorkomt wordt deze straf logischerwijs opgeschaald naar een officiele waarschuwing voor de organisatie.
 4. Bij overtreding van lid 4 en/of 5 zullen de betreffende organisaties in de basis een straf van de eerste categorie krijgen. Indien het vaker voorkomt wordt deze straf logischerwijs opgeschaald naar een officiele waarschuwing voor alle betrokken criminele organisaties.
 
