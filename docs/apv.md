@@ -327,12 +327,12 @@ Straf ⇨ Categorie 7: permanente ban
 ### Informatie Criminele activiteiten
 1. Als de recherche voldoende bewijs heeft om een ganghuis binnen te vallen, mogen ze 50% van de gangkluis afpakken + de wapens en inventory van de personen binnen meenemen.
 2. De voorwaardelijke straffen zijn als volgt, bij het volgende op zak:
-     * Drugs vanaf 100 stuks > De politie heeft 7 dagen tijd om maximaal 3 autos uit garage random te doorzoeken
-     * Drugs vanaf 300 stuks > De politie heeft 7 dagen tijd om maximaal 5 autos en 1 woning random te doorzoeken
-     * Meelee wapen >  De politie heeft 7 dagen de tijd om maximaal 3 voertuigen te doorzoeken
-     * Hand Vuurwapen > De politie heeft 7 dagen de tijd om maximaal 5 voertuigen te doorzoeken.
-     * Semi automatisch wapen > De politie heeft 7 dagen de tijd om maximaal 5 voertuigen en 1 woning te doorzoeken 
-     * Vol automaat wapen> De politie heeft 7 dagen de tijd om maximaal 5 voertuigen en 3 woningen te doorzoeken
+* Drugs vanaf 100 stuks >>> Bij arrestatie maximaal 3 voertuigen uit garage random te doorzoeken.
+* Drugs vanaf 300 stuks >>> Bij arrestatie maximaal 5 voertuigen en na de straf 1 woning te doorzoeken.
+* Melee wapen >>>  Bij arrestatie maximaal 3 voertuigen te doorzoeken.
+* Hand Vuurwapen >>> Bij arrestatie 5 voertuigen te doorzoeken.
+* Semi automatisch wapen >>> Bij arrestatie 5 voertuigen en na de straf 1 woning te doorzoeken. 
+* Vol automatisch wapen (waaronder shotgun) >>> Bij arrestatie maximaal 5 voertuigen te doorzoeken en na de straf 3 woningen te doorzoeken.
 
 ### Artikel 26 - Overvallen & Oplichten
 
