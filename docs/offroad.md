@@ -25,6 +25,7 @@ Alle voertuigen die niet zijn opgenomen in dit document zijn standaard van de kl
  * Gallivanter Baller
  * Gallivanter Baller Sport
  * Gallivanter Baller Sport+
+ * Gallivanter Baller ST-D
  * Gallivanter Baller ST-D Platinum
  * Karin Bjxl (alleen met off-road banden)
  * Karin Mogul RS (alleen met off-road banden)
@@ -54,6 +55,7 @@ Alle voertuigen die niet zijn opgenomen in dit document zijn standaard van de kl
  * Bf Bifta
  * Bf Inject
  * Bollokan Pakunek (alleen met off-road banden)
+ * Bravado Esperta (alleen met off-road banden)
  * Bravado Bison
  * Canis Bodhi
  * Canis Freecrawler
@@ -62,6 +64,7 @@ Alle voertuigen die niet zijn opgenomen in dit document zijn standaard van de kl
  * Canis Mesa
  * Canis Seminole Off-Road
  * Coil Brawler
+ * Coil LOD-4
  * Declasse Draugur
  * Declasse Yosemite DRT
  * Gallivanter Baller Raid
@@ -82,6 +85,7 @@ Alle voertuigen die niet zijn opgenomen in dit document zijn standaard van de kl
  * Nagasaki Outlaw
  * Vapid Caracara
  * Vapid Contendor
+ * Vapid Contender Custom
  * Vapid Sandking
  * Vapid Sandking
  * Vapid Trophy
