@@ -387,7 +387,7 @@ Straf ⇨ Categorie 7: permanente ban
 
 1. Het is niet toegestaan om overheidsvoertuigen te tunen.
 2. Het is alleen toegestaan om overheidsvoertuigen te besturen indien jij in dienst bent bij de desbetreffende overheidsdienst.
-3. Een uitzondering op lid 1 is wanneer de diefstal van een overheidsvoertuig en het eventueel besturen hiervan ten behoeve is van een goed roleplay scenario.
+3. Een uitzondering op lid 2 is wanneer de diefstal van een overheidsvoertuig en het eventueel besturen hiervan ten behoeve is van een goed roleplay scenario.
 
 > Straf ⇨ Categorie 2: een ban van maximaal 1 dag
 
