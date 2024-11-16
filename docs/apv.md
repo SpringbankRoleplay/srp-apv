@@ -208,8 +208,10 @@ Straf ⇨ Categorie 7: permanente ban
 3. Op de tegenpartij schieten terwijl er iemand in /th vast zit, mag alleen als volgt:
 	* Als je iemand met een mes in je hand /th hebt, mag er op je geschoten worden met een pistol of hoger.
 	* Als je iemand met een pistol in je hand /th hebt, mag er op je geschoten worden met een wapen groter dan een pistol.
-4. Een stafflid behoudt zich het recht om te besluiten of er sprake is van no value of life.
-5. Indien er vaker NVOL gepleegd wordt, staat daar een boete op van 10k.
+4. Het is enkel toegestaan om van een brug af te springen, indien je een parachute bij je hebt. Criminelen springen nu non stop van de brug af om te ontsnappen tijdens een achtervolging.
+5. Het valt onder NVOL wanneer je achter vuurwapen gevaarlijke mensen aanrijdt, terwijl je zelf geen vuurwapen bij je hebt.
+6. Een stafflid behoudt zich het recht om te besluiten of er sprake is van no value of life.
+7. Indien er vaker NVOL gepleegd wordt, staat daar een boete op van 10k.
    
 
 > Straf ⇨ Categorie 4: een ban van maximaal 5 dagen
@@ -466,19 +468,20 @@ Straf ⇨ Categorie 7: permanente ban
 1. Het is niet toegestaan om een overval te starten een half uur voor en een half uur na de restarts. 
 > Straf ⇨ Categorie 1: een waarschuwing
 2. Er wordt verwacht dat er bij een overval door alle partijen logisch nagedacht wordt en er realistische beslissingen worden gemaakt. Hierbij is het belangrijk om zaken zoals no value of life, fail RP, powergaming in het achterhoofd te houden om het voor alle betrokken partijen zo leuk mogelijk te houden.
-3. Het is niet toegestaan om iemand als gijzelaar in te zetten als dit een kennis van jou is. Dit moet dus een onbekend persoon zijn die jij op een eerlijke manier hebt ontvoerd.
-4. Eventueel NPC's die aanwezig zijn bij een winkeloverval tellen niet mee als gijzelaars.
-5. Het gebruik maken van outside hostages is alleen toegestaan indien er bewijs geleverd kan worden dat deze ook daadwerkelijk gijzelgenomen zijn.
-6. Het is niet toegestaan om een onderhandelaar te gijzelen.
-7. Er is een maximaal aantal overvallers toegestaan:
+3. Het is niet toegestaan om een hostage te rippen. Indien je iemand als hostage meeneemt, mag je diegene niet rippen na het fouilleren. Ook dien je de hostage gelegenheid te geven diens spullen veilig op te bergen. Let op: de hostage mag dit moment niet gebruiken weg te rennen.
+4. Het is niet toegestaan om iemand als gijzelaar in te zetten als dit een kennis van jou is. Dit moet dus een onbekend persoon zijn die jij op een eerlijke manier hebt ontvoerd.
+5. Eventueel NPC's die aanwezig zijn bij een winkeloverval tellen niet mee als gijzelaars.
+6. Het gebruik maken van outside hostages is alleen toegestaan indien er bewijs geleverd kan worden dat deze ook daadwerkelijk gijzelgenomen zijn.
+7. Het is niet toegestaan om een onderhandelaar te gijzelen.
+8. Er is een maximaal aantal overvallers toegestaan:
 	* Maximaal 3 overvallers bij een winkel.
 	* Maximaal 4 overvallers bij een kleine bank.
 	* Maximaal 5 overvallers bij een juwelier.
 	* Maximaal 6 overvallers bij de grote bank.
-8. Hypercars en supercars mogen niet gebruikt worden bij overvallen.
-9. Een overval mag gecountered worden, totdat de politie of KMAR is begonnen met de afzetting.
+9. Hypercars en supercars mogen niet gebruikt worden bij overvallen.
+10. Een overval mag gecountered worden, totdat de politie of KMAR is begonnen met de afzetting.
 > Indien de politie begonnen is met het neerzetten van de afzetting, moeten ze deze ook meteen afmaken!
-10. Je mag iemand maximaal 30 minuten gehostaged houden totdat het roleplay scenario gestart wordt (gijzeling voor wraak redenen valt hier niet onder).
+11. Je mag iemand maximaal 30 minuten gehostaged houden totdat het roleplay scenario gestart wordt (gijzeling voor wraak redenen valt hier niet onder).
 
 > Straf ⇨ Categorie 4: een ban van maximaal 3 dagen
 
