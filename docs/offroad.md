@@ -83,6 +83,7 @@ Alle voertuigen die niet zijn opgenomen in dit document zijn standaard van de kl
  * Nagasaki Blazer Hotrod
  * Nagasaki Blazer Sport
  * Nagasaki Outlaw
+ * Ubermacht Rebla Safari
  * Vapid Caracara
  * Vapid Contendor
  * Vapid Contender Custom
