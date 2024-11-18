@@ -408,6 +408,7 @@ Straf ⇨ Categorie 7: permanente ban
     * In de kledingwinkel in het kledingmenu
     * Locaties waar werkzaamheden gestart en beëindigd worden
 4. Zodra jij een overval doet en je krijgt groenlicht mag er 10min lang geen setup gegooid worden. De 10min worden gerekend vanaf het moment dat er groenlicht gegeven is. Indien je wel een setup doet, valt dit onder RDM/ verstoren roleplay.
+5. Indien Politie/KMar bij een OV de gehele afzetting heeft geplaatst of er na 15 minuten nog geen Politie/KMar aanwezig is, mag er op eigen risico weggereden worden met de buit zonder groenlicht.
 
 ### Artikel 31 - Wraak en liquidaties
 
