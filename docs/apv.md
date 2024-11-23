@@ -359,6 +359,7 @@ Straf ⇨ Categorie 7: permanente ban
 4. Je mag alleen scammen als het om illegale goederen gaat, er een wapen bij betrokken is en je het in een roleplay scenario doet.
 	* Bijvoorbeeld: A verkoopt een wapen aan B, B ript het wapen, of A ript het terug met behulp van anderen. Hands up is vereist.
 	* Scams zijn alleen toegestaan tot een maximum van 2 miljoen. Dit betekent dat de totale waarde van de scam, inclusief goederen of geld, niet meer dan 2 miljoen mag bedragen.
+ * Geld of spullen uitlenen is op EIGEN RISICO!
 5. Het oplichten met auto’s is niet toegestaan. Hier valt onder het ruilen van auto’s, of het verkopen van auto’s en het voertuig niet geven. Ook het liegen over tunes en de staat van de auto is niet toegestaan.
 
 > Straf ⇨ Categorie 3: een ban van maximaal 2 dagen
