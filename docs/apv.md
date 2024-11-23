@@ -359,7 +359,7 @@ Straf ⇨ Categorie 7: permanente ban
 4. Je mag alleen scammen als het om illegale goederen gaat, er een wapen bij betrokken is en je het in een roleplay scenario doet.
 	* Bijvoorbeeld: A verkoopt een wapen aan B, B ript het wapen, of A ript het terug met behulp van anderen. Hands up is vereist.
 	* Scams zijn alleen toegestaan tot een maximum van 2 miljoen. Dit betekent dat de totale waarde van de scam, inclusief goederen of geld, niet meer dan 2 miljoen mag bedragen.
- * Geld of spullen uitlenen is op EIGEN RISICO!
+        * Geld of spullen uitlenen is op EIGEN RISICO!
 5. Het oplichten met auto’s is niet toegestaan. Hier valt onder het ruilen van auto’s, of het verkopen van auto’s en het voertuig niet geven. Ook het liegen over tunes en de staat van de auto is niet toegestaan.
 
 > Straf ⇨ Categorie 3: een ban van maximaal 2 dagen
@@ -505,7 +505,7 @@ Straf ⇨ Categorie 7: permanente ban
 7. Het is toegestaan om iemand te rippen bij een illegaal verkooppunt als deze persoon binnen 1 meter van de NPC staat.
 8. Het is niet toegestaan om iemand te rippen en daarna te vermoorden. Indien je iemand om een andere (geldige) reden wel vermoord, dien je de spullen te droppen. 
 9. Bij het rippen van personen is het belangrijk om geen overbodig geweld te gebruiken, tenzij je zeker weet dat de betreffende persoon ook gewapend is.
-10. Het is niet toegestaan om na een overval met een auto of motor in of achter de achtervolging aan te rijden.
+10. Het is niet toegestaan om na een overval met een voertuig in of achter de achtervolging aan te rijden.
 11. Airdrops mogen geript worden. Let op! Dit is geen combat gebied. Je mag rippen, maar geen onnodig geweld gebruiken.
 12. Er mag geen KMAR meer ontvoerd worden voor het terugkrijgen wapens, nadat deze zijn afgenomen door de overheidsinstanties. Dit is enkel toegestaan op de volgende manier:
       * Om wapens terug te kunnen eisen, mogen alleen Hoofd-agenten of hoger ontvoerd worden. Dit valt te achterhalen via de strepen op de kleding. Er zijn meerdere manieren om te achterhalen welke rang iemand is. LET OP: Het is niet de bedoeling om elke agent van de straat te halen, om diens rang te checken.
