@@ -209,9 +209,10 @@ Straf ⇨ Categorie 7: permanente ban
 	* Als je iemand met een mes in je hand /th hebt, mag er op je geschoten worden met een pistol of hoger.
 	* Als je iemand met een pistol in je hand /th hebt, mag er op je geschoten worden met een wapen groter dan een pistol.
 4. Het is enkel toegestaan om van een brug af te springen, indien je een parachute bij je hebt. Criminelen springen nu non stop van de brug af om te ontsnappen tijdens een achtervolging.
-5. Het valt onder NVOL wanneer je achter vuurwapen gevaarlijke mensen aanrijdt, terwijl je zelf geen vuurwapen bij je hebt.
-6. Een stafflid behoudt zich het recht om te besluiten of er sprake is van no value of life.
-7. Indien er vaker NVOL gepleegd wordt, staat daar een boete op van 10k.
+5. Het valt onder NVOL wanneer je achter vuurwapen gevaarlijke mensen aanrijdt, terwijl je zelf geen vuurwapen bij je hebt. Dit geldt niet voor helicopters.
+6. Het is NVOL om door te vliegen in de achtervolging, wanneer er actief op je geschoten wordt.
+7. Een stafflid behoudt zich het recht om te besluiten of er sprake is van no value of life.
+8. Indien er vaker NVOL gepleegd wordt, staat daar een boete op van 10k.
    
 
 > Straf ⇨ Categorie 4: een ban van maximaal 5 dagen
@@ -355,7 +356,7 @@ Straf ⇨ Categorie 7: permanente ban
 	* Voorwerpen en/of dienstwapens die bij de uitvoering van een overheidsbaan toebehoren.
 	* Voertuigen in elke vorm.
 	* Onder dwang iemand zijn huis betreden en leegroven.
-    * De inhoud van kluizen van verified of offi gangs.
+    * De inhoud van kluizen van verified of offi gangs of bedrijven.
 4. Je mag alleen scammen als het om illegale goederen gaat, er een wapen bij betrokken is en je het in een roleplay scenario doet.
 	* Bijvoorbeeld: A verkoopt een wapen aan B, B ript het wapen, of A ript het terug met behulp van anderen. Hands up is vereist.
 	* Scams zijn alleen toegestaan tot een maximum van 2 miljoen. Dit betekent dat de totale waarde van de scam, inclusief goederen of geld, niet meer dan 2 miljoen mag bedragen.
