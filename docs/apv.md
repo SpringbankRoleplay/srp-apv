@@ -567,6 +567,7 @@ Straf ⇨ Categorie 7: permanente ban
 |---|---|---|
 | Overheidsbaan | Overheidsbaan | 7 kalenderdagen |
 | Criminele organisatie | Overheidsbaan | 7 kalenderdagen |
+| Overheidsbaan | Criminele organisatie | 7 kalenderdagen |
 
 2. Een uitzondering op de in lid 1 benoemde wachttijden kan worden genomen door het managementteam.
 3. Het is voor de leiding van overheidsorganisaties en criminele organisaties de verantwoordelijkheid om toezicht te houden op deze wachttijden.
