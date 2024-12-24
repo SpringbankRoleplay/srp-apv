@@ -204,7 +204,7 @@ Straf ⇨ Categorie 7: permanente ban
 	* Schieten op iemand die een een vuur- of steekwapen heeft gericht op iemand via /th.
 	* Het is niet toegestaan om een zelfmoordscenario op te zetten.
 	* Indien je in je benen bent geschoten en de andere partij binnen shouting range staat, mag je niet meer op staan.
-        * Het is niet NVOl wanneer iemand een wapen op jou richt als je al aan het rijden bent, je mag dan wegrijden.
+        * Het is niet NVOl wanneer iemand een wapen op jou richt als je voertuig al in beweging is, je hoeft dan niet te blijven staan.
 3. Op de tegenpartij schieten terwijl er iemand in /th vast zit, mag alleen als volgt:
 	* Als je iemand met een mes in je hand /th hebt, mag er op je geschoten worden met een pistol of hoger.
 	* Als je iemand met een pistol in je hand /th hebt, mag er op je geschoten worden met een wapen groter dan een pistol.
