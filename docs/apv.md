@@ -25,13 +25,14 @@
 * Het expres slecht/niet afmaken van een scenario of te verstoren, ondanks de situatie. Ook het verstoren/belemmeren van overheidsmedewerkers hoort hierbij. 
 * Het stelen uit kofferbakken. Dit mag alleen met goeie aanleiding en door iemand te handsuppen. 
 * Het niet realistisch reageren op je verwondingen. Als je crashbeeld verdwenen is, mag en kan je weer verder met het scenario. Als je een crashbeeld hebt gekregen in een achtervolging, moet je zowel als crimineel, als overheid afkoppelen. 
-> Straf ⇨ Categorie 2
+* > Straf ⇨ Categorie 2
 
 <b>Powergaming:</b> Het is niet toegestaan om opzettelijk de roleplay op een oneerlijke of onrealistische manier te vormen, bijvoorbeeld door de verhaallijn op een onnatuurlijke manier te veranderen of door onrealistische dwang uit te oefenen op de andere partij.
 <i> Voorbeelden van Powergaming zijn, maar niet beperkt tot: </i>
 * Een agent ontvoeren om een signalering te verwijderen of om iets te bekijken in het politiesysteem (MEOS). Een ambulancier handsuppen om wapens te krijgen van een gewond persoon, of een pechhulp medewerker te handsuppen om een auto open te breken. 
 * Het gebruiken van enkel /me commands om een actie uit te voeren. Je moet dit met roleplay en door het uit te spreken uitvoeren. Dus niet ‘’ik ga je even vastbinden’’ terwijl je aan het rijden bent, maar naast iemand gaan staan, bijvoorbeeld /e mechanic en dan: ik ga je even vastbinden /me pakt boeien, ik doe ze nu om. 
 * Het gebruiken van de Z-spier om spelers te vinden tijdens scenario’s.
+> Straf ⇨ Categorie 2
 
 ### Artikel 2 - Cheats
 <b> Het is niet toegestaan om gebruik te maken van software/hulpmiddelen (cheats ofwel hacks) van derde partijen om profijt te krijgen in het spel. </b>
@@ -47,7 +48,7 @@ Voorbeelden van bugs/exploits zijn: misbruiken van bepaalde animaties (zoals het
 ### Artikel 4 - Out Of Character
 <b> Het is niet toegestaan om je karakter te breken door OOC-informatie te gebruiken in-game </b>
 Enkele voorbeelden hiervan zijn maar niet beperkt tot:
-*Termen gebruiken die het in het echte leven niet van toepassing zijn, zoals 'report, 'reloggen', 'desync', 'rdm' en dergelijke.
+* Termen gebruiken die het in het echte leven niet van toepassing zijn, zoals 'report, 'reloggen', 'desync', 'rdm' en dergelijke.
 * Benoemen dat iemand een artikel van het APV heeft overtreden. 
 > Straf ⇨ Categorie 1
 
@@ -70,11 +71,9 @@ Het is niet toegestaan om je voertuig als geweldsmiddel te gebruiken. Ook indien
 ### Artikel 8 - No Value Of Life
 <b> Het is niet toegestaan geen waarde te hechten aan het leven van het karakter dat je speelt.</b>
 <i> Voorbeelden van NVOL zijn, maar niet beperkt tot: </i>	
-
 * Indien er een vuurwapen op je gericht staat in de shouting voice range wordt er verwacht dat je blijft staan en mee werkt.Je dropt je items direct. Indien dit met een geldige reden (roleplay technisch) niet lukt, heb je 10 seconde om je spullen te droppen.
 * Met een helikopter en/of vliegtuig vlak boven de grond vliegen of tussen gebouwen door.
 * Het is niet toegestaan om weerstand te bieden tegen een slag- of steekwapen wanneer deze binnen een meter van jou is. Dit geldt niet wanneer je in een voertuig met gesloten ramen en deuren zit. Je mag wegrennen van een tazer, tenzij je al een keer getazerd bent.
-
 * Het is niet toegestaan om al rijdend een ander voertuig te blokkeren. Je mag wel blokkeren, maar enkel als het voertuig stil staat en er niemand in het voertuig zit. 
 * Het is niet toegestaan om een zelfmoordscenario op te zetten.
 * Het is niet NVOL wanneer iemand een wapen op jou richt als je voertuig al in beweging is, je hoeft dan niet te blijven staan.
@@ -133,10 +132,10 @@ Het is niet toegestaan om onrealistische rijstijlen aan te nemen. Enkele voorbee
 Binnen de greenzone is het verboden om enige vorm van geweld te gebruiken. 
 * Het is niet toegestaan om een greenzone in te vluchten. Indien dit wel gebeurd, mag het scenario daar worden verder gezet.  
 <b> De volgende locaties worden gezien als een greenzone: </b>
-	* Pechhulp
-	* Ziekenhuis
-	* Gemeentehuis en het winkelcentrum
-	* Bitcoin converter
+* Pechhulp
+* Ziekenhuis
+* Gemeentehuis en het winkelcentrum
+* Bitcoin converter
 > Straf ⇨ Categorie 2
 
 ### Artikel 18 - Kledingregels
