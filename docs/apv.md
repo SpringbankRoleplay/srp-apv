@@ -107,9 +107,10 @@ Er wordt verwacht dat je de Nederlands of Engelse taal beheerst binnen Springban
 ### Artikel 14 - Belediging
 Het is niet toegestaan om aanstootgevende teksten te plaatsen of uit te spreken op welke mogelijke manier dan ook. Bijvoorbeeld hedendaagse ziektes, seksuele opmerkingen, racisme, toxic gedrag of andere ongepaste opmerkingen. 
 Dit is ook van toepassing op de volgende punten: 
-	* Naam van jouw steam account
-	* Naam van jouw discord account
-	* Naam van jouw in-game karakter
+	
+* Naam van jouw steam account
+* Naam van jouw discord account
+* Naam van jouw in-game karakter
 > Straf ⇨ Categorie 5
 
 ### Artikel 15 - Deelname aan het verkeer
