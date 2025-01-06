@@ -1,5 +1,5 @@
 # Algemene Plaatselijke Verordening van Springbank Roleplay
-<b> In het Algemene Plaatselijke Verordering van Springbank Roleplay, hierna genoemd APV, zijn de wet- en regelgevingen die gelden binnen de gehele stad Springbank opgenomen. Bij het intrekken binnen Springbank gaat u automatisch akkoord met deze wet- en regelgeving. </b> 
+**In het Algemene Plaatselijke Verordering van Springbank Roleplay, hierna genoemd APV, zijn de wet- en regelgevingen die gelden binnen de gehele stad Springbank opgenomen. Bij het intrekken binnen Springbank gaat u automatisch akkoord met deze wet- en regelgeving.**
 ## Strafbepaling
 1. De straffen zijn verdeeld in de volgende categoriëen. 
     - **Categorie 1:** een waarschuwing
@@ -14,8 +14,9 @@
 3. Een lid van het staffteam heeft de mogelijkheid om op basis van de context, situatie of eerdere straffen/waarschuwingen van een overtreder te beslissen om straffen te verhogen of te verlagen.
 4. Het stafflid heeft ten alle tijden het recht om te bepalen of het gedrag onder één van onderstaande artikelen valt en hier een straf op uit te delen. 
 5. Wanneer je vaker voor een zelfde soort categorie bent gewaarschuwd of verbannen, wordt de straf hoger. Bij veel bans is er kans op een permanente verbanning van Springbank. 
-6. Wanneer iets niet in het APV staat, zullen meerdere staff-leden, in overleg, zich over de situatie buigen waaruit een actie en/of beoordeling zal voortvloeien. Het kan dus voorkomen dat iets wat hier niet specifiek in staat verwezen, alsnog een andere conclusie of aanpak krijgt. 
-<i> De categorieeën zijn een inschatting van de straf die bij een bepaald artikel hoort. Deze straf kan altijd aangepast worden per situatie en persoon. </i>
+6. Wanneer iets niet in het APV staat, zullen meerdere staff-leden, in overleg, zich over de situatie buigen waaruit een actie en/of beoordeling zal voortvloeien. Het kan dus voorkomen dat iets wat hier niet specifiek in staat verwezen, alsnog een andere conclusie of aanpak krijgt.
+
+*De categorieeën zijn een inschatting van de straf die bij een bepaald artikel hoort. Deze straf kan altijd aangepast worden per situatie en persoon.*
 
 ## Openbare orde
 ### Artikel 1 - Fail-RP en Powergaming
@@ -25,7 +26,8 @@
 - Tijdens een achtervolging je voertuig in de garage zetten om te voorkomen dat je herkend wordt.
 - Het expres slecht/niet afmaken van een scenario of te verstoren, ondanks de situatie. Ook het verstoren/belemmeren van overheidsmedewerkers hoort hierbij. 
 - Het stelen uit kofferbakken. Dit mag alleen met goeie aanleiding en door iemand te handsuppen. 
-- Het niet realistisch reageren op je verwondingen. Als je crashbeeld verdwenen is, mag en kan je weer verder met het scenario. Als je een crashbeeld hebt gekregen in een achtervolging, moet je zowel als crimineel, als overheid afkoppelen. 
+- Het niet realistisch reageren op je verwondingen. Als je crashbeeld verdwenen is, mag en kan je weer verder met het scenario. Als je een crashbeeld hebt gekregen in een achtervolging, moet je zowel als crimineel, als overheid afkoppelen.
+
 > Straf ⇨ Categorie 2
 
 **Powergaming:** Het is niet toegestaan om opzettelijk de roleplay op een oneerlijke of onrealistische manier te vormen, bijvoorbeeld door de verhaallijn op een onnatuurlijke manier te veranderen of door onrealistische dwang uit te oefenen op de andere partij.<br/>
@@ -34,6 +36,7 @@
 - Een agent ontvoeren om een signalering te verwijderen of om iets te bekijken in het politiesysteem (MEOS). Een ambulancier handsuppen om wapens te krijgen van een gewond persoon, of een pechhulp medewerker te handsuppen om een auto open te breken. 
 - Het gebruiken van enkel /me commands om een actie uit te voeren. Je moet dit met roleplay en door het uit te spreken uitvoeren. Dus niet ‘’ik ga je even vastbinden’’ terwijl je aan het rijden bent, maar naast iemand gaan staan, bijvoorbeeld /e mechanic en dan: ik ga je even vastbinden /me pakt boeien, ik doe ze nu om. 
 - Het gebruiken van de Z-spier om spelers te vinden tijdens scenario’s.
+
 > Straf ⇨ Categorie 2
 
 ### Artikel 2 - Cheats
@@ -53,7 +56,8 @@ Het is niet toegestaan om je karakter te breken door OOC-informatie te gebruiken
 *Enkele voorbeelden hiervan zijn maar niet beperkt tot:*
 
 * Termen gebruiken die het in het echte leven niet van toepassing zijn, zoals 'report, 'reloggen', 'desync', 'rdm' en dergelijke.
-* Benoemen dat iemand een artikel van het APV heeft overtreden. 
+* Benoemen dat iemand een artikel van het APV heeft overtreden.
+  
 > Straf ⇨ Categorie 1
 
 ### Artikel 5 - Meta-gaming
@@ -71,6 +75,7 @@ Het is niet toegestaan om je voertuig als geweldsmiddel te gebruiken. Ook indien
 
 * Indien een persoon zonder goede aanleiding mensen van het leven beroofd kan een stafflid besluiten om het gebruikte wapen in beslag te nemen.
 * Indien je iemand achtervolgt, diegene een waarschuwingsschot afvuurt en jij blijft achtervolgen, dan mag jij beschoten worden. Hiermee neem je zelf een risico. Dit geldt ook voor het doorvliegen in een helicopter na een waarschuwingsschot.
+
 > Straf ⇨ Categorie 4
 
 ### Artikel 8 - No Value Of Life
@@ -83,7 +88,8 @@ Het is niet toegestaan om je voertuig als geweldsmiddel te gebruiken. Ook indien
 * Het is niet toegestaan om al rijdend een ander voertuig te blokkeren. Je mag wel blokkeren, maar enkel als het voertuig stil staat en er niemand in het voertuig zit. 
 * Het is niet toegestaan om een zelfmoordscenario op te zetten.
 * Het is niet NVOL wanneer iemand een wapen op jou richt als je voertuig al in beweging is, je hoeft dan niet te blijven staan.
-* Het is enkel toegestaan om van een brug af te springen, indien je een parachute bij je hebt. 
+* Het is enkel toegestaan om van een brug af te springen, indien je een parachute bij je hebt.
+
 > Straf ⇨ Categorie 4
 
 ### Artikel 9 - Combat-logging
@@ -108,6 +114,7 @@ Het is tijdens het spelen ten allen tijden verplicht om een werkende microfoon t
 Er wordt verwacht dat je de Nederlands of Engelse taal beheerst binnen Springbank Roleplay.
 1. Het is niet toegestaan om andere talen dan Nederlands of Engels op een provocerende manier te gebruiken in een roleplay scenario.
 2. Tijdens staffzaken is het in de basis zaak dat er ten allen tijden Nederlands wordt gesproken.
+
 > Straf ⇨ Categorie 1
 
 ### Artikel 14 - Belediging
@@ -117,6 +124,7 @@ Dit is ook van toepassing op de volgende punten:
 * Naam van jouw steam account
 * Naam van jouw discord account
 * Naam van jouw in-game karakter
+
 > Straf ⇨ Categorie 5
 
 ### Artikel 15 - Deelname aan het verkeer
@@ -128,12 +136,14 @@ Het is niet toegestaan om onrealistische rijstijlen aan te nemen. Enkele voorbee
 1. Indien je een voertuig inzet om een zogenoemde pit uit te voeren is dit alleen toegestaan als de snelheid lager is dan 100 km/u en moet dit op een verantwoorde wijze gaan.
 2. Een voertuig mag geen lichter voertuig pitten of brake checken, de volgorde gaat als volgt: 1: Motorvoertuigen \ 2: Sportauto’s en hypercars \ 3: Personenauto’s, zoals Sedan en Coupes \ 4: SUV’s \ 5: Bussen en vrachtwagens.
 3. Politieagenten van de landelijke eenheid verkeerspolitie mogen een pit uitvoeren tot snelheden van 130 km/u. De dienst speciale interventies hebben een specialistische training gehad en mogen op uitzondering een pit uitvoeren tot snelheden van 150 km/u.
+
 > Straf ⇨ Categorie 2
 
 ### Artikel 16 - Reporting
 De in-game functie om spelers te rapporteren en bugs of vragen in te dienen (/report) is alleen bedoeld voor gevallen dat dit ter plekke opgelost kan worden. Het is niet de bedoeling om voor eigen rechter te gaan spelen.
 
 * Het is niet toegestaan te ‘report spammen’, je mag dus niet meerdere reports binnen 5 minuten maken.
+
 > Straf ⇨ Categorie 3
 
 ### Artikel 17 - Greenzone
@@ -146,23 +156,27 @@ Binnen de greenzone is het verboden om enige vorm van geweld te gebruiken.
 * Ziekenhuis
 * Gemeentehuis en het winkelcentrum
 * Bitcoin converter
+
 > Straf ⇨ Categorie 2
 
 ### Artikel 18 - Kledingregels
 1. Het is niet toegestaan om de standaard-outfit te dragen tijdens roleplay scenario's. In het begin krijg je een menu waar je dit kan aanpassen. Mocht dat onverhoopt niet lukken wordt er verwacht dat jij naar een kledingwinkel gaat.
 2. Het is niet toegestaan om doorzichtige lichaamsdelen zoals armen, benen of torso te hebben.
 3. Het is zaak om ervoor te zorgen dat jouw armen niet door jouw t-shirt heenkomen.
+
 > Straf ⇨ Categorie 1
 
 ## Overheid 
 ### Artikel 19 - Copbaiting
 1. Het is niet toegestaan om opzettelijk de aandacht proberen te trekken van politieagenten en/of KMar-leden of hun van hun werk proberen te houden zonder goede aanleiding.
 2. Als de politie en/of KMar je wil aanspreken voor een reguliere controle en je besluit weg te rijden, terwijl je geen illegale goederen bij je hebt, valt dit onder copbaiting.
+
 > Straf ⇨ Categorie 2
 
 ### Artikel 20 - Impersonatie overheidsmedewerker
 1. Het is niet toegestaan om jezelf te vermommen als een overheidsmedewerker en/of te suggereren dat je een overheidsmedewerker bent.
 2. Het is toegestaan om kogel- en steekwerende vesten te dragen, zolang dit geen verwijzing heeft naar een overheidsdienst.
+
 > Straf ⇨ Categorie 2
 
 ### Artikel 21 - Overheidsvoertuigen
@@ -170,6 +184,7 @@ Binnen de greenzone is het verboden om enige vorm van geweld te gebruiken.
 2. Het is alleen toegestaan om overheidsvoertuigen te besturen indien jij in dienst bent bij de desbetreffende overheidsdienst. 
 * Het is verplicht om, wanneer je in dienst bent, in het aangewezen voertuig rond te rijden met dienstkleding aan. 
 3. Een uitzondering op lid 2 is wanneer de diefstal van een overheidsvoertuig en het eventueel besturen hiervan ten behoeve is van een goed roleplay scenario.
+
 > Straf ⇨ Categorie 2
 
 ### Artikel 22 - Gedrag tegen overheidsmedewerkers
@@ -179,12 +194,14 @@ Binnen de greenzone is het verboden om enige vorm van geweld te gebruiken.
 4. Het is alleen toegestaan om een overheidsmedewerker te ontvoeren indien de aantallen in dienst corresponderen met de specificatie hieronder:
     * Politiekorps: Per 6 agenten in dienst mag er 1 agent ontvoerd worden
     * KMar: Per 6 KMar-leden mag er 1 lid ontvoerd worden.
+
 > Straf ⇨ Categorie 2
 
 ### Artikel 23 - Criminaliteit & Ambtenaren
 Voor overheidsmedewerkers is het niet toegestaan om zich op welke manier dan ook bezig te houden met illegale praktijken of illegale spullen in bezit te hebben, als dit niet ten behoeve is van de uitvoering van hun baan. Voorafgaand aan de start bij de overheidsbaan is het vereist dat medewerkers geen illegale zaken meer in hun bezit hebben, zij hebben 24 uur om in overleg met hun baas zich te ontdoen van deze spullen.
 1. Het is niet toegestaan om in het bezit te zijn van objecten die afkomstig zijn van een overheidsdienst, wanneer je niet in dienst bent. 
 2. Een uitzondering geldt voor medewerkers van de politie die een specialistische training hebben gehad. Deze medewerkers mogen wel hun dienstwapens buiten hun dienst dragen ten behoeve van de uitvoering van het werk.
+
 > Straf ⇨ Categorie 5 en ontslag
 
 ## Overtredingen - Criminele activiteiten
@@ -204,6 +221,7 @@ Voor overheidsmedewerkers is het niet toegestaan om zich op welke manier dan ook
 	* Scams zijn alleen toegestaan tot een maximum van 2 miljoen. Dit betekent dat de totale waarde van de scam, inclusief goederen of geld, niet meer dan 2 miljoen mag bedragen.
       * Geld of spullen uitlenen is op EIGEN RISICO!
 5. Het oplichten met auto’s is niet toegestaan. Hier valt onder het ruilen van auto’s, of het verkopen van auto’s en het voertuig niet geven. Ook het liegen over tunes en de staat van de auto is niet toegestaan.
+
 > Straf ⇨ Categorie 3: een ban van 2 dagen
 
 ### Artikel  25 - Overval Regels
@@ -218,6 +236,7 @@ Voor overheidsmedewerkers is het niet toegestaan om zich op welke manier dan ook
 1. Het is alleen toegestaan om iemand te liquideren als het slachtoffer in kennis is van de reden hierachter. Het is dus de bedoeling dat dit aan het slachtoffer duidelijk wordt gemaakt <b>voor</b> hij geliquideerd wordt.
 2. Als je van het leven bent beroofd is het niet toegestaan om in de komende 24 uur na deze actie mee te doen aan eventuele wraakacties op de persoon en/of groep die jou van het leven heeft beroofd.
 3. Wraak mag enkel binnen 48 uur na het scenario plaatsvinden.
+
 > Straf ⇨ Categorie 2: een ban van 1 dag
 
 ### Artikel 27 - Overvallen
@@ -231,11 +250,13 @@ Voor overheidsmedewerkers is het niet toegestaan om zich op welke manier dan ook
    * Indien de politie begonnen is met het neerzetten van de afzetting, of een voertuig dwars gezet heeft, moeten ze deze ook meteen afmaken!
 8. Je mag iemand maximaal 30 minuten gehostaged houden totdat het roleplay scenario gestart wordt (gijzeling voor wraak redenen valt hier niet onder).
 9. Het is niet toegestaan om na een overval met een voertuig in of achter de achtervolging aan te rijden.
+
 > Straf ⇨ Categorie 4
 
 ### Artikel 28 - Campen
 1. Het is niet toegestaan om te campen op een locatie betrokken bij illegale praktijken met de intentie om bijvoorbeeld mensen te overvallen of te vermoorden. Dit geldt ook voor het witwas depot. 
 2. Onder lid 1 wordt verstaan: wanneer jij verdacht lang binnen 100 meter van een locatie bent zonder goede aanleiding. Dit geldt ook voor overheidsdiensten.
+
 > Straf ⇨ Categorie 2
 
 ### Artikel 29  - Rippen
@@ -247,6 +268,7 @@ Voor overheidsmedewerkers is het niet toegestaan om zich op welke manier dan ook
 6. Airdrops mogen geript worden. Let op! Dit is geen combat gebied. Je mag rippen, maar geen onnodig geweld gebruiken.
 7.  Wapens terugrippen, nadat deze zijn afgenomen door een overheidsinstantie, mag alleen op de volgende manier: 
       * Om wapens terug te kunnen eisen, mogen alleen hoofd-agenten of hoger ontvoerd worden, of donkerblauwe KMAR. LET OP: Het is niet de bedoeling om elke agent van de straat te halen, om diens rang te checken.
+
 > Straf ⇨ Categorie 2
 
 ### Artikel 30 - Witwassen
@@ -254,7 +276,8 @@ Voor overheidsmedewerkers is het niet toegestaan om zich op welke manier dan ook
 2. Je mag handelen op de meldingen vanuit de witwas app op de volgende manieren:
    * Wanneer het kenteken overeenkomt met het kenteken die je hebt ontvangen in de melding.
    * De witwasser mag alleen overvallen worden binnen een tijdsbestek van een uur.
-3.  De melding dient geclipt te zijn. 
+3.  De melding dient geclipt te zijn.
+
 > Straf ⇨ Categorie 2
 
 ## Overige bepalingen
@@ -264,6 +287,7 @@ Voor overheidsmedewerkers is het niet toegestaan om zich op welke manier dan ook
     * Burgers kunnen alleen met fysieke camera's, zoals met /e camera of de camera van hen telefoon een bodycam gebruiken.
     * Overheidsvoertuigen zijn uitgerust met dashcams.
 2. Voor de afhandeling van staffzaken mag elke manier van videomateriaal gebruikt worden en zijn de bovenstaande voorwaarden dus niet van toepassing.
+
 > Straf ⇨ Categorie 1
 
 ### Artikel 31 - Herkenning
@@ -274,6 +298,7 @@ Voor overheidsmedewerkers is het niet toegestaan om zich op welke manier dan ook
 2. Het is alleen toegestaan om iemand aan zijn kleding te herkennen indien de persoon geen gezichtsbedekkende kleding draagt en overduidelijk een identieke outfit heeft.
 3. Bij lid 1 en 2 moet altijd aantoonbaar zijn dat je de persoon daadwerkelijk in de roleplay kan herkennen.
 4. Het is toegestaan om gebruik te maken van een zogenoemde voicechanger om jezelf onherkenbaar te maken. Dit mag alleen als je ook nog duidelijk te verstaan bent en het is niet toegestaan om onrealistische geluidseffecten te gebruiken zoals robotstemmen, babystemmen of andere storende effecten.
+
 > Straf ⇨ Categorie 2
 
 ### Artikel 32 - Alternatieve karakters
@@ -283,6 +308,7 @@ Voor overheidsmedewerkers is het niet toegestaan om zich op welke manier dan ook
 	* Een nieuw account aanmaken om het startersbedrag over te schrijven naar je lopende account.
 	* Een nieuw account aanmaken om opnieuw te beginnen. Hiervoor dient een ticket aangemaakt te worden.
 3. Ook accountsharing is niet toegestaan.
+
 > Straf ⇨ Categorie 6 + eventuele accountwipe
 
 ### Artikel 33 - Wisselen van baan
@@ -294,13 +320,15 @@ Wanneer je van overheidsbaan naar overheidsbaan, van een verified/officiele groe
 3. Het is niet toegestaan goederen van andere spelers aan te nemen of spullen weg te geven, wanneer deze de stad uit gaat. Dit geldt voor ALLE goederen. 
 4. Hieronder wordt ook het aanbieden of vragen naar verstaan.
 5. Het vragen naar startersgeld e.d. is niet toegestaan.
+
 > Straf ⇨ Categorie 7
 
 ### Artikel 35 - Bedrijven/huizen
 1. Het is niet toegestaan om eigenaar te zijn van twee bedrijven
 2. Het is niet toegestaan om meer dan 10% van de vraagprijs te vragen voor huizen. Het inwisselen van voertuigen, wapens of iets dergelijks bovenop de vraagprijs is ook niet toegestaan. 
 3. De bedrijven mogen niet verkocht worden. Dit gaat enkel via de Gemeente.
-4. Je mag maximaal 1 huis op je naam staan, met uitzondering van gangbazen. Zij mogen er twee in verband met de gangpot (exclusief officiële gangs). 
+4. Je mag maximaal 1 huis op je naam staan, met uitzondering van gangbazen. Zij mogen er twee in verband met de gangpot (exclusief officiële gangs).
+
 > Straf ⇨ Categorie 5
   
 ### Artikel 36 - Graphic packs
@@ -313,4 +341,5 @@ Het gebruik van bepaalde soorten graphic packs en beeldscherminstellingen kunnen
 5. Kill Effect Packs: Het is niet toegestaan om graphic packs te gebruiken die een visueel effect toevoegen bij het doden van een ander personage in het spel.
 6. Potato Graphic Packs: Het gebruik van zogenaamde 'Potato Graphic Packs', waarbij bepaalde grafische elementen zoals bosjes en dergelijke kleiner worden weergegeven dan standaard, is verboden.
 7. Het gebruik van NVE is toegestaan zolang het binnen alle bovenstaande regels valt.
+
 > Straf ⇨ Categorie 6
