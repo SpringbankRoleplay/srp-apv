@@ -1,6 +1,6 @@
 # Algemene Plaatselijke Verordening van Springbank Roleplay
 
-===============
+=======================================================================================
 
 **In het Algemene Plaatselijke Verordering van Springbank Roleplay, hierna genoemd APV, zijn de wet- en regelgevingen die gelden binnen de gehele stad Springbank opgenomen. Bij het intrekken binnen Springbank gaat u automatisch akkoord met deze wet- en regelgeving.**
 
@@ -25,10 +25,10 @@
 ### Artikel 1 - Fail-RP en Powergaming
 **FailRP:** Het is niet toegestaan om opzettelijk een roleplay van slechte kwaliteit uit te spelen of de roleplay te verstoren. Je behoort je aan te passen aan de situatie waar jij je in bevindt.<br/><br/>
 ***Voorbeelden van FailRP zijn, maar niet beperkt tot:***
-1. Tijdens een achtervolging je voertuig in de garage zetten om te voorkomen dat je herkend wordt.
+1. Tijdens een achtervolging je voertuig in de garage zetten om te voorkomen dat je herkend wordt. 
 2. Het expres slecht/niet afmaken van een scenario of te verstoren, ondanks de situatie. Ook het verstoren/belemmeren van overheidsmedewerkers hoort hierbij. 
-3. Het stelen uit kofferbakken. Dit mag alleen met goeie aanleiding en door iemand te handsuppen. 
-4. Het niet realistisch reageren op je verwondingen. Als je crashbeeld verdwenen is, mag en kan je weer verder met het scenario. Als je een crashbeeld hebt gekregen in een achtervolging, moet je zowel als crimineel, als overheid afkoppelen.<br/><br/>
+4. Het stelen uit kofferbakken. Dit mag alleen met goeie aanleiding en door iemand te handsuppen. 
+5. Het niet realistisch reageren op je verwondingen. Als je crashbeeld verdwenen is, mag en kan je weer verder met het scenario. Als je een crashbeeld hebt gekregen in een achtervolging, moet je zowel als crimineel, als overheid afkoppelen.<br/><br/>
 
 **Powergaming:** Het is niet toegestaan om opzettelijk de roleplay op een oneerlijke of onrealistische manier te vormen, bijvoorbeeld door de verhaallijn op een onnatuurlijke manier te veranderen of door onrealistische dwang uit te oefenen op de andere partij.<br/><br/>
 ***Voorbeelden van Powergaming zijn, maar niet beperkt tot:***
