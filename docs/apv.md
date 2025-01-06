@@ -294,7 +294,7 @@ Voor overheidsmedewerkers is het niet toegestaan om zich op welke manier dan ook
 
 > Straf ⇨ Categorie 1
 
-### Artikel 31 - Herkenning
+### Artikel 32 - Herkenning
 1. Het is alleen toegestaan om iemand aan zijn/haar stem te herkennen, indien dit onder de volgende voorwaarden valt:
     * Je moet de persoon daadwerkelijk kennen. Het herkennen van een stem van een content creator is bijvoorbeeld niet toegestaan.
     * Indien een persoon een voicechanger aan heeft ten behoeve van de roleplay is het niet toegestaan om de stem door de voicechanger heen te herkennen.
@@ -305,7 +305,7 @@ Voor overheidsmedewerkers is het niet toegestaan om zich op welke manier dan ook
 
 > Straf ⇨ Categorie 2
 
-### Artikel 32 - Alternatieve karakters
+### Artikel 33 - Alternatieve karakters
 1. Het is niet toegestaan om gebruik te maken van alternatieve accounts ('alt accounts') om enig voordeel te behalen.
 2. Enkele voorbeelden hiervan zijn maar niet beperkt tot:
 	* Een nieuw account aanmaken om een ban te omzijlen.
@@ -315,10 +315,10 @@ Voor overheidsmedewerkers is het niet toegestaan om zich op welke manier dan ook
 
 > Straf ⇨ Categorie 6 + eventuele accountwipe
 
-### Artikel 33 - Wisselen van baan
+### Artikel 34 - Wisselen van baan
 Wanneer je van overheidsbaan naar overheidsbaan, van een verified/officiele groepering naar overheid of andersom wilt wisselen, dan dien je 7 dagen te wachten vanaf het moment van ontslag tot aan je eerste startdag. 
 
-### Artikel 34 - Real life trading
+### Artikel 35 - Real life trading
 1. Het is nooit toegestaan om goederen in Springbank (in de breedste zin) te verkopen, kopen of ruilen tegen echt geld en/of goederen buiten het spel om. 
 2. Het is ook niet toegestaan donatievoertuigen te ruilen voor andere (donatie)spullen.
 3. Het is niet toegestaan goederen van andere spelers aan te nemen of spullen weg te geven, wanneer deze de stad uit gaat. Dit geldt voor ALLE goederen. 
@@ -327,7 +327,7 @@ Wanneer je van overheidsbaan naar overheidsbaan, van een verified/officiele groe
 
 > Straf ⇨ Categorie 7
 
-### Artikel 35 - Bedrijven/huizen
+### Artikel 36 - Bedrijven/huizen
 1. Het is niet toegestaan om eigenaar te zijn van twee bedrijven
 2. Het is niet toegestaan om meer dan 10% van de vraagprijs te vragen voor huizen. Het inwisselen van voertuigen, wapens of iets dergelijks bovenop de vraagprijs is ook niet toegestaan. 
 3. De bedrijven mogen niet verkocht worden. Dit gaat enkel via de Gemeente.
@@ -335,7 +335,7 @@ Wanneer je van overheidsbaan naar overheidsbaan, van een verified/officiele groe
 
 > Straf ⇨ Categorie 5
   
-### Artikel 36 - Graphic packs
+### Artikel 37 - Graphic packs
 Het gebruik van bepaalde soorten graphic packs en beeldscherminstellingen kunnen een oneerlijk voordeel opleveren of de spelervaring voor anderen negatief beïnvloeden. Daarom is het gebruik van de volgende soorten graphic packs en beeldscherminstellingen verboden:
 
 1. Permanente Daglicht Packs: Het is niet toegestaan om graphic packs te gebruiken die ervoor zorgen dat het in de virtuele omgeving altijd licht is, zodoende het nacht-en-dag cyclus te omzeilen.
