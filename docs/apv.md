@@ -200,6 +200,7 @@ Binnen de greenzone is het verboden om enige vorm van geweld te gebruiken.
 
 ### Artikel 23 - Criminaliteit & Ambtenaren
 Voor overheidsmedewerkers is het niet toegestaan om zich op welke manier dan ook bezig te houden met illegale praktijken of illegale spullen in bezit te hebben, als dit niet ten behoeve is van de uitvoering van hun baan. Voorafgaand aan de start bij de overheidsbaan is het vereist dat medewerkers geen illegale zaken meer in hun bezit hebben, zij hebben 24 uur om in overleg met hun baas zich te ontdoen van deze spullen.
+
 1. Het is niet toegestaan om in het bezit te zijn van objecten die afkomstig zijn van een overheidsdienst, wanneer je niet in dienst bent. 
 2. Een uitzondering geldt voor medewerkers van de politie die een specialistische training hebben gehad. Deze medewerkers mogen wel hun dienstwapens buiten hun dienst dragen ten behoeve van de uitvoering van het werk.
 
@@ -209,8 +210,8 @@ Voor overheidsmedewerkers is het niet toegestaan om zich op welke manier dan ook
 ### Artikel 24 - Overvallen & Oplichten
 1. Het is alleen toegestaan om iemand te overvallen en/of te bestelen indien deze persoon bezig is met criminele activiteiten. Hier moet je concreet (aantoonbaar) bewijs van hebben (beeldmateriaal), ook als iemand een call maakt. Indien dit er niet is, wordt het scenario teruggedraaid.
 2. Onder criminele activiteiten in deze context worden onder andere de volgende voorbeelden verstaan:
-* Activiteiten rondom drugs, overvallen of witwassen. Je moet diegene aantoonbaar hebben zien staan op een illegale locatie, zoals de pluk en verwerk, of horen praten over illegale praktijken. 
-* Het dragen van volledig gezichtsbedekkende kleding (motorhelm wanneer iemand op een motor rijdt telt hierbij niet), een kogelwerend vest of een wapenholster.
+    * Activiteiten rondom drugs, overvallen of witwassen. Je moet diegene aantoonbaar hebben zien staan op een illegale locatie, zoals de pluk en verwerk, of horen praten over illegale praktijken. 
+    * Het dragen van volledig gezichtsbedekkende kleding (motorhelm wanneer iemand op een motor rijdt telt hierbij niet), een kogelwerend vest of een wapenholster.
 3. De volgende zaken mogen nooit gestolen en/of overvallen worden:
 	* Geld wat op de bank staat.
 	* Drugsloodsen.
@@ -268,7 +269,7 @@ Voor overheidsmedewerkers is het niet toegestaan om zich op welke manier dan ook
 5. Het is niet toegestaan om iemand te rippen en daarna te vermoorden. Indien je iemand om een andere (geldige) reden wel vermoord, dien je de spullen te droppen. 
 6. Airdrops mogen geript worden. Let op! Dit is geen combat gebied. Je mag rippen, maar geen onnodig geweld gebruiken.
 7.  Wapens terugrippen, nadat deze zijn afgenomen door een overheidsinstantie, mag alleen op de volgende manier: 
-      * Om wapens terug te kunnen eisen, mogen alleen hoofd-agenten of hoger ontvoerd worden, of donkerblauwe KMAR. LET OP: Het is niet de bedoeling om elke agent van de straat te halen, om diens rang te checken.
+    * Om wapens terug te kunnen eisen, mogen alleen hoofd-agenten of hoger ontvoerd worden, of donkerblauwe KMAR. LET OP: Het is niet de bedoeling om elke agent van de straat te halen, om diens rang te checken.
 
 > Straf ⇨ Categorie 2
 
