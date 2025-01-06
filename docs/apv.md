@@ -149,7 +149,8 @@ De in-game functie om spelers te rapporteren en bugs of vragen in te dienen (/re
 ### Artikel 17 - Greenzone
 Binnen de greenzone is het verboden om enige vorm van geweld te gebruiken.
 
-* Het is niet toegestaan om een greenzone in te vluchten. Indien dit wel gebeurd, mag het scenario daar worden verder gezet.  
+* Het is niet toegestaan om een greenzone in te vluchten. Indien dit wel gebeurd, mag het scenario daar worden verder gezet.
+
 **De volgende locaties worden gezien als een greenzone:**
 
 * Pechhulp
