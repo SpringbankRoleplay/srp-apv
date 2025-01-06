@@ -21,17 +21,17 @@
 ### Artikel 1 - Fail-RP en Powergaming
 <b>FailRP:</b> Het is niet toegestaan om opzettelijk een roleplay van slechte kwaliteit uit te spelen of de roleplay te verstoren. Je behoort je aan te passen aan de situatie waar jij je in bevindt.<br/> 
 <i>Voorbeelden van FailRP zijn, maar niet beperkt tot:</i>
-* Tijdens een achtervolging je voertuig in de garage zetten om te voorkomen dat je herkend wordt.
-* Het expres slecht/niet afmaken van een scenario of te verstoren, ondanks de situatie. Ook het verstoren/belemmeren van overheidsmedewerkers hoort hierbij. 
-* Het stelen uit kofferbakken. Dit mag alleen met goeie aanleiding en door iemand te handsuppen. 
-* Het niet realistisch reageren op je verwondingen. Als je crashbeeld verdwenen is, mag en kan je weer verder met het scenario. Als je een crashbeeld hebt gekregen in een achtervolging, moet je zowel als crimineel, als overheid afkoppelen. 
+- Tijdens een achtervolging je voertuig in de garage zetten om te voorkomen dat je herkend wordt.
+- Het expres slecht/niet afmaken van een scenario of te verstoren, ondanks de situatie. Ook het verstoren/belemmeren van overheidsmedewerkers hoort hierbij. 
+- Het stelen uit kofferbakken. Dit mag alleen met goeie aanleiding en door iemand te handsuppen. 
+- Het niet realistisch reageren op je verwondingen. Als je crashbeeld verdwenen is, mag en kan je weer verder met het scenario. Als je een crashbeeld hebt gekregen in een achtervolging, moet je zowel als crimineel, als overheid afkoppelen. 
 > Straf ⇨ Categorie 2
 
 <b>Powergaming:</b> Het is niet toegestaan om opzettelijk de roleplay op een oneerlijke of onrealistische manier te vormen, bijvoorbeeld door de verhaallijn op een onnatuurlijke manier te veranderen of door onrealistische dwang uit te oefenen op de andere partij.<br/>
 <i>Voorbeelden van Powergaming zijn, maar niet beperkt tot:</i>
-* Een agent ontvoeren om een signalering te verwijderen of om iets te bekijken in het politiesysteem (MEOS). Een ambulancier handsuppen om wapens te krijgen van een gewond persoon, of een pechhulp medewerker te handsuppen om een auto open te breken. 
-* Het gebruiken van enkel /me commands om een actie uit te voeren. Je moet dit met roleplay en door het uit te spreken uitvoeren. Dus niet ‘’ik ga je even vastbinden’’ terwijl je aan het rijden bent, maar naast iemand gaan staan, bijvoorbeeld /e mechanic en dan: ik ga je even vastbinden /me pakt boeien, ik doe ze nu om. 
-* Het gebruiken van de Z-spier om spelers te vinden tijdens scenario’s.
+- Een agent ontvoeren om een signalering te verwijderen of om iets te bekijken in het politiesysteem (MEOS). Een ambulancier handsuppen om wapens te krijgen van een gewond persoon, of een pechhulp medewerker te handsuppen om een auto open te breken. 
+- Het gebruiken van enkel /me commands om een actie uit te voeren. Je moet dit met roleplay en door het uit te spreken uitvoeren. Dus niet ‘’ik ga je even vastbinden’’ terwijl je aan het rijden bent, maar naast iemand gaan staan, bijvoorbeeld /e mechanic en dan: ik ga je even vastbinden /me pakt boeien, ik doe ze nu om. 
+- Het gebruiken van de Z-spier om spelers te vinden tijdens scenario’s.
 > Straf ⇨ Categorie 2
 
 ### Artikel 2 - Cheats
@@ -131,7 +131,7 @@ Het is niet toegestaan om onrealistische rijstijlen aan te nemen. Enkele voorbee
 ### Artikel 17 - Greenzone
 Binnen de greenzone is het verboden om enige vorm van geweld te gebruiken. 
 * Het is niet toegestaan om een greenzone in te vluchten. Indien dit wel gebeurd, mag het scenario daar worden verder gezet.  
-<b> De volgende locaties worden gezien als een greenzone: </b>
+<b>De volgende locaties worden gezien als een greenzone:</b>
 * Pechhulp
 * Ziekenhuis
 * Gemeentehuis en het winkelcentrum
@@ -192,7 +192,7 @@ Voor overheidsmedewerkers is het niet toegestaan om zich op welke manier dan ook
 4. Je mag alleen scammen als het om illegale goederen gaat, er een wapen bij betrokken is en je het in een roleplay scenario doet.
 	* Bijvoorbeeld: A verkoopt een wapen aan B, B ript het wapen, of A ript het terug met behulp van anderen. Hands up is vereist.
 	* Scams zijn alleen toegestaan tot een maximum van 2 miljoen. Dit betekent dat de totale waarde van de scam, inclusief goederen of geld, niet meer dan 2 miljoen mag bedragen.
-        * Geld of spullen uitlenen is op EIGEN RISICO!
+      * Geld of spullen uitlenen is op EIGEN RISICO!
 5. Het oplichten met auto’s is niet toegestaan. Hier valt onder het ruilen van auto’s, of het verkopen van auto’s en het voertuig niet geven. Ook het liegen over tunes en de staat van de auto is niet toegestaan.
 > Straf ⇨ Categorie 3: een ban van 2 dagen
 
@@ -218,7 +218,7 @@ Voor overheidsmedewerkers is het niet toegestaan om zich op welke manier dan ook
 5. Het is niet toegestaan om een onderhandelaar te gijzelen.
 6. Hypercars en supercars mogen niet gebruikt worden bij overvallen.
 7. Een overval mag gecountered worden, totdat de politie of KMAR is begonnen met de afzetting of een voertuig dwars neergezet is. 
-* Indien de politie begonnen is met het neerzetten van de afzetting, of een voertuig dwars gezet heeft, moeten ze deze ook meteen afmaken!
+   * Indien de politie begonnen is met het neerzetten van de afzetting, of een voertuig dwars gezet heeft, moeten ze deze ook meteen afmaken!
 8. Je mag iemand maximaal 30 minuten gehostaged houden totdat het roleplay scenario gestart wordt (gijzeling voor wraak redenen valt hier niet onder).
 9. Het is niet toegestaan om na een overval met een voertuig in of achter de achtervolging aan te rijden.
 > Straf ⇨ Categorie 4
@@ -242,8 +242,8 @@ Voor overheidsmedewerkers is het niet toegestaan om zich op welke manier dan ook
 ### Artikel 30 - Witwassen
 1. Witwassers overvallen is toegestaan wanneer iemand geen passende kleding draagt bij de ‘’job’’ die diegene uitvoert, diegene toetert terwijl hij stilstaat of je een melding krijgt van de witwas app.
 2. Je mag handelen op de meldingen vanuit de witwas app op de volgende manieren:
- * Wanneer het kenteken overeenkomt met het kenteken die je hebt ontvangen in de melding.
-  * De witwasser mag alleen overvallen worden binnen een tijdsbestek van een uur.
+   * Wanneer het kenteken overeenkomt met het kenteken die je hebt ontvangen in de melding.
+   * De witwasser mag alleen overvallen worden binnen een tijdsbestek van een uur.
 3.  De melding dient geclipt te zijn. 
 > Straf ⇨ Categorie 2
 
