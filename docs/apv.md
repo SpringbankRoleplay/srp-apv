@@ -29,7 +29,7 @@
 
 <b>Powergaming:</b> Het is niet toegestaan om opzettelijk de roleplay op een oneerlijke of onrealistische manier te vormen, bijvoorbeeld door de verhaallijn op een onnatuurlijke manier te veranderen of door onrealistische dwang uit te oefenen op de andere partij.
 <i> Voorbeelden van Powergaming zijn, maar niet beperkt tot: </i>
-*Een agent ontvoeren om een signalering te verwijderen of om iets te bekijken in het politiesysteem (MEOS). Een ambulancier handsuppen om wapens te krijgen van een gewond persoon, of een pechhulp medewerker te handsuppen om een auto open te breken. 
+* Een agent ontvoeren om een signalering te verwijderen of om iets te bekijken in het politiesysteem (MEOS). Een ambulancier handsuppen om wapens te krijgen van een gewond persoon, of een pechhulp medewerker te handsuppen om een auto open te breken. 
 * Het gebruiken van enkel /me commands om een actie uit te voeren. Je moet dit met roleplay en door het uit te spreken uitvoeren. Dus niet ‘’ik ga je even vastbinden’’ terwijl je aan het rijden bent, maar naast iemand gaan staan, bijvoorbeeld /e mechanic en dan: ik ga je even vastbinden /me pakt boeien, ik doe ze nu om. 
 * Het gebruiken van de Z-spier om spelers te vinden tijdens scenario’s.
 
@@ -188,8 +188,8 @@ Voor overheidsmedewerkers is het niet toegestaan om zich op welke manier dan ook
 	* Geld wat op de bank staat.
 	* Drugsloodsen.
 	* Onder dwang iemand zijn huis betreden en leegroven.
-                * De inhoud van kluizen van verified of offi gangs of bedrijven.
-                * De inhoud van voertuigen, tenzij je de persoon met dat voertuig iets illegaals hebt zien doen en aantoonbaar hebt achtervolgd. 
+        * De inhoud van kluizen van verified of offi gangs of bedrijven.
+        * De inhoud van voertuigen, tenzij je de persoon met dat voertuig iets illegaals hebt zien doen en aantoonbaar hebt achtervolgd. 
 4. Je mag alleen scammen als het om illegale goederen gaat, er een wapen bij betrokken is en je het in een roleplay scenario doet.
 	* Bijvoorbeeld: A verkoopt een wapen aan B, B ript het wapen, of A ript het terug met behulp van anderen. Hands up is vereist.
 	* Scams zijn alleen toegestaan tot een maximum van 2 miljoen. Dit betekent dat de totale waarde van de scam, inclusief goederen of geld, niet meer dan 2 miljoen mag bedragen.
@@ -267,7 +267,6 @@ Voor overheidsmedewerkers is het niet toegestaan om zich op welke manier dan ook
 4. Het is toegestaan om gebruik te maken van een zogenoemde voicechanger om jezelf onherkenbaar te maken. Dit mag alleen als je ook nog duidelijk te verstaan bent en het is niet toegestaan om onrealistische geluidseffecten te gebruiken zoals robotstemmen, babystemmen of andere storende effecten.
 > Straf ⇨ Categorie 2
 
-
 ### Artikel 32 - Alternatieve karakters
 1. Het is niet toegestaan om gebruik te maken van alternatieve accounts ('alt accounts') om enig voordeel te behalen.
 2. Enkele voorbeelden hiervan zijn maar niet beperkt tot:
@@ -296,7 +295,7 @@ Wanneer je van overheidsbaan naar overheidsbaan, van een verified/officiele groe
 > Straf ⇨ Categorie 5
   
 ### Artikel 36 - Graphic packs
-Het gebruik van bepaalde soorten graphic packs en beeldscherminstellingen kunnen een oneerlijk voordeel opleveren of de spelervaring voor anderen negatief beïnvloeden. Daarom is het gebruik van de volgende soorten graphic packs en beeldscherminstellingen verboden:
+Het gebruik van bepaalde soorten graphic packs en beeldscherminstellingen kunnen een oneerlijk voordeel opleveren of de spelervaring voor anderen negatief beïnvloeden. Daarom is het gebruik van de volgende soorten graphic packs en beeldscherminstellingen verboden:<br/><br/>
 1. Permanente Daglicht Packs: Het is niet toegestaan om graphic packs te gebruiken die ervoor zorgen dat het in de virtuele omgeving altijd licht is, zodoende het nacht-en-dag cyclus te omzeilen.
 2. Kogel Tracer Packs: Het is niet toegestaan om graphic packs te gebruiken die de tracers van kogels zichtbaar maken, hetgeen een nadelige invloed kan hebben op de spelbeleving.
 3. Custom beeldverhouding: Het is niet toegestaan om de beeldscherm instellingen op een custom beeldverhouding in te stellen, waardoor grafische elementen disproportioneel breder worden weergegeven. Je moet de juiste beeldverhouding kiezen die past bij je scherm, deze wordt automatisch gedaan met de "Auto" optie.
