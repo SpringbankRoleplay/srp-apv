@@ -129,8 +129,10 @@ Dit is ook van toepassing op de volgende punten:
 
 ### Artikel 15 - Deelname aan het verkeer
 Het is niet toegestaan om onrealistische rijstijlen aan te nemen. Enkele voorbeelden hiervan zijn, maar niet beperkt tot:
+
 * Gebruik maken van de zogenoemde 'jumps' of 'ramps' verpreid door de stad.
 * Alle voertuigen mogen op onverharde wegen rijden met een max van 100 km/u. Speciale off-road of semi-off road voertuigen mogen harder dan 100 km/u over de onverharde wegen. Volledige off-road mag alleen met een daarvoor bestemde auto.
+
 **Voor pitten geldt het volgende:**
 
 1. Indien je een voertuig inzet om een zogenoemde pit uit te voeren is dit alleen toegestaan als de snelheid lager is dan 100 km/u en moet dit op een verantwoorde wijze gaan.
