@@ -19,16 +19,16 @@
 
 ## Openbare orde
 ### Artikel 1 - Fail-RP en Powergaming
-<b>FailRP:</b> Het is niet toegestaan om opzettelijk een roleplay van slechte kwaliteit uit te spelen of de roleplay te verstoren. Je behoort je aan te passen aan de situatie waar jij je in bevindt. 
-<i> Voorbeelden van FailRP zijn, maar niet beperkt tot: </i>
+<b>FailRP:</b> Het is niet toegestaan om opzettelijk een roleplay van slechte kwaliteit uit te spelen of de roleplay te verstoren. Je behoort je aan te passen aan de situatie waar jij je in bevindt.<br/> 
+<i>Voorbeelden van FailRP zijn, maar niet beperkt tot:</i>
 * Tijdens een achtervolging je voertuig in de garage zetten om te voorkomen dat je herkend wordt.
 * Het expres slecht/niet afmaken van een scenario of te verstoren, ondanks de situatie. Ook het verstoren/belemmeren van overheidsmedewerkers hoort hierbij. 
 * Het stelen uit kofferbakken. Dit mag alleen met goeie aanleiding en door iemand te handsuppen. 
 * Het niet realistisch reageren op je verwondingen. Als je crashbeeld verdwenen is, mag en kan je weer verder met het scenario. Als je een crashbeeld hebt gekregen in een achtervolging, moet je zowel als crimineel, als overheid afkoppelen. 
-* > Straf ⇨ Categorie 2
+> Straf ⇨ Categorie 2
 
-<b>Powergaming:</b> Het is niet toegestaan om opzettelijk de roleplay op een oneerlijke of onrealistische manier te vormen, bijvoorbeeld door de verhaallijn op een onnatuurlijke manier te veranderen of door onrealistische dwang uit te oefenen op de andere partij.
-<i> Voorbeelden van Powergaming zijn, maar niet beperkt tot: </i>
+<b>Powergaming:</b> Het is niet toegestaan om opzettelijk de roleplay op een oneerlijke of onrealistische manier te vormen, bijvoorbeeld door de verhaallijn op een onnatuurlijke manier te veranderen of door onrealistische dwang uit te oefenen op de andere partij.<br/>
+<i>Voorbeelden van Powergaming zijn, maar niet beperkt tot:</i>
 * Een agent ontvoeren om een signalering te verwijderen of om iets te bekijken in het politiesysteem (MEOS). Een ambulancier handsuppen om wapens te krijgen van een gewond persoon, of een pechhulp medewerker te handsuppen om een auto open te breken. 
 * Het gebruiken van enkel /me commands om een actie uit te voeren. Je moet dit met roleplay en door het uit te spreken uitvoeren. Dus niet ‘’ik ga je even vastbinden’’ terwijl je aan het rijden bent, maar naast iemand gaan staan, bijvoorbeeld /e mechanic en dan: ik ga je even vastbinden /me pakt boeien, ik doe ze nu om. 
 * Het gebruiken van de Z-spier om spelers te vinden tijdens scenario’s.
