@@ -15,7 +15,6 @@ De volgende regelgeving is alleen van toepassing op het eiland van Springbank Ro
 1. Het is niet toegestaan om actieve drugs locaties te campen om hier voordeel uit te behalen, bijvoorbeeld door te wachten op iemand om te beroven.
 2. Het is wel toegestaan om bij de wapendealer NPC te campen.
 
- ### Artikel 3 - Rippen
-1. Rippen en handsuppen is op het gehele eiland toegestaan 
+### Artikel 3 - Rippen
 
-
+1. Rippen en handsuppen is op het gehele eiland toegestaan

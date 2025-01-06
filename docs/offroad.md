@@ -14,6 +14,7 @@ Alle voertuigen die niet zijn opgenomen in dit document zijn standaard van de kl
 
 ### Onverharde wegen
 Elk voertuig mag op onverharde wegen rijden t/nm 100 km/u. De voertuigen hieronder mogen zonder limiet op onverharde wegen rijden:
+
  * Aanhanger
  * Albany Cavcade XL
  * Albany Cavcade XL
