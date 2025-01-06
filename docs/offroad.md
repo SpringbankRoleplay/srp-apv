@@ -7,12 +7,13 @@ Op deze pagina zijn verschillende voertuigen opgenomen met een bijhorende klassi
 |---|---|
 | Verharde wegen | alle wegen die geasfalteerd zijn of een betonnen vloer hebben |
 | Onverharde wegen | alle onverharde wegen waar de ondergrond uit (hard) zand bestaat |
-| Off-Road wegen | alle onverharde wegen waar de ondergrond uit gras, modder of dergelijk bestaat en er geen weg zichtbaar is |
+| Off-Road wegen | alle onverharde wegen waar de ondergrond uit gras, modder of dergelijk bestaat en er geen weg zichtbaar is. Ook de ondergrondse tunnels horen hier bij. |
 
 Alle voertuigen die niet zijn opgenomen in dit document zijn standaard van de klasse "Verharde wegen".
 > Straf ⇨ Categorie 1: een waarschuwing
 
 ### Onverharde wegen
+Elk voertuig mag op onverharde wegen rijden t/nm 100 km/u. De voertuigen hieronder mogen zonder limiet op onverharde wegen rijden:
  * Aanhanger
  * Albany Cavcade XL
  * Albany Cavcade XL
