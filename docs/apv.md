@@ -26,6 +26,7 @@
 * Het stelen uit kofferbakken. Dit mag alleen met goeie aanleiding en door iemand te handsuppen. 
 * Het niet realistisch reageren op je verwondingen. Als je crashbeeld verdwenen is, mag en kan je weer verder met het scenario. Als je een crashbeeld hebt gekregen in een achtervolging, moet je zowel als crimineel, als overheid afkoppelen. 
 > Straf ⇨ Categorie 2
+
 <b>Powergaming:</b> Het is niet toegestaan om opzettelijk de roleplay op een oneerlijke of onrealistische manier te vormen, bijvoorbeeld door de verhaallijn op een onnatuurlijke manier te veranderen of door onrealistische dwang uit te oefenen op de andere partij.
 <i> Voorbeelden van Powergaming zijn, maar niet beperkt tot: </i>
 *Een agent ontvoeren om een signalering te verwijderen of om iets te bekijken in het politiesysteem (MEOS). Een ambulancier handsuppen om wapens te krijgen van een gewond persoon, of een pechhulp medewerker te handsuppen om een auto open te breken. 
@@ -40,7 +41,8 @@
 ### Artikel 3 - Bugs en exploits
 <b> Het is niet toegestaan om opzettelijk misbruik te maken van een bug/exploit om voordeel voor jouzelf of anderen te behalen. </b>
 Voorbeelden van bugs/exploits zijn: misbruiken van bepaalde animaties (zoals het schoppen vanaf een motor of emote bug abuse om te glitchen), dupliceren van items, in het algemeen het misbruik maken van een bug om daar je voordeel uit te halen. 
->i< Wanneer het managementteam van mening is dat het misbruik van de bug en/of exploit te veel invloed heeft op de economie, kunnen zij besluiten om af te wijken van de standaard strafmaatregelen. In dit geval zal er een grondig onderzoek plaatsvinden naar de omstandigheden en gevolgen van het misbruik. Op basis van dit onderzoek kan er besloten worden om af te zien van de standaard strafmaatregelen en een passende alternatieve maatregel te nemen, zoals een account wipe. >/i<
+
+<i> Wanneer het managementteam van mening is dat het misbruik van de bug en/of exploit te veel invloed heeft op de economie, kunnen zij besluiten om af te wijken van de standaard strafmaatregelen. In dit geval zal er een grondig onderzoek plaatsvinden naar de omstandigheden en gevolgen van het misbruik. Op basis van dit onderzoek kan er besloten worden om af te zien van de standaard strafmaatregelen en een passende alternatieve maatregel te nemen, zoals een account wipe. </i>
 > Straf ⇨ Categorie 6 
 ### Artikel 4 - Out Of Character
 <b> Het is niet toegestaan om je karakter te breken door OOC-informatie te gebruiken in-game </b>
@@ -146,20 +148,19 @@ Binnen de greenzone is het verboden om enige vorm van geweld te gebruiken.
 ### Artikel 19 - Copbaiting
 1. Het is niet toegestaan om opzettelijk de aandacht proberen te trekken van politieagenten en/of KMar-leden of hun van hun werk proberen te houden zonder goede aanleiding.
 2. Als de politie en/of KMar je wil aanspreken voor een reguliere controle en je besluit weg te rijden, terwijl je geen illegale goederen bij je hebt, valt dit onder copbaiting.
-> Straf ⇨ Categorie 2: een ban van 1 dag
+> Straf ⇨ Categorie 2
 
 ### Artikel 20 - Impersonatie overheidsmedewerker
 1. Het is niet toegestaan om jezelf te vermommen als een overheidsmedewerker en/of te suggereren dat je een overheidsmedewerker bent.
 2. Het is toegestaan om kogel- en steekwerende vesten te dragen, zolang dit geen verwijzing heeft naar een overheidsdienst.
-> Straf ⇨ Categorie 2: een ban van 1 dag
+> Straf ⇨ Categorie 2
 
 ### Artikel 21 - Overheidsvoertuigen
 1. Het is niet toegestaan om overheidsvoertuigen te tunen.
 2. Het is alleen toegestaan om overheidsvoertuigen te besturen indien jij in dienst bent bij de desbetreffende overheidsdienst. 
-
 * Het is verplicht om, wanneer je in dienst bent, in het aangewezen voertuig rond te rijden met dienstkleding aan. 
 3. Een uitzondering op lid 2 is wanneer de diefstal van een overheidsvoertuig en het eventueel besturen hiervan ten behoeve is van een goed roleplay scenario.
-> Straf ⇨ Categorie 2: een ban van 1 dag
+> Straf ⇨ Categorie 2
 
 ### Artikel 22 - Gedrag tegen overheidsmedewerkers
 1. Er wordt verwacht dat je een eerlijke en realistische blik geeft op jouw verwondingen als je geholpen wordt door de ambulancezorg. Je gaat dus niet liegen over wat er is gebeurd.  
@@ -203,9 +204,6 @@ Voor overheidsmedewerkers is het niet toegestaan om zich op welke manier dan ook
 3. Zodra jij een overval doet en je krijgt groenlicht mag er 10min lang geen setup gegooid worden. De 10min worden gerekend vanaf het moment dat er groenlicht gegeven is. 
 4. Indien Politie/KMar bij een OV de gehele afzetting heeft geplaatst of er na 15 minuten nog geen Politie/KMar aanwezig is, mag er op eigen risico weggereden worden met de buit zonder groenlicht.
 
-
-
-
 ### Artikel 26  - Wraak en liquidaties 
 1. Het is alleen toegestaan om iemand te liquideren als het slachtoffer in kennis is van de reden hierachter. Het is dus de bedoeling dat dit aan het slachtoffer duidelijk wordt gemaakt <b>voor</b> hij geliquideerd wordt.
 2. Als je van het leven bent beroofd is het niet toegestaan om in de komende 24 uur na deze actie mee te doen aan eventuele wraakacties op de persoon en/of groep die jou van het leven heeft beroofd.
@@ -220,14 +218,10 @@ Voor overheidsmedewerkers is het niet toegestaan om zich op welke manier dan ook
 5. Het is niet toegestaan om een onderhandelaar te gijzelen.
 6. Hypercars en supercars mogen niet gebruikt worden bij overvallen.
 7. Een overval mag gecountered worden, totdat de politie of KMAR is begonnen met de afzetting of een voertuig dwars neergezet is. 
-> Indien de politie begonnen is met het neerzetten van de afzetting, of een voertuig dwars gezet heeft, moeten ze deze ook meteen afmaken!
+* Indien de politie begonnen is met het neerzetten van de afzetting, of een voertuig dwars gezet heeft, moeten ze deze ook meteen afmaken!
 8. Je mag iemand maximaal 30 minuten gehostaged houden totdat het roleplay scenario gestart wordt (gijzeling voor wraak redenen valt hier niet onder).
 9. Het is niet toegestaan om na een overval met een voertuig in of achter de achtervolging aan te rijden.
 > Straf ⇨ Categorie 4
-
-
-
-
 
 ### Artikel 28 - Campen
 1. Het is niet toegestaan om te campen op een locatie betrokken bij illegale praktijken met de intentie om bijvoorbeeld mensen te overvallen of te vermoorden. Dit geldt ook voor het witwas depot. 
@@ -251,7 +245,7 @@ Voor overheidsmedewerkers is het niet toegestaan om zich op welke manier dan ook
  * Wanneer het kenteken overeenkomt met het kenteken die je hebt ontvangen in de melding.
   * De witwasser mag alleen overvallen worden binnen een tijdsbestek van een uur.
 3.  De melding dient geclipt te zijn. 
-> Straf ⇨ Categorie 2: een ban van 1 dag
+> Straf ⇨ Categorie 2
 
 ## Overige bepalingen
 ### Artikel 31 - Bodycams
@@ -309,4 +303,4 @@ Het gebruik van bepaalde soorten graphic packs en beeldscherminstellingen kunnen
 5. Kill Effect Packs: Het is niet toegestaan om graphic packs te gebruiken die een visueel effect toevoegen bij het doden van een ander personage in het spel.
 6. Potato Graphic Packs: Het gebruik van zogenaamde 'Potato Graphic Packs', waarbij bepaalde grafische elementen zoals bosjes en dergelijke kleiner worden weergegeven dan standaard, is verboden.
 7. Het gebruik van NVE is toegestaan zolang het binnen alle bovenstaande regels valt.
-> Straf ⇨ Categorie 6: een ban van een maand
+> Straf ⇨ Categorie 6
