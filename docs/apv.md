@@ -226,7 +226,7 @@ Voor overheidsmedewerkers is het niet toegestaan om zich op welke manier dan ook
       * Geld of spullen uitlenen is op EIGEN RISICO!
 5. Het oplichten met auto’s is niet toegestaan. Hier valt onder het ruilen van auto’s, of het verkopen van auto’s en het voertuig niet geven. Ook het liegen over tunes en de staat van de auto is niet toegestaan.
 
-> Straf ⇨ Categorie 3: een ban van 2 dagen
+> Straf ⇨ Categorie 3
 
 ### Artikel  25 - Overval Regels
 1. Je krijgt per hostage 2 eisen. Er zit een max van 8 eisen bij een overval.
@@ -241,7 +241,7 @@ Voor overheidsmedewerkers is het niet toegestaan om zich op welke manier dan ook
 2. Als je van het leven bent beroofd is het niet toegestaan om in de komende 24 uur na deze actie mee te doen aan eventuele wraakacties op de persoon en/of groep die jou van het leven heeft beroofd.
 3. Wraak mag enkel binnen 48 uur na het scenario plaatsvinden.
 
-> Straf ⇨ Categorie 2: een ban van 1 dag
+> Straf ⇨ Categorie 2
 
 ### Artikel 27 - Overvallen
 1. Het is niet toegestaan om een overval te starten een half uur voor en een half uur na de restarts. 
