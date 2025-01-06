@@ -4,21 +4,18 @@ De volgende regelgeving is alleen van toepassing op het eiland van Springbank Ro
 
 ## Aanvullende regelgeving eiland
 
-### Artikel 1 - Landen van helikopters en vliegtuigen
 
-1. Het is alleen toegestaan om met je vliegtuig/heli te landen op helipads of landingsbanen.
-
-### Artikel 2 - Jurisdictie
+### Artikel 1 - Jurisdictie
 
 1. De politie heeft in het beginsel geen bevoegheden op het eiland en mag hier ook niet komen.
 2. Een uitzondering op lid 1 is voor speciale operaties van de DSI (Dienst Speciale Interventies). Deze dienen goedgekeurd te worden door de korpsleiding en het management.
 
-### Artikel 3 - Campen
+### Artikel 2 - Campen
 
 1. Het is niet toegestaan om actieve drugs locaties te campen om hier voordeel uit te behalen, bijvoorbeeld door te wachten op iemand om te beroven.
 2. Het is wel toegestaan om bij de wapendealer NPC te campen.
 
- ### Artikel 4 - Rippen
+ ### Artikel 3 - Rippen
 1. Rippen en handsuppen is op het gehele eiland toegestaan 
 
 
