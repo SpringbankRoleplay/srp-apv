@@ -2,14 +2,14 @@
 <b> In het Algemene Plaatselijke Verordering van Springbank Roleplay, hierna genoemd APV, zijn de wet- en regelgevingen die gelden binnen de gehele stad Springbank opgenomen. Bij het intrekken binnen Springbank gaat u automatisch akkoord met deze wet- en regelgeving. </b> 
 ## Strafbepaling
 1. De straffen zijn verdeeld in de volgende categoriëen. 
-* Categorie 1: een waarschuwing
-* Categorie 2: een ban van 1 dag + 20 uur taakstraf
-* Categorie 3: een ban 2 dagen + 25 uur taakstraf
-* Categorie 4: een ban 3 dagen + 30 uur taakstraf
-* Categorie 5: een ban 1 week + 50 uur taakstraf
-* Categorie 6: een ban 1 maand
-* Categorie 7: permanente ban
-* Categorie 8: account wipe 
+Categorie 1: een waarschuwing
+Categorie 2: een ban van 1 dag + 20 uur taakstraf
+Categorie 3: een ban 2 dagen + 25 uur taakstraf
+Categorie 4: een ban 3 dagen + 30 uur taakstraf
+Categorie 5: een ban 1 week + 50 uur taakstraf
+Categorie 6: een ban 1 maand
+Categorie 7: permanente ban
+Categorie 8: account wipe 
 2. Straffen kunnen preventief opgelegd worden om nader onderzoek te doen. 
 3. Een lid van het staffteam heeft de mogelijkheid om op basis van de context, situatie of eerdere straffen/waarschuwingen van een overtreder te beslissen om straffen te verhogen of te verlagen.
 4. Het stafflid heeft ten alle tijden het recht om te bepalen of het gedrag onder één van onderstaande artikelen valt en hier een straf op uit te delen. 
