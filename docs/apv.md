@@ -37,25 +37,27 @@
 > Straf ⇨ Categorie 2
 
 ### Artikel 2 - Cheats
-<b> Het is niet toegestaan om gebruik te maken van software/hulpmiddelen (cheats ofwel hacks) van derde partijen om profijt te krijgen in het spel. </b>
-<i> Springbank Roleplay werkt conform de privacyregeling. Besluiten worden dus ook genomen op basis van videomateriaal en informatiebronnen. We voeren geen (integrale) PC-checks uit, tenzij dit wordt aangevraagd door een lid van het AC-team. Deze PC-checks zijn niet verplicht, maar bieden de mogelijkheid om je onschuld aan te tonen. Indien je geen toestemming geeft, is er een kans dat we je preventief permanent bannen. </i> 
+**Het is niet toegestaan om gebruik te maken van software/hulpmiddelen (cheats ofwel hacks) van derde partijen om profijt te krijgen in het spel.**
+*Springbank Roleplay werkt conform de privacyregeling. Besluiten worden dus ook genomen op basis van videomateriaal en informatiebronnen. We voeren geen (integrale) PC-checks uit, tenzij dit wordt aangevraagd door een lid van het AC-team. Deze PC-checks zijn niet verplicht, maar bieden de mogelijkheid om je onschuld aan te tonen. Indien je geen toestemming geeft, is er een kans dat we je preventief permanent bannen.*
 > Straf ⇨ Categorie 7
 
 ### Artikel 3 - Bugs en exploits
-<b> Het is niet toegestaan om opzettelijk misbruik te maken van een bug/exploit om voordeel voor jouzelf of anderen te behalen. </b>
+**Het is niet toegestaan om opzettelijk misbruik te maken van een bug/exploit om voordeel voor jouzelf of anderen te behalen.**
 Voorbeelden van bugs/exploits zijn: misbruiken van bepaalde animaties (zoals het schoppen vanaf een motor of emote bug abuse om te glitchen), dupliceren van items, in het algemeen het misbruik maken van een bug om daar je voordeel uit te halen. 
 
-<i> Wanneer het managementteam van mening is dat het misbruik van de bug en/of exploit te veel invloed heeft op de economie, kunnen zij besluiten om af te wijken van de standaard strafmaatregelen. In dit geval zal er een grondig onderzoek plaatsvinden naar de omstandigheden en gevolgen van het misbruik. Op basis van dit onderzoek kan er besloten worden om af te zien van de standaard strafmaatregelen en een passende alternatieve maatregel te nemen, zoals een account wipe. </i>
-> Straf ⇨ Categorie 6 
+*Wanneer het managementteam van mening is dat het misbruik van de bug en/of exploit te veel invloed heeft op de economie, kunnen zij besluiten om af te wijken van de standaard strafmaatregelen. In dit geval zal er een grondig onderzoek plaatsvinden naar de omstandigheden en gevolgen van het misbruik. Op basis van dit onderzoek kan er besloten worden om af te zien van de standaard strafmaatregelen en een passende alternatieve maatregel te nemen, zoals een account wipe.*
+> Straf ⇨ Categorie 6
+
 ### Artikel 4 - Out Of Character
-<b> Het is niet toegestaan om je karakter te breken door OOC-informatie te gebruiken in-game </b>
-Enkele voorbeelden hiervan zijn maar niet beperkt tot:
+Het is niet toegestaan om je karakter te breken door OOC-informatie te gebruiken in-game
+*Enkele voorbeelden hiervan zijn maar niet beperkt tot:*
+
 * Termen gebruiken die het in het echte leven niet van toepassing zijn, zoals 'report, 'reloggen', 'desync', 'rdm' en dergelijke.
 * Benoemen dat iemand een artikel van het APV heeft overtreden. 
 > Straf ⇨ Categorie 1
 
 ### Artikel 5 - Meta-gaming
-<b> Het is niet toegestaan om informatie te gebruiken die is verkregen buiten het spel om, of om in call te zitten in de breedste zin wanneer je in Springbank bent. </b>
+Het is niet toegestaan om informatie te gebruiken die is verkregen buiten het spel om, of om in call te zitten in de breedste zin wanneer je in Springbank bent.
 
 Bijvoorbeeld: een bericht op Discord sturen waar je bent. Ook is het niet toegestaan een eigen server te hebben voor je bedrijf of gang met andere burgers erin, tenzij je toestemming hebt van management. 
 > Straf ⇨ Categorie 4
@@ -65,14 +67,16 @@ Het is niet toegestaan om je voertuig als geweldsmiddel te gebruiken. Ook indien
 > Straf ⇨ Categorie 4
 
 ### Artikel 7 - RDM (Random Deathmatch)
-<b> Het is niet toegestaan om zonder goede aanleiding iemand van het leven te beroven of te mishandelen. Dit geldt ook voor dieren. </b>
+**Het is niet toegestaan om zonder goede aanleiding iemand van het leven te beroven of te mishandelen. Dit geldt ook voor dieren.**
+
 * Indien een persoon zonder goede aanleiding mensen van het leven beroofd kan een stafflid besluiten om het gebruikte wapen in beslag te nemen.
 * Indien je iemand achtervolgt, diegene een waarschuwingsschot afvuurt en jij blijft achtervolgen, dan mag jij beschoten worden. Hiermee neem je zelf een risico. Dit geldt ook voor het doorvliegen in een helicopter na een waarschuwingsschot.
 > Straf ⇨ Categorie 4
 
 ### Artikel 8 - No Value Of Life
 **Het is niet toegestaan geen waarde te hechten aan het leven van het karakter dat je speelt.**
-*Voorbeelden van NVOL zijn, maar niet beperkt tot:*	
+*Voorbeelden van NVOL zijn, maar niet beperkt tot:*
+
 * Indien er een vuurwapen op je gericht staat in de shouting voice range wordt er verwacht dat je blijft staan en mee werkt.Je dropt je items direct. Indien dit met een geldige reden (roleplay technisch) niet lukt, heb je 10 seconde om je spullen te droppen.
 * Met een helikopter en/of vliegtuig vlak boven de grond vliegen of tussen gebouwen door.
 * Het is niet toegestaan om weerstand te bieden tegen een slag- of steekwapen wanneer deze binnen een meter van jou is. Dit geldt niet wanneer je in een voertuig met gesloten ramen en deuren zit. Je mag wegrennen van een tazer, tenzij je al een keer getazerd bent.
@@ -91,6 +95,7 @@ Mocht je door bijvoorbeeld een crash of dergelijk ongelukkig de stad verlaten ti
 Het is niet toegestaan om wapens of voorwerpen die je in een scenario actief hebt gebruikt, of hebt gestolen, of in beslag hebt genomen, binnen 10 minuten te stashen op een plek waar niemand anders bij kan. 
 Zolang je je nog bevindt in het scenario (neem bijvoorbeeld een achtervolging na het gebruik van je wapen, of het verwerken van goederen) tellen deze 10 minuten niet. De 10 minuten gelden pas vanaf het moment dat het scenario afgelopen is.
 > Straf ⇨ Categorie 4
+
 ### Artikel 11 - New Life Rule
 Als jouw karakter is komen te overlijden wordt er verwacht dat jij alle roleplay voor jouw dood vergeten bent. Zoals: locaties, personen, situaties en aanleidingen. Je mag geïnformeerd worden, dan kan je enkel de informatie gebruiken die je hoort. LET OP: Je mag niet terug aansluiten bij het scenario waarin je bent overleden. 
 > Straf ⇨ Categorie 4
@@ -118,7 +123,7 @@ Dit is ook van toepassing op de volgende punten:
 Het is niet toegestaan om onrealistische rijstijlen aan te nemen. Enkele voorbeelden hiervan zijn, maar niet beperkt tot:
 * Gebruik maken van de zogenoemde 'jumps' of 'ramps' verpreid door de stad.
 * Alle voertuigen mogen op onverharde wegen rijden met een max van 100 km/u. Speciale off-road of semi-off road voertuigen mogen harder dan 100 km/u over de onverharde wegen. Volledige off-road mag alleen met een daarvoor bestemde auto.
-<b> Voor pitten geldt het volgende: </b>
+**Voor pitten geldt het volgende:**
 
 1. Indien je een voertuig inzet om een zogenoemde pit uit te voeren is dit alleen toegestaan als de snelheid lager is dan 100 km/u en moet dit op een verantwoorde wijze gaan.
 2. Een voertuig mag geen lichter voertuig pitten of brake checken, de volgorde gaat als volgt: 1: Motorvoertuigen \ 2: Sportauto’s en hypercars \ 3: Personenauto’s, zoals Sedan en Coupes \ 4: SUV’s \ 5: Bussen en vrachtwagens.
@@ -126,7 +131,8 @@ Het is niet toegestaan om onrealistische rijstijlen aan te nemen. Enkele voorbee
 > Straf ⇨ Categorie 2
 
 ### Artikel 16 - Reporting
-<i> De in-game functie om spelers te rapporteren en bugs of vragen in te dienen (/report) is alleen bedoeld voor gevallen dat dit ter plekke opgelost kan worden. Het is niet de bedoeling om voor eigen rechter te gaan spelen. </i>
+De in-game functie om spelers te rapporteren en bugs of vragen in te dienen (/report) is alleen bedoeld voor gevallen dat dit ter plekke opgelost kan worden. Het is niet de bedoeling om voor eigen rechter te gaan spelen.
+
 * Het is niet toegestaan te ‘report spammen’, je mag dus niet meerdere reports binnen 5 minuten maken.
 > Straf ⇨ Categorie 3
 
