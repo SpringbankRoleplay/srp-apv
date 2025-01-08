@@ -299,7 +299,7 @@ Voor overheidsmedewerkers is het niet toegestaan om zich op welke manier dan ook
     * Je moet de persoon daadwerkelijk kennen. Het herkennen van een stem van een content creator is bijvoorbeeld niet toegestaan.
     * Indien een persoon een voicechanger aan heeft ten behoeve van de roleplay is het niet toegestaan om de stem door de voicechanger heen te herkennen.
     * Iemand zijn stem mag niet herkend worden als deze gezichtsbedekkende kleding draagt.
-2. Het is alleen toegestaan om iemand aan zijn kleding te herkennen indien de persoon geen gezichtsbedekkende kleding draagt en overduidelijk een identieke outfit heeft.
+2. Het is alleen toegestaan om iemand aan zijn kleding te herkennen indien de persoon geen gezichtsbedekkende kleding draagt en overduidelijk een gelijke outfit heeft.
 3. Bij lid 1 en 2 moet altijd aantoonbaar zijn dat je de persoon daadwerkelijk in de roleplay kan herkennen.
 4. Het is toegestaan om gebruik te maken van een zogenoemde voicechanger om jezelf onherkenbaar te maken. Dit mag alleen als je ook nog duidelijk te verstaan bent en het is niet toegestaan om onrealistische geluidseffecten te gebruiken zoals robotstemmen, babystemmen of andere storende effecten.
 
