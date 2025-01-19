@@ -24,12 +24,14 @@ Elk voertuig mag op onverharde wegen rijden t/nm 100 km/u. De voertuigen hierond
  * Bravado Gresley
  * Coil Khamel
  * Declasse Gburrito (alleen met off-road banden)
+ * Declasse Walton
  * Gallivanter Baller
  * Gallivanter Baller Sport
  * Gallivanter Baller Sport+
  * Gallivanter Baller ST-D
  * Gallivanter Baller ST-D Platinum
  * Karin Bjxl (alleen met off-road banden)
+ * Karin Karuma Rally (alleen met off-road banden)
  * Karin Mogul RS (alleen met off-road banden)
  * Karin Sultan (alleen met off-road banden)
  * Karin Sult RSX (alleen met off-road banden)
@@ -65,6 +67,7 @@ Elk voertuig mag op onverharde wegen rijden t/nm 100 km/u. De voertuigen hierond
  * Canis Kamacho
  * Canis Mesa
  * Canis Seminole Off-Road
+ * Canis WPT
  * Coil Brawler
  * Coil LOD-4
  * Declasse Draugur
