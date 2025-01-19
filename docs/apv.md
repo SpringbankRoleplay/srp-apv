@@ -331,7 +331,7 @@ Wanneer je van overheidsbaan naar overheidsbaan, van een verified/officiele groe
 1. Het is niet toegestaan om eigenaar te zijn van twee bedrijven
 2. Het is niet toegestaan om meer dan 10% van de vraagprijs te vragen voor huizen. Het inwisselen van voertuigen, wapens of iets dergelijks bovenop de vraagprijs is ook niet toegestaan. 
 3. De bedrijven mogen niet verkocht worden. Dit gaat enkel via de Gemeente.
-4. Je mag maximaal 1 huis op je naam staan, met uitzondering van gangbazen. Zij mogen er twee in verband met de gangpot (exclusief officiële gangs).
+4. Je mag maximaal 2 huizen op je naam staan, met uitzondering van gangbazen. Zij mogen er twee in verband met de gangpot (exclusief officiële gangs).
 
 > Straf ⇨ Categorie 5
   
