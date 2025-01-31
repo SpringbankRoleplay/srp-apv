@@ -29,10 +29,10 @@
 - Het niet realistisch reageren op je verwondingen. Bijvoorbeeld meteen op de motor stappen, nadat je in je benen geschoten bent.
 - Indien je een harde crash hebt gemaakt, of een crashbeeld hebt, mag je niet meteen door met het scenario. Je moet 30 seconden wachten. In een achtervolging moet je afkoppelen. Dit geldt voor zowel overheid als onderwereld. Of de crash te hard is, is op bepaling van staff. 
 - Dit is bijvoorbeeld:
-  1. Meerdere malen over de kop vliegen.
-  2. Op je kop of zijkant hard landen.
-  3. Met 150 km/u tegen iets aan knallen.
-  4. Met een motor een crash maken en er hard vanaf vallen.
+    - Meerdere malen over de kop vliegen.
+    - Op je kop of zijkant hard landen.
+    - Met 150 km/u tegen iets aan knallen.
+    - Met een motor een crash maken en er hard vanaf vallen.
 
 > Straf ⇨ Categorie 2
 
