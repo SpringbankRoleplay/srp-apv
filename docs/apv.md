@@ -27,8 +27,12 @@
 - Het expres slecht/niet afmaken van een scenario of te verstoren, ondanks de situatie. Ook het verstoren/belemmeren van overheidsmedewerkers hoort hierbij. 
 - Het stelen uit kofferbakken. Dit mag alleen met goeie aanleiding en door iemand te handsuppen. 
 - Het niet realistisch reageren op je verwondingen. Bijvoorbeeld meteen op de motor stappen, nadat je in je benen geschoten bent.
-- Indien je een harde crash hebt gemaakt, of een crashbeeld hebt, mag je niet meteen door met het scenario. Je moet 30 seconden wachten. In een achtervolging moet je afkoppelen. Dit geldt voor zowel overheid als onderwereld. Of de crash te hard is, is op bepaling van staff. Dit is bijvoorbeeld:
- Meerdere malen over de kop vliegen, op je kop of zijkant hard landen, met 150 km/u tegen iets aan knallen, met een motor een crash maken en er hard vanaf vallen
+- Indien je een harde crash hebt gemaakt, of een crashbeeld hebt, mag je niet meteen door met het scenario. Je moet 30 seconden wachten. In een achtervolging moet je afkoppelen. Dit geldt voor zowel overheid als onderwereld. Of de crash te hard is, is op bepaling van staff. 
+- Dit is bijvoorbeeld:
+  1. Meerdere malen over de kop vliegen.
+  2. Op je kop of zijkant hard landen.
+  3. Met 150 km/u tegen iets aan knallen.
+  4. Met een motor een crash maken en er hard vanaf vallen.
 
 > Straf ⇨ Categorie 2
 
