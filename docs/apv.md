@@ -40,7 +40,7 @@
 *Voorbeelden van Powergaming zijn, maar niet beperkt tot:*
 
 - Een agent ontvoeren om een signalering te verwijderen of om iets te bekijken in het politiesysteem (MEOS). Een ambulancier handsuppen om wapens te krijgen van een gewond persoon, of een pechhulp medewerker te handsuppen om een auto open te breken. 
-- Het gebruiken van enkel /me commands om een actie uit te voeren. Je moet dit met roleplay en door het uit te spreken uitvoeren. Dus niet ‘’ik ga je even vastbinden’’ terwijl je aan het rijden bent, maar naast iemand gaan staan, bijvoorbeeld /e mechanic en dan: ik ga je even vastbinden /me pakt boeien, ik doe ze nu om. 
+- Het gebruiken van enkel /me commands om een actie uit te voeren. Je moet dit met roleplay en door het uit te spreken uitvoeren. Dus niet ‘’ik ga je even vastbinden’’ terwijl je aan het rijden bent, maar naast iemand gaan staan, bijvoorbeeld /e mechanic en dan: ik ga je even vastbinden /me pakt boeien, ik doe ze nu om. Als je iets wilt afpakken, zoals een wapenriem of comms, dan dien je dit te ook doen met /e mechanic.
 - Het gebruiken van de Z-spier om spelers te vinden tijdens scenario’s.
 
 > Straf ⇨ Categorie 2
