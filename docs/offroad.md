@@ -48,6 +48,7 @@ Elk voertuig mag op onverharde wegen rijden t/nm 100 km/u. De voertuigen hierond
  * Vulcar Starlight
  * Zirconiu Journey (alleen met off-road banden)
  * Zirconiu Journey Sport (alleen met off-road banden)
+ * Karin Sultan MK4 (alleen met offroad banden)
 
 ### Off-road wegen
  * Aanhanger (alleen met off-road banden)
