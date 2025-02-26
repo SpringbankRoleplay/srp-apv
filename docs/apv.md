@@ -25,7 +25,7 @@
 
 - Tijdens een achtervolging je voertuig in de garage zetten om te voorkomen dat je herkend wordt.
 - Het expres slecht/niet afmaken van een scenario of te verstoren, ondanks de situatie. Ook het verstoren/belemmeren van overheidsmedewerkers hoort hierbij. 
-- Het stelen uit kofferbakken door bijvoorbeeld iemand van de motor af te trappen, of bij de garage uit iemands auto te stelen. 
+- Het stelen uit kofferbakken door bijvoorbeeld iemand van de motor af te trappen, of bij de garage uit iemands auto te stelen, wanneer die persoon zelf bij zijn auto bezig is. 
 - Het niet realistisch reageren op je verwondingen. Bijvoorbeeld meteen op de motor stappen, nadat je in je benen geschoten bent.
 - Indien je een harde crash hebt gemaakt, of een crashbeeld hebt, mag je niet meteen door met het scenario. Je moet 30 seconden wachten. In een achtervolging moet je afkoppelen. Dit geldt voor zowel overheid als onderwereld. Of de crash te hard is, is op bepaling van staff. 
 - Dit is bijvoorbeeld:
