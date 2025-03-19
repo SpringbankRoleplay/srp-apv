@@ -256,7 +256,7 @@ Voor overheidsmedewerkers is het niet toegestaan om zich op welke manier dan ook
 4. Het gebruik maken van outside hostages is alleen toegestaan indien er bewijs geleverd kan worden dat deze ook daadwerkelijk gijzelgenomen zijn.
 5. Het is niet toegestaan om een onderhandelaar te gijzelen.
 6. Hypercars en supercars mogen niet gebruikt worden bij overvallen.
-7. Een overval mag gecountered worden, totdat de politie of KMAR is begonnen met de afzetting of een voertuig dwars neergezet is. 
+7. Een overval mag gecountered worden, totdat de politie of KMAR is begonnen met de afzetting of een voertuig dwars neergezet is als afzetting.
    * Indien de politie begonnen is met het neerzetten van de afzetting, of een voertuig dwars gezet heeft, moeten ze deze ook meteen afmaken!
 8. Je mag iemand maximaal 30 minuten gehostaged houden totdat het roleplay scenario gestart wordt (gijzeling voor wraak redenen valt hier niet onder).
 9. Het is niet toegestaan om na een overval met een voertuig in of achter de achtervolging aan te rijden.
