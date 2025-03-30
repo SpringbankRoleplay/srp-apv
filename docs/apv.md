@@ -241,6 +241,8 @@ Voor overheidsmedewerkers is het niet toegestaan om zich op welke manier dan ook
     * Locaties waar werkzaamheden gestart en beëindigd worden
 3. Zodra jij een overval doet en je krijgt groenlicht mag er 10min lang geen setup gegooid worden. De 10min worden gerekend vanaf het moment dat er groenlicht gegeven is. 
 4. Indien Politie/KMar bij een OV de gehele afzetting heeft geplaatst of er na 15 minuten nog geen Politie/KMar aanwezig is, mag er op eigen risico weggereden worden met de buit zonder groenlicht.
+5. Indien je een OV doet zonder duidelijke hostage en zonder wapen vast te hebben, dan mag de politie binnenvallen. Dit geldt niet voor ovs waar een scenario aan vast zit, zoals: bouwvakkers, winkel vullers, etc. Dan moet dat scenario wel helemaal uitgewerkt zijn met bijbehorende papieren!
+
 
 ### Artikel 26  - Wraak en liquidaties 
 1. Het is alleen toegestaan om iemand te liquideren als het slachtoffer in kennis is van de reden hierachter. Het is dus de bedoeling dat dit aan het slachtoffer duidelijk wordt gemaakt <b>voor</b> hij geliquideerd wordt.
