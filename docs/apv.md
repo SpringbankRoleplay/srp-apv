@@ -333,6 +333,7 @@ Wanneer je van overheidsbaan naar overheidsbaan, van een verified/officiele groe
 3. Het is niet toegestaan goederen van andere spelers aan te nemen of spullen weg te geven, wanneer deze de stad uit gaat. Dit geldt voor ALLE goederen. 
 4. Hieronder wordt ook het aanbieden of vragen naar verstaan.
 5. Het vragen naar startersgeld e.d. is niet toegestaan.
+6. Items vanuit de Tebex store, zoals straatnamen en namechanges, mogen niet geript of gestolen worden. Het is wel toegestaan een code voor iemand anders te kopen en deze door te geven.
 
 > Straf ⇨ Categorie 7
 
