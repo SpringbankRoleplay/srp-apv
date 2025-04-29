@@ -225,6 +225,7 @@ De voorwaardelijke straffen zijn als volgt, bij het volgende op zak:
 - Hand Vuurwapen > De politie heeft 7 dagen de tijd om maximaal 5 voertuigen te doorzoeken.
 - Semi automatisch wapen > De politie heeft 7 dagen de tijd om maximaal 5 voertuigen en 1 woning te doorzoeken
 - Vol automaat wapen > De politie heeft 7 dagen de tijd om maximaal 5 voertuigen en 3 woningen te doorzoeken
+  
 (Een uitzondering is wanneer het om grote groeperingen/een hele gang gaat, aangezien het onderzoek hier langer duurt)
 
 ### Artikel 24 - Overvallen & Oplichten
