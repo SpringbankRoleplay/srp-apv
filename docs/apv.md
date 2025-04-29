@@ -1,4 +1,4 @@
-# Algemene Plaatselijke Verordening van Springbank Roleplay
+# Algemene Plaatselijke Verordening van Springbank Roleplay 
 **In het Algemene Plaatselijke Verordering van Springbank Roleplay, hierna genoemd APV, zijn de wet- en regelgevingen die gelden binnen de gehele stad Springbank opgenomen. Bij het intrekken binnen Springbank gaat u automatisch akkoord met deze wet- en regelgeving.**
 ## Strafbepaling
 1. De straffen zijn verdeeld in de volgende categoriëen. 
