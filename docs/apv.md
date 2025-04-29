@@ -215,6 +215,18 @@ Voor overheidsmedewerkers is het niet toegestaan om zich op welke manier dan ook
 > Straf ⇨ Categorie 5 en ontslag
 
 ## Overtredingen - Criminele activiteiten
+### Informatie Criminele Activiteiten 
+Als de recherche voldoende bewijs heeft om een huis binnen te vallen, mogen ze 50% van de kluis afpakken + de wapens en de volledige inventory van de personen binnen meenemen per categorie. De categorieën zijn:
+Grote wapens, kleine wapens en melee wapens, geldzaken (wit geld enkel bij goed onderzoek) en drugs.
+De voorwaardelijke straffen zijn als volgt, bij het volgende op zak:
+- Drugs vanaf 100 stuks > De politie 7 dagen de tijd om maximaal 3 autos uit garage random te doorzoeken
+- Drugs vanaf 300 stuks > De politie heeft 7 dagen de tijd om maximaal 5 autos en 1 woning random te doorzoeken
+- Meelee wapen > De politie heeft 7 dagen de tijd om maximaal 3 voertuigen te doorzoeken
+- Hand Vuurwapen > De politie heeft 7 dagen de tijd om maximaal 5 voertuigen te doorzoeken.
+- Semi automatisch wapen > De politie heeft 7 dagen de tijd om maximaal 5 voertuigen en 1 woning te doorzoeken
+- Vol automaat wapen > De politie heeft 7 dagen de tijd om maximaal 5 voertuigen en 3 woningen te doorzoeken
+(Een uitzondering is wanneer het om grote groeperingen/een hele gang gaat, aangezien het onderzoek hier langer duurt)
+
 ### Artikel 24 - Overvallen & Oplichten
 1. Het is alleen toegestaan om iemand te overvallen en/of te bestelen indien deze persoon bezig is met criminele activiteiten. Hier moet je concreet (aantoonbaar) bewijs van hebben (beeldmateriaal), ook als iemand een call maakt. Indien dit er niet is, wordt het scenario teruggedraaid.
 2. Onder criminele activiteiten in deze context worden onder andere de volgende voorbeelden verstaan:
