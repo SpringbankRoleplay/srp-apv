@@ -219,6 +219,7 @@ Voor overheidsmedewerkers is het niet toegestaan om zich op welke manier dan ook
 Als de recherche voldoende bewijs heeft om een huis binnen te vallen, mogen ze 50% van de kluis afpakken + de wapens en de volledige inventory van de personen binnen meenemen per categorie. De categorieën zijn:
 Grote wapens, kleine wapens en melee wapens, geldzaken (wit geld enkel bij goed onderzoek) en drugs.
 De voorwaardelijke straffen zijn als volgt, bij het volgende op zak:
+
 * Drugs vanaf 100 stuks > De politie 7 dagen de tijd om maximaal 3 autos uit garage random te doorzoeken
 * Drugs vanaf 300 stuks > De politie heeft 7 dagen de tijd om maximaal 5 autos en 1 woning random te doorzoeken
 * Meelee wapen > De politie heeft 7 dagen de tijd om maximaal 3 voertuigen te doorzoeken
