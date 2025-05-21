@@ -251,8 +251,9 @@ De voorwaardelijke straffen zijn als volgt, bij het volgende op zak:
 ### Artikel  25 - Overval Regels
 1. Je krijgt per hostage 2 eisen. Er zit een max van 8 eisen bij een overval.
 2. Het is niet toegestaan om hostages te pakken op de volgende plekken:
-    * In de kledingwinkel in het kledingmenu
-    * Locaties waar werkzaamheden gestart en beëindigd worden
+    * In de kledingwinkel in het kledingmenu;
+    * Locaties waar werkzaamheden gestart en beëindigd worden;
+    * Officiële bedrijven binnen Springbank.
 3. Zodra jij een overval doet en je krijgt groenlicht mag er 10min lang geen setup gegooid worden. De 10min worden gerekend vanaf het moment dat er groenlicht gegeven is. 
 4. Indien Politie/KMar bij een OV de gehele afzetting heeft geplaatst of er na 15 minuten nog geen Politie/KMar aanwezig is, mag er op eigen risico weggereden worden met de buit zonder groenlicht.
 5. Indien je een OV doet zonder duidelijke hostage en zonder wapen vast te hebben, dan mag de politie binnenvallen. Dit geldt niet voor ovs waar een scenario aan vast zit, zoals: bouwvakkers, winkel vullers, etc. Dan moet dat scenario wel helemaal uitgewerkt zijn met bijbehorende papieren!
