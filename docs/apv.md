@@ -88,7 +88,8 @@ Het is niet toegestaan om je voertuig als geweldsmiddel te gebruiken. Ook indien
 **Het is niet toegestaan geen waarde te hechten aan het leven van het karakter dat je speelt.**
 *Voorbeelden van NVOL zijn, maar niet beperkt tot:*
 
-* Indien er een vuurwapen op je gericht staat in de shouting voice range wordt er verwacht dat je blijft staan en mee werkt.Je dropt je items direct. Indien dit met een geldige reden (roleplay technisch) niet lukt, heb je 10 seconde om je spullen te droppen.
+* Indien er een vuurwapen op je gericht staat in de shouting voice range wordt er verwacht dat je blijft staan en mee werkt.
+* Je dropt je items direct bij handsup. Indien dit met een geldige reden (roleplay technisch) niet lukt, heb je 10 seconde om je spullen te droppen.
 * Met een helikopter en/of vliegtuig vlak boven de grond vliegen of tussen gebouwen door.
 * Het is niet toegestaan om weerstand te bieden tegen een slag- of steekwapen wanneer deze binnen een meter van jou is. Dit geldt niet wanneer je in een voertuig met gesloten ramen en deuren zit. Je mag wegrennen van een tazer, tenzij je al een keer getazerd bent.
 * Het is niet toegestaan om al rijdend een ander voertuig te blokkeren. Je mag wel blokkeren, maar enkel als het voertuig stil staat en er niemand in het voertuig zit. 
