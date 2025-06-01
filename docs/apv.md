@@ -237,7 +237,6 @@ De voorwaardelijke straffen zijn als volgt, bij het volgende op zak:
     * Het dragen van volledig gezichtsbedekkende kleding (motorhelm wanneer iemand op een motor rijdt telt hierbij niet), een kogelwerend vest of een wapenholster.
 3. De volgende zaken mogen nooit gestolen en/of overvallen worden:
 	* Geld wat op de bank staat.
-	* Drugsloodsen.
 	* Onder dwang iemand zijn huis betreden en leegroven.
         * De inhoud van kluizen van verified of offi gangs of bedrijven.
         * De inhoud van voertuigen, tenzij je de persoon met dat voertuig iets illegaals hebt zien doen en aantoonbaar hebt achtervolgd. 
