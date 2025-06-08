@@ -233,7 +233,7 @@ De voorwaardelijke straffen zijn als volgt, bij het volgende op zak:
   
 (Een uitzondering is wanneer het om grote groeperingen/een hele gang gaat, aangezien het onderzoek hier langer duurt)
 
-### Artikel 24 - Overvallen & Oplichten
+### Artikel 24 - Overvallen & Oplichten (zie ook Artikel 29 - Rippen)
 1. Het is alleen toegestaan om iemand te overvallen en/of te bestelen indien deze persoon bezig is met criminele activiteiten. Hier moet je concreet (aantoonbaar) bewijs van hebben (beeldmateriaal), ook als iemand een call maakt. Indien dit er niet is, wordt het scenario teruggedraaid.
 2. Onder criminele activiteiten in deze context worden onder andere de volgende voorbeelden verstaan:
     * Activiteiten rondom drugs, overvallen of witwassen. Je moet diegene aantoonbaar hebben zien staan op een illegale locatie, zoals de pluk en verwerk, of horen praten over illegale praktijken. 
@@ -241,10 +241,9 @@ De voorwaardelijke straffen zijn als volgt, bij het volgende op zak:
 3. De volgende zaken mogen nooit gestolen en/of overvallen worden:
 	* Geld wat op de bank staat.
 	* Onder dwang iemand zijn huis of loods betreden en leegroven.
-        * De inhoud van kluizen van verified of offi gangs of bedrijven.
-        * De inhoud van voertuigen, tenzij je de persoon met dat voertuig iets illegaals hebt zien doen en aantoonbaar hebt achtervolgd. 
+        * De inhoud van kluizen van verified of offi gangs of bedrijven (andere kluizen zijn eigen risico).
 4. Je mag alleen scammen als het om illegale goederen gaat, er een wapen bij betrokken is en je het in een roleplay scenario doet.
-	* Bijvoorbeeld: A verkoopt een wapen aan B, B ript het wapen, of A ript het terug met behulp van anderen. Hands up is vereist.
+	* Bijvoorbeeld: A verkoopt een wapen aan B, B ript het wapen, of A ript het terug. Hands up is vereist.
 	* Scams zijn alleen toegestaan tot een maximum van 2 miljoen. Dit betekent dat de totale waarde van de scam, inclusief goederen of geld, niet meer dan 2 miljoen mag bedragen.
       * Geld of spullen uitlenen is op EIGEN RISICO!
 5. Het oplichten met auto’s is niet toegestaan. Hier valt onder het ruilen van auto’s, of het verkopen van auto’s en het voertuig niet geven. Ook het liegen over tunes en de staat van de auto is niet toegestaan.
@@ -292,6 +291,13 @@ Het is ook niet toegestaan om iemand die AFK staat te dragen en als hostage mee 
 > Straf ⇨ Categorie 2
 
 ### Artikel 29  - Rippen
+Indien je iemand illegale activiteiten hebt zien doen, heb je met geldig bewijs 6 uur de tijd deze persoon te rippen. LET OP: Enkel de kleur van een auto of kenteken is onvoldoende. Je moet iemand herkennen aan diens kleding. Daarnaast geldt dit niet bij:
+* Het zien van een holster of masker. Dan moet je persoon meteen rippen.
+* Het eisen van een voertuig uit een garage. Dit mag enkel indien je iemand overduidelijk een illegale activiteit hebt zien doen met dit voertuig en je diegene daarna duidelijk hebt achtervolgd.
+
+Controleren op een kenteken of auto mag wel. Fouilleren mag pas wanneer de outfit gelijk is.
+
+Verder: 
 1. Het is niet toegestaan om dezelfde persoon binnen een uur meerdere malen te overvallen en/of te gijzelen. Dit geldt alleen voor drugs op een pluk locatie.
 2. Uitzondering op lid 1 is wanneer het slachtoffer in kwestie binnen het uur zijn kleding zodanig heeft veranderd dat hij niet meer te herkennen valt als eerst.
 3. Het is enkel toegestaan spullen uit iemands auto te pakken, indien je een wapen op diegene richt. Het meenemen van dat voertuig voor overladen en /leensleutel vragen is toegestaan. 
