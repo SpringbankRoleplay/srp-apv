@@ -73,14 +73,14 @@ Bijvoorbeeld: een bericht op Discord sturen waar je bent. Ook is het niet toeges
 > Straf ⇨ Categorie 4
 
 ### Artikel 6 - VDM (Vehicle Deathmatch)
-Het is niet toegestaan om je voertuig als geweldsmiddel te gebruiken. Ook indien iemand niet overlijdt, telt dit als VDM.  
+Het is niet toegestaan om je voertuig als geweldsmiddel te gebruiken. Ook indien iemand niet overlijdt, telt dit als VDM. 
 > Straf ⇨ Categorie 4
 
 ### Artikel 7 - RDM (Random Deathmatch)
 **Het is niet toegestaan om zonder goede aanleiding iemand van het leven te beroven of te mishandelen. Dit geldt ook voor dieren.**
 
 * Indien een persoon zonder goede aanleiding mensen van het leven beroofd kan een stafflid besluiten om het gebruikte wapen in beslag te nemen.
-* Indien je iemand achtervolgt, diegene een waarschuwingsschot afvuurt en jij blijft achtervolgen, dan mag jij beschoten worden. Hiermee neem je zelf een risico. Dit geldt ook voor het doorvliegen in een helicopter na een waarschuwingsschot. 
+* Indien je iemand achtervolgt, diegene een waarschuwingsschot afvuurt en jij blijft achtervolgen, dan mag jij beschoten worden. Hiermee neem je zelf een risico. Dit geldt ook voor het doorvliegen in een helicopter na een waarschuwingsschot.
 
 > Straf ⇨ Categorie 4
 
@@ -152,7 +152,7 @@ LET OP: Pitten is iets anders dan beuken.
 > Straf ⇨ Categorie 2
 
 ### Artikel 16 - Reporting
-De in-game functie om spelers te rapporteren en bugs of vragen in te dienen (/report) is alleen bedoeld voor gevallen dat dit ter plekke opgelost kan worden. Het is niet de bedoeling om voor eigen rechter te gaan spelen. Lees onze Report regels hier https://discord.com/channels/1031924291438137365/1088105131016454284/1269338163998883890 
+De in-game functie om spelers te rapporteren en bugs of vragen in te dienen (/report) is alleen bedoeld voor gevallen dat dit ter plekke opgelost kan worden. Het is niet de bedoeling om voor eigen rechter te gaan spelen. Lees onze Report regels [hier](https://discord.com/channels/1031924291438137365/1088105131016454284/1269338163998883890)
 
 * Het is niet toegestaan te ‘report spammen’, je mag dus niet meerdere reports binnen 5 minuten maken.
 
@@ -186,9 +186,10 @@ Binnen de greenzone is het verboden om enige vorm van geweld te gebruiken.
 
 > Straf ⇨ Categorie 2
 
-### Artikel 20 - Impersonatie overheidsmedewerker
+### Artikel 20 - Impersonatie overheidsmedewerker/Officiële gang
 1. Het is niet toegestaan om jezelf te vermommen als een overheidsmedewerker en/of te suggereren dat je een overheidsmedewerker bent.
 2. Het is toegestaan om kogel- en steekwerende vesten te dragen, zolang dit geen verwijzing heeft naar een overheidsdienst.
+3. Het is ook niet toegestaan om gang kleding van officiële gangs te gebruiken als je hier geen lid van bent.
 
 > Straf ⇨ Categorie 2
 
@@ -256,7 +257,7 @@ De voorwaardelijke straffen zijn als volgt, bij het volgende op zak:
     * In de kledingwinkel in het kledingmenu;
     * Locaties waar werkzaamheden gestart en beëindigd worden;
     * Officiële bedrijven binnen Springbank.
-Het is ook niet toegestaan om iemand die AFK staat te dragen en als hostage mee te nemen.
+    * Het is ook niet toegestaan om iemand die AFK staat te dragen en als hostage mee te nemen.
 3. Zodra jij een overval doet en je krijgt groenlicht mag er 10min lang geen setup gegooid worden. De 10min worden gerekend vanaf het moment dat er groenlicht gegeven is. 
 4. Indien Politie/KMar bij een OV de gehele afzetting heeft geplaatst of er na 15 minuten nog geen Politie/KMar aanwezig is, mag er op eigen risico weggereden worden met de buit zonder groenlicht.
 5. Indien je een OV doet zonder duidelijke hostage en zonder wapen vast te hebben, dan mag de politie binnenvallen. Dit geldt niet voor ovs waar een scenario aan vast zit, zoals: bouwvakkers, winkel vullers, etc. Dan moet dat scenario wel helemaal uitgewerkt zijn met bijbehorende papieren!
@@ -265,7 +266,7 @@ Het is ook niet toegestaan om iemand die AFK staat te dragen en als hostage mee 
 ### Artikel 26  - Wraak en liquidaties 
 1. Het is alleen toegestaan om iemand te liquideren als het slachtoffer in kennis is van de reden hierachter. Het is dus de bedoeling dat dit aan het slachtoffer duidelijk wordt gemaakt <b>voor</b> hij geliquideerd wordt.
 2. Als je van het leven bent beroofd is het niet toegestaan om in de komende 24 uur na deze actie mee te doen aan eventuele wraakacties op de persoon en/of groep die jou van het leven heeft beroofd.
-3. Wraak mag enkel binnen 48 uur na het scenario plaatsvinden. 
+3. Wraak mag enkel binnen 48 uur na het scenario plaatsvinden.
 
 > Straf ⇨ Categorie 2
 
@@ -306,8 +307,8 @@ Verder:
 6. Het is toegestaan iemand te handsuppen/rippen, indien die persoon je langer dan 60 seconden volgt en overduidelijk volgt (bijvoorbeeld dezelfde turns maakt).
 7. Het is toegestaan iemand te fouilleren indien deze een masker of holster draagt.
 8. Airdrops mogen geript worden. Let op! Dit is geen combat gebied. Je mag rippen, maar geen onnodig geweld gebruiken.
-9.  Wapens terugrippen, nadat deze zijn afgenomen door een overheidsinstantie, mag alleen op de volgende manier: 
-    * Om wapens terug te kunnen eisen, mogen alleen hoofd-agenten of hoger ontvoerd worden, of donkerblauwe KMAR. LET OP: Het is niet de bedoeling om elke agent van de straat te halen, om diens rang te checken.
+9. Illegale goederen terugrippen, nadat deze zijn afgenomen door een overheidsinstantie, mag alleen op de volgende manier: 
+    * Om illegale goederen terug te kunnen eisen, mogen alleen hoofd-agenten of hoger ontvoerd worden, of donkerblauwe KMAR. LET OP: Het is niet de bedoeling om elke agent van de straat te halen, om diens rang te checken.
 
 > Straf ⇨ Categorie 2
 
