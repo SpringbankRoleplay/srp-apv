@@ -298,7 +298,8 @@ Indien je iemand illegale activiteiten hebt zien doen, heb je met geldig bewijs 
 
 Controleren op een kenteken of auto mag wel. Fouilleren mag pas wanneer de outfit gelijk is.
 
-Verder: 
+Verder:
+
 1. Het is niet toegestaan om dezelfde persoon binnen een uur meerdere malen te overvallen en/of te gijzelen. Dit geldt alleen voor drugs op een pluk locatie.
 2. Uitzondering op lid 1 is wanneer het slachtoffer in kwestie binnen het uur zijn kleding zodanig heeft veranderd dat hij niet meer te herkennen valt als eerst.
 3. Het is enkel toegestaan spullen uit iemands auto te pakken, indien je een wapen op diegene richt. Het meenemen van dat voertuig voor overladen en /leensleutel vragen is toegestaan. 
