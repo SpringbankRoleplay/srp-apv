@@ -285,7 +285,7 @@ De voorwaardelijke straffen zijn als volgt, bij het volgende op zak:
 > Straf ⇨ Categorie 4
 
 ### Artikel 28 - Campen
-1. Het is niet toegestaan om te campen op een locatie betrokken bij illegale praktijken met de intentie om bijvoorbeeld mensen te overvallen of te vermoorden. Dit geldt ook voor het witwas depot. 
+1. Het is niet toegestaan om te campen op een locatie betrokken bij illegale praktijken met de intentie om bijvoorbeeld mensen te overvallen of te vermoorden. 
 2. Onder lid 1 wordt verstaan: wanneer jij verdacht lang binnen 100 meter van een locatie bent zonder goede aanleiding. Dit geldt ook voor overheidsdiensten.
 3. Het is voor zowel overheid als onderwereld niet toegestaan om bij locaties als officiële ganghuizen, HB of DSI HQ rond te rijden met als doel hier mensen aan te houden of te gijzelen.
 
@@ -319,6 +319,7 @@ Verder:
    * Wanneer het kenteken overeenkomt met het kenteken die je hebt ontvangen in de melding.
    * De witwasser mag alleen overvallen worden binnen een tijdsbestek van een uur.
 3.  De melding dient geclipt te zijn.
+4.  Bij de tafels is het toegestaan om iemand te rippen indien diegene binnen een meter van de tafel is. Het is toegestaan om bij de tafels te staan om je gangleden te beschermen, maar niet met als reden om iemand te rippen.
 
 > Straf ⇨ Categorie 2
 
