@@ -305,7 +305,7 @@ Verder:
 3. Het is enkel toegestaan spullen uit iemands auto te pakken, indien je een wapen op diegene richt. Het meenemen van dat voertuig voor overladen en /leensleutel vragen is toegestaan. 
 4. Het is toegestaan om iemand te rippen bij een illegaal verkooppunt als deze persoon binnen 1 meter van de NPC staat.
 5. Het is niet toegestaan om iemand te rippen en daarna te vermoorden. Indien je iemand om een andere (geldige) reden wel vermoord, dien je de spullen te droppen.
-6. Het is toegestaan iemand te handsuppen/rippen, indien die persoon je langer dan 60 seconden volgt en overduidelijk volgt (bijvoorbeeld dezelfde turns maakt).
+6. Het is toegestaan iemand te handsuppen/rippen, indien die perssoon je langer dan 60 seconden volgt en 3 dezelfde turns maakt, of je diegene 3 keer ziet scouten in hetzelfde scenario, of diegene daar 3 keer porto called (of een combinatie van)
 7. Het is toegestaan iemand te fouilleren indien deze een masker of holster draagt.
 8. Airdrops mogen geript worden. Let op! Dit is geen combat gebied. Je mag rippen, maar geen onnodig geweld gebruiken.
 9. Illegale goederen terugrippen, nadat deze zijn afgenomen door een overheidsinstantie, mag alleen op de volgende manier: 
@@ -319,7 +319,7 @@ Verder:
    * Wanneer het kenteken overeenkomt met het kenteken die je hebt ontvangen in de melding.
    * De witwasser mag alleen overvallen worden binnen een tijdsbestek van een uur.
 3.  De melding dient geclipt te zijn.
-4.  Bij de tafels is het toegestaan om iemand te rippen indien diegene binnen een meter van de tafel is. Het is toegestaan om bij de tafels te staan om je gangleden te beschermen, maar niet met als reden om iemand te rippen.
+4.  Bij de tafels is het toegestaan om iemand te rippen indien diegene zich binnen het gebouw waar de tafel staat bevindt of, indien de tafel buiten staat, op de verdieping van de tafel is.
 
 > Straf ⇨ Categorie 2
 
