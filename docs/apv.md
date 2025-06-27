@@ -114,7 +114,7 @@ Zolang je je nog bevindt in het scenario (neem bijvoorbeeld een achtervolging na
 Als jouw karakter is komen te overlijden wordt er verwacht dat jij alle roleplay voor jouw dood vergeten bent. Zoals: locaties, personen, situaties en aanleidingen. Je mag geïnformeerd worden, dan kan je enkel de informatie gebruiken die je hoort. LET OP: Je mag niet terug aansluiten bij het scenario waarin je bent overleden. 
 > Straf ⇨ Categorie 4
 
-### Artikel 12 – Microfoon
+### Artikel 12 - Microfoon
 Het is tijdens het spelen ten allen tijden verplicht om een werkende microfoon te hebben waarin je duidelijk te verstaan bent. Het misbruiken van je microfoon is niet toegestaan, denk aan earrapen, blazen, schreeuwen, muziek door je microfoon draaien, storende soundpads, etc.
 > Straf ⇨ Categorie 1
 
