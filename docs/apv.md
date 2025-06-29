@@ -292,7 +292,8 @@ De voorwaardelijke straffen zijn als volgt, bij het volgende op zak:
 > Straf ⇨ Categorie 2
 
 ### Artikel 29  - Rippen
-Indien je iemand illegale activiteiten hebt zien doen, heb je met geldig bewijs 6 uur de tijd deze persoon te rippen. LET OP: Enkel de kleur van een auto of kenteken is onvoldoende. Je moet iemand herkennen aan diens kleding. Daarnaast geldt dit niet bij:
+Indien je iemand illegale activiteiten hebt ziendoen, heb je met geldig bewijs 6 uur de tijd deze persoon te rippen. LET OP: Enkel de kleur van een auto of kenteken is onvoldoende. Je moet iemand herkennen aan diens kleding. Daarnaast geldt dit niet bij:
+
 * Het zien van een holster of masker. Dan moet je persoon meteen rippen.
 * Het eisen van een voertuig uit een garage. Dit mag enkel indien je iemand overduidelijk een illegale activiteit hebt zien doen met dit voertuig en je diegene daarna duidelijk hebt achtervolgd.
 
@@ -305,7 +306,7 @@ Verder:
 3. Het is enkel toegestaan spullen uit iemands auto te pakken, indien je een wapen op diegene richt. Het meenemen van dat voertuig voor overladen en /leensleutel vragen is toegestaan. 
 4. Het is toegestaan om iemand te rippen bij een illegaal verkooppunt als deze persoon binnen 1 meter van de NPC staat.
 5. Het is niet toegestaan om iemand te rippen en daarna te vermoorden. Indien je iemand om een andere (geldige) reden wel vermoord, dien je de spullen te droppen.
-6. Het is toegestaan iemand te handsuppen/rippen, indien die perssoon je langer dan 60 seconden volgt en 3 dezelfde turns maakt, of je diegene 3 keer ziet scouten in hetzelfde scenario, of diegene daar 3 keer porto called (of een combinatie van)
+6. Het is toegestaan iemand te handsuppen/rippen, indien die persoon je langer dan 60 seconden volgt en 3 dezelfde turns maakt, of je diegene 3 keer ziet scouten in hetzelfde scenario, of diegene daar 3 keer porto called (of een combinatie van)
 7. Het is toegestaan iemand te fouilleren indien deze een masker of holster draagt.
 8. Airdrops mogen geript worden. Let op! Dit is geen combat gebied. Je mag rippen, maar geen onnodig geweld gebruiken.
 9. Illegale goederen terugrippen, nadat deze zijn afgenomen door een overheidsinstantie, mag alleen op de volgende manier: 
