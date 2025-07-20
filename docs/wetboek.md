@@ -205,6 +205,15 @@
 3. Wanneer uit onderzoek blijkt, volgend op de inbeslagname zoals bedoeld in lid 2, geen criminele herkomst kan aantonen, dan is de betreffende organisatie gemaand tot restitutie.
 4. Wanneer uit onderzoek blijkt, volgend op de inbeslagname zoals bedoeld in lid 2, criminele herkomst aantoont, dan zal de in beslag genomen som vernietigd worden.
 
+### Artikel I-10 (Schuld) Heling  (418 SR)
+
+Indien een persoon, al dan niet opzettelijk, illegale goederen vervoert in de trailer waaronder, maar niet beperkt tot, munitie, vuurwapens, verdovende middelen of andere bij wet verboden stoffen of voorwerpen kan als schuldig worden beschouwd.
+
+|   | *Celstraf*  | *Taakstraf*  | *boete*  |
+|---|---|---|---|
+|  **Veroordeling** |  15 maanden |   | € 2500,-  |
+
+
 ## Titel II - Geweldsdelicten
 
 
