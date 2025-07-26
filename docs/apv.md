@@ -312,7 +312,8 @@ Verder:
 6. Het is toegestaan iemand te handsuppen/rippen, indien die persoon je langer dan 60 seconden volgt en 3 dezelfde turns maakt, of je diegene 3 keer ziet scouten in hetzelfde scenario, of diegene daar 3 keer porto called (of een combinatie van)
 7. Het is toegestaan iemand te fouilleren indien deze een masker of holster draagt.
 8. Airdrops mogen geript worden. Let op! Dit is geen combat gebied. Je mag rippen, maar geen onnodig geweld gebruiken.
-9. Illegale goederen terugrippen, nadat deze zijn afgenomen door een overheidsinstantie, mag alleen op de volgende manier: 
+9. Rippen bij de opdrachten van Tyeisha is niet toegestaan. De politie behoort je te laten gaan, als je een goeie roleplay neerzet en geen grote illegale zaken op zak hebt. 
+10. Illegale goederen terugrippen, nadat deze zijn afgenomen door een overheidsinstantie, mag alleen op de volgende manier: 
     * Om illegale goederen terug te kunnen eisen, mogen alleen hoofd-agenten of hoger ontvoerd worden, of donkerblauwe KMAR. LET OP: Het is niet de bedoeling om elke agent van de straat te halen, om diens rang te checken.
 
 > Straf ⇨ Categorie 2
