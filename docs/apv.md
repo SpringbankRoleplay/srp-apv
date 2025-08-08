@@ -77,10 +77,21 @@ Het is niet toegestaan om je voertuig als geweldsmiddel te gebruiken. Ook indien
 > Straf ⇨ Categorie 4
 
 ### Artikel 7 - RDM (Random Deathmatch)
-**Het is niet toegestaan om zonder goede aanleiding iemand van het leven te beroven of te mishandelen. Dit geldt ook voor dieren.**
+**Het is niet toegestaan om iemand te verwonden of van het leven te beroven, zonder geldige reden. Dit geldt ook voor dieren.**
 
-* Indien een persoon zonder goede aanleiding mensen van het leven beroofd kan een stafflid besluiten om het gebruikte wapen in beslag te nemen.
-* Indien je iemand achtervolgt, diegene een waarschuwingsschot afvuurt en jij blijft achtervolgen, dan mag jij beschoten worden. Hiermee neem je zelf een risico. Dit geldt ook voor het doorvliegen in een helicopter na een waarschuwingsschot.
+Hier valt o.a. het volgende onder:
+• Zonder roleplay met iemand, diegene slaan of vermoorden
+• Het neerschieten van iemand die geen gevaar is in dat scenario
+• Het uitlokken van een scenario, met het doel iemand te doden.
+
+Dit betekent dus dat er een roleplay scenario gaande moet zijn tussen jou en de persoon EN die persoon een gevaar voor jou moet zijn om iemand te mogen doden.
+
+*Voorbeelden (maar niet beperkt tot)
+Tyeisha en ik rijden langs een winkel ov en blijven hier even staan. Er wordt actief op ons geschoten en Tyeisha gaat dood. Dit is RDM: wij zijn geen gevaar en we zitten niet in een RP scenario. Hier moet er banden geschoten worden en gehandsupt.
+
+Tyeisha en ik zijn in dienst als politie. Ik ben benen geschoten en zit op de grond, zonder wapen. Tyeisha begint ineens het vuur te openen op de aanwezige criminelen. De criminelen schieten Tyeisha en mij dood. Dit is RDM, want ik ben geen gevaar.
+
+Tyeisha en ik staan op de pluk. Lucifer komt naar ons toe en noemt ons kutwijven. Wij slaan hem dood. Dit is RDM; dit is geen reden om iemand te doden.*
 
 > Straf ⇨ Categorie 4
 
@@ -260,7 +271,7 @@ De voorwaardelijke straffen zijn als volgt, bij het volgende op zak:
     * Het is ook niet toegestaan om iemand die AFK staat te dragen en als hostage mee te nemen.
 3. Zodra jij een overval doet en je krijgt groenlicht mag er 10min lang geen setup gegooid worden. De 10min worden gerekend vanaf het moment dat er groenlicht gegeven is. 
 4. Indien Politie/KMar bij een OV de gehele afzetting heeft geplaatst of er na 15 minuten nog geen Politie/KMar aanwezig is, mag er op eigen risico weggereden worden met de buit zonder groenlicht.
-5. Indien je een OV doet zonder duidelijke hostage en zonder wapen vast te hebben, dan mag de politie binnenvallen. Dit geldt niet voor ovs waar een scenario aan vast zit, zoals: bouwvakkers, winkel vullers, etc. Dan moet dat scenario wel helemaal uitgewerkt zijn met bijbehorende papieren!
+5. Indien je een OV doet zonder duidelijke hostage en zonder wapen vast te hebben, dan mag de politie binnenvallen. Dit geldt niet voor ovs waar een scenario aan vast zit, zoals: bouwvakkers, winkel vullers, etc. Dan moet dat scenario wel helemaal uitgewerkt zijn met bijbehorende papieren! Het is verplicht om een wapen vast te hebben gedurende de overval, indien je de starter bent van de overval.
 6. Bij de OILRIG overval mag enkel DSI of KLU aankoppelen, niet allebei
 7. Er mag geen DSI aankoppelen bij een kleine bank, tenzij de politie DSI oproept aangezien zij beschoten worden
 8. Als er een counter plaatsvindt, dan wordt er aangekoppeld op het aantal wapens. Bijvoorbeeld: 4 wapens is 4 eenheden. Ben je met minder, is dit eigen risico.
