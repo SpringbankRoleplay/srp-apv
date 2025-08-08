@@ -26,7 +26,7 @@
 - Tijdens een achtervolging je voertuig in de garage zetten om te voorkomen dat je herkend wordt.
 - Het expres slecht/niet afmaken van een scenario of te verstoren, ondanks de situatie. Ook het verstoren/belemmeren van overheidsmedewerkers hoort hierbij. 
 - Het stelen uit kofferbakken door bijvoorbeeld iemand van de motor af te trappen, of bij de garage uit iemands auto te stelen, wanneer die persoon zelf bij zijn auto bezig is. 
-- Het niet realistisch reageren op je verwondingen. Bijvoorbeeld meteen op de motor stappen, nadat je in je benen geschoten bent.
+- Het niet realistisch reageren op je verwondingen. Bijvoorbeeld meteen op de motor stappen, nadat je in je benen geschoten bent. Als je benen geschoten bent, mag je 60 seconden niet meer rennen, schieten of meedoen met het scenario. Je mag wel rustig lopend een schuilplek zoeken, of als passagier in de auto stappen. Blijf je in het scenario, heb je medische zorg nodig alvorens je verder mag gaan.
 - Indien je een harde crash hebt gemaakt, of een crashbeeld hebt, mag je niet meteen door met het scenario. Je moet 30 seconden wachten. In een achtervolging moet je afkoppelen. Dit geldt voor zowel overheid als onderwereld. Of de crash te hard is, is op bepaling van staff. 
 - Dit is bijvoorbeeld:
     - Meerdere malen over de kop vliegen.
@@ -87,11 +87,11 @@ Hier valt o.a. het volgende onder:
 Dit betekent dus dat er een roleplay scenario gaande moet zijn tussen jou en de persoon EN die persoon een gevaar voor jou moet zijn om iemand te mogen doden.
 
 *Voorbeelden (maar niet beperkt tot)
-Tyeisha en ik rijden langs een winkel ov en blijven hier even staan. Er wordt actief op ons geschoten en Tyeisha gaat dood. Dit is RDM: wij zijn geen gevaar en we zitten niet in een RP scenario. Hier moet er banden geschoten worden en gehandsupt.
+Tyeisha en Hoop rijden langs een winkel ov en blijven hier even staan. Er wordt actief op ze geschoten en Tyeisha gaat dood. Dit is RDM: zij zijn geen gevaar en ze zitten niet in een RP scenario. Hier moet er banden geschoten worden en gehandsupt. 
 
-Tyeisha en ik zijn in dienst als politie. Ik ben benen geschoten en zit op de grond, zonder wapen. Tyeisha begint ineens het vuur te openen op de aanwezige criminelen. De criminelen schieten Tyeisha en mij dood. Dit is RDM, want ik ben geen gevaar.
+Tyeisha en Hoop zijn in dienst als politie. Hoop is benen geschoten en zit op de grond, zonder wapen. Tyeisha begint ineens het vuur te openen op de aanwezige criminelen. De criminelen schieten Tyeisha en Hoop dood. Dit is RDM, want Hoop is geen gevaar. (ZIE FAILRP, Hoop mag in dit geval niet opstaan en meedoen met het scenario, zij heeft medische zorg nodig.)
 
-Tyeisha en ik staan op de pluk. Lucifer komt naar ons toe en noemt ons kutwijven. Wij slaan hem dood. Dit is RDM; dit is geen reden om iemand te doden.*
+Tyeisha en Hoop staan op de pluk. Lucifer komt naar ze toe en noemt ons kutwijven. Tyeisha en Hoop slaan hem dood. Dit is RDM; dit is geen reden om iemand te doden.*
 
 > Straf ⇨ Categorie 4
 
