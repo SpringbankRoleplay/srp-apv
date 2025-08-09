@@ -86,7 +86,7 @@ Hier valt o.a. het volgende onder:
 
 Dit betekent dus dat er een roleplay scenario gaande moet zijn tussen jou en de persoon EN die persoon een gevaar voor jou moet zijn om iemand te mogen doden.
 
-*Voorbeelden (maar niet beperkt tot)
+*Voorbeelden (maar niet beperkt tot)*
 Tyeisha en Hoop rijden langs een winkel ov en blijven hier even staan. Er wordt actief op ze geschoten en Tyeisha gaat dood. Dit is RDM: zij zijn geen gevaar en ze zitten niet in een RP scenario. Hier moet er banden geschoten worden en gehandsupt. 
 
 Tyeisha en Hoop zijn in dienst als politie. Hoop is benen geschoten en zit op de grond, zonder wapen. Tyeisha begint ineens het vuur te openen op de aanwezige criminelen. De criminelen schieten Tyeisha en Hoop dood. Dit is RDM, want Hoop is geen gevaar. (ZIE FAILRP, Hoop mag in dit geval niet opstaan en meedoen met het scenario, zij heeft medische zorg nodig.)
