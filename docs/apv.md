@@ -107,7 +107,8 @@ Tyeisha en Hoop staan op de pluk. Lucifer komt naar ze toe en noemt ons kutwijve
 * Het is niet toegestaan om een zelfmoordscenario op te zetten.
 * Het is niet NVOL wanneer iemand een wapen op jou richt als je voertuig al in beweging is, je hoeft dan niet te blijven staan.
 * Het is enkel toegestaan om van een brug af te springen, indien je een parachute bij je hebt.
-* Het is niet toegestaan om met een voertuig het water in te rijden, of om uit/van een rijdend voertuig te springen. 
+* Het is niet toegestaan om met een voertuig het water in te rijden, of om uit/van een rijdend voertuig te springen.
+* Het is nvol indien jij onbewapend iemand blijft volgen, nadat diegene een waarschuwingsschot heeft gelost.
 
 > Straf ⇨ Categorie 4
 
