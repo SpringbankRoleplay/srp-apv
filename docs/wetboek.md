@@ -713,7 +713,7 @@ Een terroristisch misdrijf/daad houdt in dat er sprake is van de intentie om de 
 
 ### Artikel V-2 Vuurwapens en Explosieven (26 WWM)
 
-1. Strafbaar is een persoon die een vuurwapen voorhanden heeft, bij zich draagt, of opgeslagen heeft in huis of in de laadruimte van zijn of haar vervoersmiddel.
+1. Strafbaar is een persoon die een vuurwapen voorhanden heeft, bij zich draagt, of opgeslagen heeft in huis of in de laadruimte van zijn of haar vervoersmiddel zonder hiervoor de geldige vergunning te hebben.
 2. Onderscheid wordt gemaakt tussen:
    * kleine vuurwapens (pistolen, revolvers, e.d.), aangeduid als Categorie 1;
    * Automatische vuurwapens, jachtgeweren, shotguns, explosieven, granaten, thermiet, etc., aangeduid als Categorie 2.
@@ -1007,6 +1007,18 @@ Een terroristisch misdrijf/daad houdt in dat er sprake is van de intentie om de 
 |  Eerste Veroordeling | 12 maanden |  | € 10.000,-  |
 | Tweede Veroordeling  | 36 maanden |  | € 15.000,-  |
 | Meerdere Veroordelingen  | 48 maanden |  | € 20.000,-  |
+
+### Artikel VIII-15 Stroperij (314 SR)
+
+1. Een persoon wordt als schuldig beschouwd wanneer hij zonder geldige vergunning of ontheffing wilde dieren of beschermde diersoorten bejaagt, vangt, doodt of op andere wijze belast.  
+2. Een persoon wordt als schuldig beschouwd wanneer hij middelen gebruikt die verboden zijn voor jacht of stroperij, zoals vergif, vallen of verboden wapens.  
+3. Een persoon wordt niet als schuldig beschouwd indien hij beschikt over een geldige vergunning of ontheffing voor het vangen, jagen of beheren van wilde dieren conform de geldende regels.
+
+|                         | Celstraf  | Taakstraf | Boete       |
+|-------------------------|-----------|-----------|-------------|
+| Eerste Veroordeling      |           | 40 uur    | € 5.000,-   |
+| Tweede Veroordeling      | 50 maanden    |           | € 10.000,-  |
+| Meerdere Veroordelingen  | 75 maanden    |           | € 15.000,-  |
 
 ## Titel IX – Schadevergoeding
 
