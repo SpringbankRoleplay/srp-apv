@@ -16,11 +16,10 @@ Alle voertuigen die niet zijn opgenomen in dit document zijn standaard van de kl
 Elk voertuig mag op onverharde wegen rijden t/nm 100 km/u. De voertuigen hieronder mogen zonder limiet op onverharde wegen rijden:
 
  * Aanhanger
- * Albany Cavcade XL
+ * Albany Cavcade 
  * Albany Cavcade XL
  * Bf Surfer x19 (alleen met off-road banden)
  * Bf Surfer x21 (alleen met off-road banden)
- * Bravado Gresley
  * Bravado Gresley
  * Coil Khamel
  * Declasse Gburrito (alleen met off-road banden)
@@ -36,12 +35,12 @@ Elk voertuig mag op onverharde wegen rijden t/nm 100 km/u. De voertuigen hierond
  * Karin Sultan (alleen met off-road banden)
  * Karin Sult RSX (alleen met off-road banden)
  * Lampadati Novak
- * Lampadati Novak
  * Obey Rocoto
  * Pagassi Toros
  * Pfister Astron Custom
  * Ubermacht Rebla CTs
  * Ubermacht Beretta
+ * Ubermacht X340R ZK
  * Vapid Aleutian XL
  * Vapid Minivan (alleen met off-road banden)
  * Vapid Minivan Lowrider (alleen met off-road banden)
@@ -53,7 +52,7 @@ Elk voertuig mag op onverharde wegen rijden t/nm 100 km/u. De voertuigen hierond
 ### Off-road wegen
  * Aanhanger (alleen met off-road banden)
  * Annis Hellion
- * Annis Hellion
+ * Beclasse Draugur
  * Benefactor Dubsta (alleen met off-road banden)
  * Benefactor Dubsta 6x6
  * Benefactor Dubsta Sport (alleen met off-road banden)
@@ -74,9 +73,11 @@ Elk voertuig mag op onverharde wegen rijden t/nm 100 km/u. De voertuigen hierond
  * Coil LOD-4
  * Declasse Draugur
  * Declasse Yosemite DRT
+ * Declasse L35
  * Gallivanter Baller Raid
  * Karin Bjxl
- * Karin Everon Stock
+ * Karin Boor
+ * Karin Everon 
  * Karin Rebel 20
  * Karin Rebel Raid
  * Maibatsu Manchez Safari
@@ -94,7 +95,6 @@ Elk voertuig mag op onverharde wegen rijden t/nm 100 km/u. De voertuigen hierond
  * Vapid Caracara
  * Vapid Contendor
  * Vapid Contender Custom
- * Vapid Sandking
  * Vapid Sandking
  * Vapid Trophy
  * Vapid Trophy Sport
