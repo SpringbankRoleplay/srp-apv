@@ -276,7 +276,8 @@ De voorwaardelijke straffen zijn als volgt, bij het volgende op zak:
 6. Bij de OILRIG overval mag enkel DSI of KLU aankoppelen, niet allebei
 7. Er mag geen DSI aankoppelen bij een kleine bank, tenzij de politie DSI oproept aangezien zij beschoten worden
 8. Als er een counter plaatsvindt, dan wordt er aangekoppeld op het aantal wapens. Bijvoorbeeld: 4 wapens is 4 eenheden. Ben je met minder, is dit eigen risico.
-
+   
+> Straf ⇨ Categorie 3
 
 ### Artikel 26  - Wraak en liquidaties 
 1. Het is alleen toegestaan om iemand te liquideren als het slachtoffer in kennis is van de reden hierachter. Het is dus de bedoeling dat dit aan het slachtoffer duidelijk wordt gemaakt <b>voor</b> hij geliquideerd wordt.
