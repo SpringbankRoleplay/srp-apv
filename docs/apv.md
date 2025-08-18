@@ -89,7 +89,7 @@ Dit betekent dus dat er een roleplay scenario gaande moet zijn tussen jou en de 
 *Voorbeelden (maar niet beperkt tot)*
 Tyeisha en Hoop rijden langs een winkel ov en blijven hier even staan. Er wordt actief op ze geschoten en Tyeisha gaat dood. Dit is RDM: zij zijn geen gevaar en ze zitten niet in een RP scenario. Hier moet er banden geschoten worden en gehandsupt. 
 
-Tyeisha en Hoop zijn in dienst als politie. Hoop is benen geschoten en zit op de grond, zonder wapen. Tyeisha begint ineens het vuur te openen op de aanwezige criminelen. De criminelen schieten Tyeisha en Hoop dood. Dit is RDM, want Hoop is geen gevaar. (ZIE FAILRP, Hoop mag in dit geval niet opstaan en meedoen met het scenario, zij heeft medische zorg nodig.)
+Tyeisha en Hoop zijn in dienst als politie. Hoop is benen geschoten en zit op de grond, zonder wapen. Tyeisha begint ineens het vuur te openen op de aanwezige criminelen. De criminelen schieten Tyeisha en Hoop dood. Dit is RDM, want Hoop is geen gevaar. (ZIE FAILRP, Hoop mag in dit geval niet opstaan en meedoen met het scenario, zij heeft medische zorg nodig.) Dit geldt niet in actieve vuurgevechten. Indien je meteen gefinished wordt, is dit voorbeeld niet van toepassing!
 
 Tyeisha en Hoop staan op de pluk. Lucifer komt naar ze toe en noemt ons kutwijven. Tyeisha en Hoop slaan hem dood. Dit is RDM; dit is geen reden om iemand te doden.*
 
@@ -256,8 +256,8 @@ De voorwaardelijke straffen zijn als volgt, bij het volgende op zak:
 	* Onder dwang iemand zijn huis of loods betreden en leegroven.
         * De inhoud van kluizen van verified of offi gangs of bedrijven (andere kluizen zijn eigen risico).
 4. Je mag alleen scammen als het om illegale goederen gaat, er een wapen bij betrokken is en je het in een roleplay scenario doet.
-	* Bijvoorbeeld: A verkoopt een wapen aan B, B ript het wapen, of A ript het terug. Hands up is vereist.
-	* Scams zijn alleen toegestaan tot een maximum van 2 miljoen. Dit betekent dat de totale waarde van de scam, inclusief goederen of geld, niet meer dan 2 miljoen mag bedragen.
+	* Bijvoorbeeld: A verkoopt een wapen aan B, B ript het wapen, of A ript het terug. Hands up is vereist. Het gaat dus om een ripdeal.
+	* Scams zijn alleen toegestaan tot een maximum van 2 miljoen. Dit betekent dat de totale waarde van de scam, inclusief goederen of geld, niet meer dan 2 miljoen wit mag bedragen.
       * Geld of spullen uitlenen is op EIGEN RISICO!
 5. Het oplichten met auto’s is niet toegestaan. Hier valt onder het ruilen van auto’s, of het verkopen van auto’s en het voertuig niet geven. Ook het liegen over tunes en de staat van de auto is niet toegestaan.
 
@@ -388,7 +388,7 @@ Wanneer je van overheidsbaan naar overheidsbaan, van een verified/officiele groe
 1. Het is niet toegestaan om eigenaar te zijn van twee bedrijven
 2. Het is alleen toegestaan om een beveiligingscamera te plaatsen op eigen terrein, in de directe omgeving van jouw woning. 
 3. De bedrijven mogen niet verkocht worden. Dit gaat enkel via de Gemeente.
-4. Je mag maximaal 2 huizen op je naam hebben staan.
+4. Je mag maximaal 3 huizen op je naam hebben staan.
 
 > Straf ⇨ Categorie 5
   
