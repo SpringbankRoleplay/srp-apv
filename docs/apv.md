@@ -87,11 +87,22 @@ Hier valt o.a. het volgende onder:
 Dit betekent dus dat er een roleplay scenario gaande moet zijn tussen jou en de persoon EN die persoon een gevaar voor jou moet zijn om iemand te mogen doden.
 
 *Voorbeelden (maar niet beperkt tot)*
-Tyeisha en Hoop rijden langs een winkel ov en blijven hier even staan. Er wordt actief op ze geschoten en Tyeisha gaat dood. Dit is RDM: zij zijn geen gevaar en ze zitten niet in een RP scenario. Hier moet er banden geschoten worden en gehandsupt. 
+*Tyeisha en Hoop rijden langs een winkel ov en blijven hier even staan. Er wordt actief op ze geschoten en Tyeisha gaat dood. Dit is RDM: zij zijn geen gevaar en ze zitten niet in een RP scenario. Hier moet er banden geschoten worden en gehandsupt.*
 
-Tyeisha en Hoop zijn in dienst als politie. Hoop is benen geschoten en zit op de grond, zonder wapen. Tyeisha begint ineens het vuur te openen op de aanwezige criminelen. De criminelen schieten Tyeisha en Hoop dood. Dit is RDM, want Hoop is geen gevaar. (ZIE FAILRP, Hoop mag in dit geval niet opstaan en meedoen met het scenario, zij heeft medische zorg nodig.) Dit geldt niet in actieve vuurgevechten. Indien je meteen gefinished wordt, is dit voorbeeld niet van toepassing!
+*Tyeisha en Hoop zijn in dienst als politie. Hoop is benen geschoten en zit op de grond, zonder wapen. Tyeisha begint ineens het vuur te openen op de aanwezige criminelen. De criminelen schieten Tyeisha en Hoop dood. Dit is RDM, want Hoop is geen gevaar. (ZIE FAILRP, Hoop mag in dit geval niet opstaan en meedoen met het scenario, zij heeft medische zorg nodig.) Dit geldt niet in actieve vuurgevechten. Indien je meteen gefinished wordt, is dit voorbeeld niet van toepassing!*
 
-Tyeisha en Hoop staan op de pluk. Lucifer komt naar ze toe en noemt ons kutwijven. Tyeisha en Hoop slaan hem dood. Dit is RDM; dit is geen reden om iemand te doden.*
+*Tyeisha en Hoop staan op de pluk. Lucifer komt naar ze toe en noemt ons kutwijven. Tyeisha en Hoop slaan hem dood. Dit is RDM; dit is geen reden om iemand te doden.*
+
+**KO SLAAN**
+Het KO slaan in scenario's mag enkel gebruikt worden wanneer:
+* Dit RP-wijs mogelijk is;
+* Woorden geen zin meer hebben;
+* Het ernstig verwonden van betrokkenen  niet passend is bij het scenario
+
+Nadat je KO bent geslagen, kan je gedetailleerde informatie over het scenario niet meer herinneren. Je kan dus enkel, stapsgewijs, wazige momenten van het scenario herinneren. Na 15 minuten weet je alles weer.
+Voorbeelden van gedetailleerde informatie zijn, maar niet beperkt tot: 
+* Merk/type/kleur of kenteken van betrokken voertuigen.
+* Signalement van betrokken personen.
 
 > Straf ⇨ Categorie 4
 
@@ -110,7 +121,7 @@ Tyeisha en Hoop staan op de pluk. Lucifer komt naar ze toe en noemt ons kutwijve
 * Het is niet toegestaan om met een voertuig het water in te rijden, of om uit/van een rijdend voertuig te springen.
 * Het is nvol indien jij onbewapend iemand blijft volgen, nadat diegene een waarschuwingsschot heeft gelost.
 
-> Straf ⇨ Categorie 4
+> Straf ⇨ Categorie 5
 
 ### Artikel 9 - Combat-logging
 Het is niet toegestaan om tijdens een actief scenario of 10 minuten daarna de stad te verlaten op welke manier dan ook. Mocht het onverhoopt toch voorkomen dat je direct de stad moet verlaten, is het belangrijk dat dit bespreekbaar wordt gemaakt met alle betrokken partijen. Ook na een restart dien je terug te komen, indien je daarvoor in een scenario belandt bent. 
