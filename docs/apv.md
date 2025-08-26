@@ -332,7 +332,7 @@ Verder:
 2. Uitzondering op lid 1 is wanneer het slachtoffer in kwestie binnen het uur zijn kleding zodanig heeft veranderd dat hij niet meer te herkennen valt als eerst.
 3. Het is enkel toegestaan spullen uit iemands auto te pakken, indien je een wapen op diegene richt. Het meenemen van dat voertuig voor overladen en /leensleutel vragen is toegestaan. 
 4. Het is toegestaan om iemand te rippen bij een illegaal verkooppunt als deze persoon binnen 1 meter van de NPC staat.
-5. Het is niet toegestaan om iemand te rippen en daarna te vermoorden. Indien je iemand om een andere (geldige) reden wel vermoord, dien je de spullen te droppen.
+5. Het is niet toegestaan om iemand te rippen en daarna te vermoorden, tenzij je een geldige reden hebt binnen dit scenario. 
 6. Het is toegestaan iemand te handsuppen/rippen, indien die persoon je langer dan 60 seconden volgt en 3 dezelfde turns maakt, of je diegene 3 keer ziet scouten in hetzelfde scenario, of diegene daar 3 keer porto called (of een combinatie van)
 7. Het is toegestaan iemand te fouilleren indien deze een masker of holster draagt.
 8. Airdrops mogen geript worden. Let op! Dit is geen combat gebied. Je mag rippen, maar geen onnodig geweld gebruiken.
