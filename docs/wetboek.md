@@ -782,60 +782,11 @@ Een terroristisch misdrijf/daad houdt in dat er sprake is van de intentie om de 
 | **Tweede Veroordeling**  | 37 maanden  |  | € 8500,-  |
 | **Meerdere Veroordelingen**  | 49 maanden  |  | € 9350,-  |
 
-## Titel VI - Wet op de Kansspelen
+
+## Titel VI - Uitsluitings- en strafverminderingsgronden
 
 
-### Artikel VI-1 Algemeen verbod (1 Wok)
-
-1. Schuldig is een persoon die zonder geldige vergunning een gelegenheid biedt om mee te dingen naar prijzen of geld, in de vorm van een kansspel.
-2. Niet schuldig is een persoon die hiervoor een geldende vergunning heeft.
-
-|   | *Celstraf*  | *Taakstraf*  | *boete*  |
-|---|---|---|---|
-|  **Eerste Veroordeling** |   |   | € 1000,-  |
-| **Tweede Veroordeling**  |   |   | € 2500,-  |
-| **Meerdere Veroordelingen**  |   |  | € 7500,-  |
-
-### Artikel VI-2 Casinospelen (27g Wok)
-
-1. Schuldig is een persoon die zonder geldige vergunning casinospelen op basis van kansbepaling publiekelijk of bedrijfsmatig aanbiedt.
-2. Niet schuldig is een persoon die hiervoor een geldende vergunning heeft.
-3. De Overheid behoudt het recht om op één of enkele plekken casinospelen aan te bieden.
-
-|   | *Celstraf*  | *Taakstraf*  | *boete*  |
-|---|---|---|---|
-|  **Eerste Veroordeling** |   | 5 uur  | € 1000,-  |
-| **Tweede Veroordeling**  |   | 10 uur  | € 2500,-  |
-| **Meerdere Veroordelingen**  |   | 20 uur | € 5000,-  |
-
-### Artikel VI-3 Loterijen (27 Wok)
-
-1. Schuldig is een persoon die zonder geldige vergunning een gelegenheid biedt om mededingers een aantal symbolen te doen voorspellen, die door loting of trekking worden verkregen uit een van tevoren opgegeven aantal symbolen ("De Lotto").
-2. Schuldig is een persoon die zonder geldige vergunning een loterij houdt waarbij een winnend lotnummer door trekking wordt gekozen.
-3. Niet schuldig is een persoon die hiervoor een geldende vergunning heeft.
-
-|   | *Celstraf*  | *Taakstraf*  | *boete*  |
-|---|---|---|---|
-|  **Eerste Veroordeling** |   |  | € 2500,-  |
-| **Tweede Veroordeling**  |   | 10 uur  | € 5000,-  |
-| **Meerdere Veroordelingen**  |   | 20 uur | € 7500,-  |
-
-### Artikel VI-4 Verdubbelaar en pyramidespel (1a Wok)
-
-1. Schuldig is een persoon die zonder geldige vergunning een gelegenheid biedt om geld of goederen te verdubbelen door het afgeven of overmaken van een voorgesteld bedrag of goed.
-2. Schuldig is een persoon die zonder geldige vergunning geld of goederen eist, teneinde daaruit een voordeel uit te beloven dat geheel of ten dele afhankelijk is van de afgifte van geld of goederen door latere deelnemers.
-3. Niet schuldig is een persoon die hiervoor een geldende vergunning heeft.
-
-|   | *Celstraf*  | *Taakstraf*  | *boete*  |
-|---|---|---|---|
-|  **Eerste Veroordeling** |   | 5 uur  | € 2500,-  |
-| **Tweede Veroordeling**  |   | 10 uur  | € 5000,-  |
-| **Meerdere Veroordelingen**  |   | 20 uur | € 10000,-  |
-
-## Titel VII - Uitsluitings- en strafverminderingsgronden
-
-
-### Artikel VII-1 Algemene Uitsluitingen (39-43 SR)
+### Artikel VI-1 Algemene Uitsluitingen (39-43 SR)
 
 1. Niet schuldig is een persoon die:
     1. wegens de gebrekkige ontwikkeling of ziekelijke stoornis van zijn of haar geestvermogens een strafbaar feit begaat;
@@ -846,7 +797,7 @@ Een terroristisch misdrijf/daad houdt in dat er sprake is van de intentie om de 
     6. een strafbaar feit begaat ter uitvoering van een ambtelijk bevel, gegeven door het daartoe bevoegde gezag;
         1. Een onbevoegd gegeven ambtelijk bevel heft de strafbaarheid niet op, tenzij het door de ondergeschikte te goeder trouw als bevoegd gegeven werd beschouwd en de nakoming daarvan binnen de kring van zijn ondergeschiktheid was gelegen.
 
-### Artikel VII-2 Vormfouten
+### Artikel VI-2 Vormfouten
 
 1. De (hulp-)Officier van justitie en de rechter kan/kunnen, indien blijkt dat bij het voorbereidend onderzoek vormen zijn verzuimd die niet meer kunnen worden hersteld en de rechtsgevolgen hiervan niet uit de wet blijken, bepalen dat:
 2. de hoogte van de straf in verhouding tot de ernst van het verzuim, zal worden verlaagd, indien het door het verzuim veroorzaakte nadeel langs deze weg kan worden      gecompenseerd;
@@ -861,7 +812,7 @@ Een terroristisch misdrijf/daad houdt in dat er sprake is van de intentie om de 
     4. het voeren van een meinedig proces-verbaal zijnde tegenstrijdigheid met andere processen-verbaal, camerabeelden, geluidsopnamen;
     5. inbreuk op het recht van een verdachte op aanwezigheid van een advocaat tijdens een huiszoeking (en andere rechten van een verdachte), ook wel een verdedigingsrecht genoemd, bestaat er voor de (hulp-)Officier van justitie en de rechter een mogelijkheid om de inbreuk te herstellen.
 
-### Artikel VII-3 Strafvermindering (44a.2 SR)
+### Artikel VI-3 Strafvermindering (44a.2 SR)
 
 1. Wanneer besloten wordt tot een strafvermindering kan als leidraad gebruikt worden:
     1. vermindering van maximaal de helft bij een onvoorwaardelijke tijdelijke vrijheidsstraf, taakstraf of geldboete, of
@@ -875,10 +826,10 @@ Een terroristisch misdrijf/daad houdt in dat er sprake is van de intentie om de 
     5. proportionaliteit;
     6. aandeel van de verdachte in het geheel, indien er sprake is van een grootschalige overtreding met meerdere partijen.
 
-## Titel VIII - Overige
+## Titel VII - Overige
 
 
-### Artikel VIII-1 Niet voldoen aan een bevel of vordering (184 SR)
+### Artikel VII-1 Niet voldoen aan een bevel of vordering (184 SR)
 
 1. Schuldig is een persoon die opzettelijk niet voldoet aan een bevel of vordering dat krachtens wettelijk voorschrift wordt gegeven door een ambtenaar in functie.
 2. Schuldig is een persoon die opzettelijk een ambtenaar in functie belemmert in de uitvoering daarvan.
@@ -889,16 +840,16 @@ Een terroristisch misdrijf/daad houdt in dat er sprake is van de intentie om de 
 | **Tweede Veroordeling**  |   | 30 uur  | € 320,-  |
 | **Meerdere Veroordelingen**  |   | 40 uur  | € 320,-  |
 
-### Artikel VIII-2 Belediging (266 SR)
+### Artikel VII-2 Belediging (266 SR)
 
 1. Schuldig is een persoon die opzettelijk een ander belegdigt op straffe van een boete van €1200,- per geval.
 2. Wanneer de belediging opzettelijk is geuit richting een ambtenaar in functie wordt de boete uit lid 1 verdubbeld.
 
-### Artikel VIII-3 Opgeven valse gegevens (435 SR)
+### Artikel VII-3 Opgeven valse gegevens (435 SR)
 
 1. Schuldig is een persoon die bij vordering van een ambtenaar in functie valse gegevens opgeeft, op straffe van een boete van €250,- per geval.
 
-### Artikel VIII-4 Niet op eerste vordering tonen van identiteitsbewijs (447e SR)
+### Artikel VII-4 Niet op eerste vordering tonen van identiteitsbewijs (447e SR)
 
 1. Schuldig is een persoon die geen gehoor geeft aan een vordering tot inzage van het identiteitsbewijs door een ambtenaar in functie, wanneer dit in het kader van de wet door de ambtenaar als noodzakelijk wordt geacht, op straffe van een boete van €320,- per geval.
 
@@ -912,7 +863,7 @@ Een terroristisch misdrijf/daad houdt in dat er sprake is van de intentie om de 
 | **Tweede Veroordeling**  |   |   | € 120,-  |
 | **Meerdere Veroordelingen**  |   | 5 uur  | € 120,-  |
 
-### Artikel VIII-6 Dragen van gezichtsbedekkende kledij (1 Wet gedeeltelijk verbod gezichtsbedekkende kleding)
+### Artikel VII-6 Dragen van gezichtsbedekkende kledij (1 Wet gedeeltelijk verbod gezichtsbedekkende kleding)
 
 1. Schuldig is een persoon die kleding draagt, die het gezicht geheel bedekt of zodanig bedekt dat alleen de ogen onbedekt zijn, dan wel onherkenbaar maakt, op straffe van een boete van €200,- per geval.
 2. Het eerste lid is niet van toepassing, voor zover kleding als bedoeld in dat lid:
@@ -921,7 +872,7 @@ Een terroristisch misdrijf/daad houdt in dat er sprake is van de intentie om de 
     3. noodzakelijk is in verband met eisen die aan de uitoefening van een beroep of sport worden gesteld,
     4. passend is in verband met het deelnemen aan een feestelijke of een culturele activiteit.
 
-### Artikel VIII-7 Identiteitsfraude
+### Artikel VII-7 Identiteitsfraude
 
 1. Schuldig is een persoon die zich uitgeeft als iemand anders, onder naam van iemand anders, in naam van iemand anders, of gelieerd aan iemand anders met als doel daaruit een gewin te behalen in brede zin.
 
@@ -931,7 +882,7 @@ Een terroristisch misdrijf/daad houdt in dat er sprake is van de intentie om de 
 | **Tweede Veroordeling**  |   |   | € 4000,-  |
 | **Meerdere Veroordelingen**  |   | 20 uur  | € 6000,-  |
 
-### Artikel VIII-8 Deelname aan een criminele organisatie
+### Artikel VII-8 Deelname aan een criminele organisatie
 
 1. Schuldig is een persoon die deelneemt aan, steun verleent aan, of gelieerd is aan een organisatie die tot doel heeft het plegen van misdrijven.
 2. Ten aanzien van de oprichters, leiders of bestuurders kunnen de gevangenisstraffen met een derde worden verhoogd.
@@ -943,7 +894,7 @@ Een terroristisch misdrijf/daad houdt in dat er sprake is van de intentie om de 
 | **Tweede Veroordeling**  |   | 20 uur  | € 6000,-  |
 | **Meerdere Veroordelingen**  | 20 maanden  |  | € 9000,-  |
 
-### Artikel VIII-9 Lokaalvredebreuk (139 SR)
+### Artikel VII-9 Lokaalvredebreuk (139 SR)
 
 1. Schuldig is een persoon die in een voor de openbare dienst bestemd lokaal, besloten erf of openbare ruimte, wederrechtelijk binnendringt, of, wederrechtelijk aldaar vertoevende, zich niet op de vordering van de bevoegde ambtenaar aanstonds verwijdert.
 2. Schuldig is een persoon die zich de toegang heeft verschaft door middel van braak of inklimming, van valse sleutels, van een valse order of een vals kostuum, of die zonder voorkennis van de bevoegde ambtenaar en anders dan ten gevolge van vergissing binnengekomen, aldaar wordt aangetroffen in de voor de nachtrust bestemde tijd, wordt geacht te zijn binnengedrongen.
@@ -954,7 +905,7 @@ Een terroristisch misdrijf/daad houdt in dat er sprake is van de intentie om de 
 | Tweede Veroordeling  |   | 40 uur  | €2,000 |
 | Meerdere Veroordelingen  |   | 50 uur | €3,000 |
 
-### Artikel VIII-10 Huisvredebreuk (138 SR)
+### Artikel VII-10 Huisvredebreuk (138 SR)
 
 1. Schuldig is een persoon die een woning of besloten lokaal of erf bij een ander in gebruik, wederrechtelijk binnendringt of, wederrechtelijk aldaar vertoevende, zich niet op de vordering van of vanwege de rechthebbende aanstonds verwijdert.
 2. Schuldig is een persoon die zich de toegang heeft verschaft door middel van braak of inklimming, van lockpicks, van een valse order of vals kostuum, of die, zonder voorkennis van de rechthebbende en anders dan ten gevolge van vergissing binnengekomen, aldaar wordt aangetroffen in de voor de nachtrust bestemde tijd, wordt geacht te zijn binnengedrongen.
@@ -965,7 +916,7 @@ Een terroristisch misdrijf/daad houdt in dat er sprake is van de intentie om de 
 | Tweede Veroordeling  |   | 40 uur  | € 4000,- |
 | Meerdere Veroordelingen  |   | 50 uur | € 6000,- |
 
-### Artikel VIII-11 Betreden van verboden domein
+### Artikel VII-11 Betreden van verboden domein
 
 1. Schuldig is een persoon die zonder daartoe gerechtigd is, over iemand anders zijn grond waarvan de toegang op een voor hem blijkbare wijze door den rechthebbende is verboden, loopt, rijdt of vee laat lopen.
 2. Schuldig is een persoon die zonder daartoe gerechtigd is, over bij wet geclassificeerde verboden domeinen te lopen, rijden, varen, vliegen of landen zonder nadrukkelijke en aantoonbaar toestemming te hebben verkregen van de Politie of Koninklijke Marechaussee
@@ -983,11 +934,11 @@ Een terroristisch misdrijf/daad houdt in dat er sprake is van de intentie om de 
 | Tweede Veroordeling  | 36 maanden | | € 10000,-  |
 | Meerdere Veroordelingen  | 54 maanden |  | € 15000,-  |
 
-### Artikel VIII-12 Recht op bijstand Advocaat tijdens huiszoeking (artikel 99a sv)
+### Artikel VII-12 Recht op bijstand Advocaat tijdens huiszoeking (artikel 99a sv)
 
 1. De verdachte is bevoegd zich tijdens het doorzoeken van plaatsen door zijn advocaat te doen bijstaan, zonder dat de doorzoeking daardoor mag worden opgehouden.
 
-### Artikel VIII-13 Misdrijven tegen de openbare orde (131 SR)
+### Artikel VII-13 Misdrijven tegen de openbare orde (131 SR)
 
 1. Hij die in het openbaar, mondeling of bij geschrift of afbeelding, tot enig strafbaar feit of tot gewelddadig optreden tegen het openbaar gezag opruit, wordt gestraft volgens onderstaande tabel. 
 
@@ -997,7 +948,7 @@ Een terroristisch misdrijf/daad houdt in dat er sprake is van de intentie om de 
 | Tweede Veroordeling  | 20 maanden |  | € 5000,-  |
 | Meerdere Veroordelingen  | 40 maanden |  | € 10000,-  |
 
-### Artikel VIII-14 Misdrijven tegen het openbaar gezag (189 SR)
+### Artikel VII-14 Misdrijven tegen het openbaar gezag (189 SR)
 
 1. Een persoon wordt als schuldig beschouwd wanneer hij opzettelijk iemand helpt die schuldig is aan of verdacht wordt van een misdrijf om te ontsnappen aan de opsporing of aanhouding door ambtenaren in functie.
 2. Een persoon wordt als schuldig beschouwd wanneer hij opzettelijk voorwerpen vernietigt of ontneemt om de inbeslagname door een ambtenaar in functie te voorkomen of te hinderen.
