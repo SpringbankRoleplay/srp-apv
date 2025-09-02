@@ -33,7 +33,7 @@
     - Op je kop of zijkant hard landen.
     - Met 150 km/u tegen iets aan knallen.
     - Met een motor een crash maken en er hard vanaf vallen.
-- Het is enkel toegestaan om 10 minuten na een actief scenario een snelle kleding switch te doen met een kledingtas.Dit geldt ook voor het uitdoen van je kleding.
+- Het is enkel toegestaan om 10 minuten na een actief scenario een snelle volledige kleding switch te doen met een kledingtas.Dit geldt ook voor het uitdoen van je kleding.
 
 > Straf ⇨ Categorie 2
 
