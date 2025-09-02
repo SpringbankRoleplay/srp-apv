@@ -33,6 +33,7 @@
     - Op je kop of zijkant hard landen.
     - Met 150 km/u tegen iets aan knallen.
     - Met een motor een crash maken en er hard vanaf vallen.
+- Het is enkel toegestaan om 10 minuten na een actief scenario een snelle kleding switch te doen met een kledingtas.Dit geldt ook voor het uitdoen van je kleding.
 
 > Straf ⇨ Categorie 2
 
@@ -81,10 +82,10 @@ Het is niet toegestaan om je voertuig als geweldsmiddel te gebruiken. Ook indien
 
 Hier valt o.a. het volgende onder:
 • Zonder roleplay met iemand, diegene slaan of vermoorden
-• Het neerschieten van iemand die geen gevaar is in dat scenario
+• Het neerschieten van iemand die geen gevaar is in dat scenario (iedereen die gericht op jou of je groepering geschoten heeft in de afgelopen twee minuten wordt gezien als gevaar.)
 • Het uitlokken van een scenario, met het doel iemand te doden.
 
-Dit betekent dus dat er een roleplay scenario gaande moet zijn tussen jou en de persoon EN die persoon een gevaar voor jou moet zijn om iemand te mogen doden.
+Dit betekent dus dat er een roleplay scenario gaande moet zijn tussen jou en de persoon EN die persoon een gevaar voor jou moet zijn om iemand te mogen doden. 
 
 *Voorbeelden (maar niet beperkt tot)*
 *Tyeisha en Hoop rijden langs een winkel ov en blijven hier even staan. Er wordt actief op ze geschoten en Tyeisha gaat dood. Dit is RDM: zij zijn geen gevaar en ze zitten niet in een RP scenario. Hier moet er banden geschoten worden en gehandsupt.*
@@ -333,7 +334,7 @@ Verder:
 3. Het is enkel toegestaan spullen uit iemands auto te pakken, indien je een wapen op diegene richt. Het meenemen van dat voertuig voor overladen en /leensleutel vragen is toegestaan. 
 4. Het is toegestaan om iemand te rippen bij een illegaal verkooppunt als deze persoon binnen 1 meter van de NPC staat.
 5. Het is niet toegestaan om iemand te rippen en daarna te vermoorden, tenzij je een geldige reden hebt binnen dit scenario. 
-6. Het is toegestaan iemand te handsuppen/rippen, indien die persoon je langer dan 60 seconden volgt en 3 dezelfde turns maakt, of je diegene 3 keer ziet scouten in hetzelfde scenario, of diegene daar 3 keer porto called (of een combinatie van)
+6. Het is toegestaan iemand te handsuppen/rippen, indien de persoon je langer dan 60 seconden volgt, iemand drie dezelfde turns maakt, diegene drie keer scout in hetzelfde scenario, diegene daar drie keer porto called, of een combinatie hiervan. Het gaat om actief volgen.
 7. Het is toegestaan iemand te fouilleren indien deze een masker of holster draagt.
 8. Airdrops mogen geript worden. Let op! Dit is geen combat gebied. Je mag rippen, maar geen onnodig geweld gebruiken.
 9. Rippen bij de opdrachten van Tyeisha is niet toegestaan. De politie behoort je te laten gaan, als je een goeie roleplay neerzet en geen grote illegale zaken op zak hebt. 
