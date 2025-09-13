@@ -7,8 +7,8 @@ De volgende regelgeving is alleen van toepassing op het eiland van Springbank Ro
 
 ### Artikel 1 - Jurisdictie
 
-1. De politie heeft in het beginsel geen bevoegheden op het eiland en mag hier ook niet komen. De KMAR mag wel op het eiland komen.
-2. De KLU en MARSOF mogen op het eiland komen, wanneer ze opgeroepen worden door de KMAR.
+1. Politie, KMAR en speciale diensten hebben geen bevoegdheden op het eiland en treden hier niet op.
+2. Uitzondering op lid 1 is: Indien een achtervolging buiten het eiland is begonnen en de betrokken persoon het eiland op vlucht, mogen deze diensten de achtervolging voortzetten binnen of rond het eiland.
 
 ### Artikel 2 - Campen
 
