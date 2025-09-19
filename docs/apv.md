@@ -304,9 +304,10 @@ De voorwaardelijke straffen zijn als volgt, bij het volgende op zak:
 3. Het is niet toegestaan om iemand als gijzelaar in te zetten als dit een kennis van jou is. Dit moet dus een onbekend persoon zijn die jij op een eerlijke manier hebt ontvoerd.
 4. Het gebruik maken van outside hostages is alleen toegestaan indien er bewijs geleverd kan worden dat deze ook daadwerkelijk gijzelgenomen zijn.
 5. Het is niet toegestaan om een onderhandelaar te gijzelen.
-6. Hypercars en supercars mogen niet gebruikt worden bij overvallen.
+6. Hypercars en supercars mogen niet gebruikt worden bij overvallen. SPEC supervalito valt hier ook onder.
 7. Een overval mag gecountered worden, totdat de politie of KMAR is begonnen met de afzetting of een voertuig dwars neergezet is als afzetting.
    * Indien de politie begonnen is met het neerzetten van de afzetting, of een voertuig dwars gezet heeft, moeten ze deze ook meteen afmaken!
+   * Indien de volledige afzetting is afgemaakt is het voor overvallers en diens groep niet toegestaan om de overheid te beschieten. Outside shooters zijn dus niet toegestaan. Je dient het scenario af te maken met onderhandelingen en groenlicht.
 8. Je mag iemand maximaal 30 minuten gehostaged houden totdat het roleplay scenario gestart wordt (gijzeling voor wraak redenen valt hier niet onder).
 9. Het is niet toegestaan om na een overval met een voertuig in of achter de achtervolging aan te rijden.
 
@@ -341,7 +342,7 @@ Verder:
 10. Illegale goederen terugrippen, nadat deze zijn afgenomen door een overheidsinstantie, mag alleen op de volgende manier: 
     * Om illegale goederen terug te kunnen eisen, mogen alleen hoofd-agenten of hoger ontvoerd worden, of donkerblauwe KMAR. LET OP: Het is niet de bedoeling om elke agent van de straat te halen, om diens rang te checken.
 
-> Straf ⇨ Categorie 2
+> Straf ⇨ Categorie 5
 
 ### Artikel 30 - Witwassen
 1. Witwassers overvallen is toegestaan wanneer iemand geen passende kleding draagt bij de ‘’job’’ die diegene uitvoert, diegene toetert terwijl hij stilstaat of je een melding krijgt van de witwas app.
