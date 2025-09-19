@@ -304,7 +304,7 @@ De voorwaardelijke straffen zijn als volgt, bij het volgende op zak:
 3. Het is niet toegestaan om iemand als gijzelaar in te zetten als dit een kennis van jou is. Dit moet dus een onbekend persoon zijn die jij op een eerlijke manier hebt ontvoerd.
 4. Het gebruik maken van outside hostages is alleen toegestaan indien er bewijs geleverd kan worden dat deze ook daadwerkelijk gijzelgenomen zijn.
 5. Het is niet toegestaan om een onderhandelaar te gijzelen.
-6. Hypercars en supercars mogen niet gebruikt worden bij overvallen. SPEC supervalito valt hier ook onder.
+6. Hypercars en supercars mogen niet gebruikt worden bij overvallen. SPEC Super Volatus valt hier ook onder.
 7. Een overval mag gecountered worden, totdat de politie of KMAR is begonnen met de afzetting of een voertuig dwars neergezet is als afzetting.
    * Indien de politie begonnen is met het neerzetten van de afzetting, of een voertuig dwars gezet heeft, moeten ze deze ook meteen afmaken!
    * Indien de volledige afzetting is afgemaakt is het voor overvallers en diens groep niet toegestaan om de overheid te beschieten. Outside shooters zijn dus niet toegestaan. Je dient het scenario af te maken met onderhandelingen en groenlicht.
