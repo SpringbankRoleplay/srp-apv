@@ -345,12 +345,11 @@ Verder:
 > Straf ⇨ Categorie 5
 
 ### Artikel 30 - Witwassen
-1. Witwassers overvallen is toegestaan wanneer iemand geen passende kleding draagt bij de ‘’job’’ die diegene uitvoert, diegene toetert terwijl hij stilstaat of je een melding krijgt van de witwas app.
-2. Je mag handelen op de meldingen vanuit de witwas app op de volgende manieren:
+
+1. Je mag handelen op de meldingen vanuit Anton
    * Wanneer het kenteken overeenkomt met het kenteken die je hebt ontvangen in de melding.
    * De witwasser mag alleen overvallen worden binnen een tijdsbestek van een uur.
-3.  De melding dient geclipt te zijn.
-4.  Bij de tafels is het toegestaan om iemand te rippen indien diegene zich binnen het gebouw waar de tafel staat bevindt of, indien de tafel buiten staat, op de verdieping van de tafel is.
+2.  Bij de tafels is het toegestaan om iemand te rippen indien diegene zich binnen het gebouw waar de tafel staat bevindt of, indien de tafel buiten staat, op de verdieping van de tafel is.
 
 > Straf ⇨ Categorie 2
 
