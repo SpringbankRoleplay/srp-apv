@@ -347,8 +347,8 @@ Verder:
 ### Artikel 30 - Witwassen
 
 1. Je mag handelen op de meldingen vanuit Anton
-   * Wanneer het kenteken overeenkomt met het kenteken die je hebt ontvangen in de melding.
-   * De witwasser mag alleen overvallen worden binnen een tijdsbestek van een uur.
+   - Wanneer het kenteken overeenkomt met het kenteken die je hebt ontvangen in de melding.
+   - De witwasser mag alleen overvallen worden binnen een tijdsbestek van een uur.
 2.  Bij de tafels is het toegestaan om iemand te rippen indien diegene zich binnen het gebouw waar de tafel staat bevindt of, indien de tafel buiten staat, op de verdieping van de tafel is.
 
 > Straf ⇨ Categorie 2
