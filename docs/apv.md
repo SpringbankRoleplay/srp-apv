@@ -333,7 +333,7 @@ Verder:
 1. Het is niet toegestaan om dezelfde persoon binnen een uur meerdere malen te overvallen en/of te gijzelen. Dit geldt alleen voor drugs op een pluk locatie.
 2. Uitzondering op lid 1 is wanneer het slachtoffer in kwestie binnen het uur zijn kleding zodanig heeft veranderd dat hij niet meer te herkennen valt als eerst.
 3. Het is enkel toegestaan spullen uit iemands auto te pakken, indien je een wapen op diegene richt. Het meenemen van dat voertuig voor overladen en /leensleutel vragen is toegestaan. 
-4. Het is toegestaan om iemand te rippen bij een illegaal verkooppunt als deze persoon binnen 1 meter van de NPC staat.
+4. Het is toegestaan om iemand te rippen bij een illegaal verkooppunt als deze persoon binnen shoutingrange van de NPC staat.
 5. Het is niet toegestaan om iemand te rippen en daarna te vermoorden, tenzij je een geldige reden hebt binnen dit scenario. 
 6. Het is toegestaan iemand te handsuppen/rippen, indien de persoon je langer dan 60 seconden volgt, iemand drie dezelfde turns maakt, diegene drie keer scout in hetzelfde scenario, diegene daar drie keer porto called, of een combinatie hiervan. Het gaat om actief volgen.
 7. Het is toegestaan iemand te fouilleren indien deze een masker of holster draagt.
