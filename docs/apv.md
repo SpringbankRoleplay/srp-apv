@@ -81,9 +81,9 @@ Het is niet toegestaan om je voertuig als geweldsmiddel te gebruiken. Ook indien
 **Het is niet toegestaan om iemand te verwonden of van het leven te beroven, zonder geldige reden. Dit geldt ook voor dieren.**
 
 Hier valt o.a. het volgende onder:
-    * Zonder roleplay met iemand, diegene slaan of vermoorden
-    * Het neerschieten van iemand die geen gevaar is in dat scenario (iedereen die gericht op jou of je groepering geschoten heeft in de afgelopen twee minuten wordt gezien als gevaar.)
-    * Het uitlokken van een scenario, met het doel iemand te doden.
+* Zonder roleplay met iemand, diegene slaan of vermoorden
+* Het neerschieten van iemand die geen gevaar is in dat scenario (iedereen die gericht op jou of je groepering geschoten heeft in de afgelopen twee minuten wordt gezien als gevaar.)
+* Het uitlokken van een scenario, met het doel iemand te doden.
 
 Dit betekent dus dat er een roleplay scenario gaande moet zijn tussen jou en de persoon EN die persoon een gevaar voor jou moet zijn om iemand te mogen doden. 
 
