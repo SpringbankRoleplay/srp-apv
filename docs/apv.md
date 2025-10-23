@@ -341,7 +341,7 @@ Verder:
 3. Het is enkel toegestaan spullen uit iemands auto te pakken, indien je een wapen op diegene richt. Het meenemen van dat voertuig voor overladen en /leensleutel vragen is toegestaan. 
 4. Het is toegestaan om iemand te rippen bij een illegaal verkooppunt als deze persoon binnen shoutingrange van de NPC staat.
 5. Het is niet toegestaan om iemand te rippen en daarna te vermoorden, tenzij je een geldige reden hebt binnen dit scenario. 
-6. Het is toegestaan iemand te handsuppen/rippen, indien de persoon je langer dan 60 seconden volgt, iemand drie dezelfde turns maakt, diegene drie keer scout in hetzelfde scenario, diegene daar drie keer porto called, of een combinatie hiervan. Het gaat om actief volgen.
+6. Het is toegestaan iemand te handsuppen/rippen indien persoon je actief volgt of actief scout.
 7. Het is toegestaan iemand te fouilleren indien deze een masker of holster draagt.
 8. Airdrops mogen geript worden. Let op! Dit is geen combat gebied. Je mag rippen, maar geen onnodig geweld gebruiken.
 9. Rippen bij de opdrachten van Tyeisha is niet toegestaan. De politie behoort je te laten gaan, als je een goeie roleplay neerzet en geen grote illegale zaken op zak hebt. 
