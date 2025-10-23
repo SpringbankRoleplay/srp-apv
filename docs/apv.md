@@ -194,8 +194,11 @@ Binnen de greenzone is het verboden om enige vorm van geweld te gebruiken.
 
 * Pechhulp
 * Ziekenhuis
-* Gemeentehuis en het winkelcentrum
+* Gemeentehuis
 * Bitcoin converter
+
+Het casino wordt standaard beschouwd als greenzone.
+Uitsluitend tijdens een actieve casino-overval vervalt deze status tijdelijk, en is het toegestaan dat het scenario zich binnen of rondom het casino afspeelt volgens de context van de overval. Zodra het scenario is beëindigd, herstelt de greenzone-status automatisch.
 
 > Straf ⇨ Categorie 2
 
