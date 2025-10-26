@@ -277,6 +277,7 @@ De voorwaardelijke straffen zijn als volgt, bij het volgende op zak:
 	* Bijvoorbeeld: A verkoopt een wapen aan B, B ript het wapen, of A ript het terug. Hands up is vereist. Het gaat dus om een ripdeal.
 	* Scams zijn alleen toegestaan tot een maximum van 2 miljoen. Dit betekent dat de totale waarde van de scam, inclusief goederen of geld, niet meer dan 2 miljoen wit mag bedragen.
       * Geld of spullen uitlenen is op EIGEN RISICO!
+      * Scammen met keycards is niet toegestaan!
 5. Het oplichten met auto’s is niet toegestaan. Hier valt onder het ruilen van auto’s, of het verkopen van auto’s en het voertuig niet geven. Ook het liegen over tunes en de staat van de auto is niet toegestaan.
 
 > Straf ⇨ Categorie 3
