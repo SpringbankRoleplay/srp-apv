@@ -960,7 +960,7 @@ Een terroristisch misdrijf/daad houdt in dat er sprake is van de intentie om de 
 | Meerdere Veroordelingen  | 48 maanden |  | € 20.000,-  |
 
 
-### Artikel VIII-15 Jacht zonder vergunning
+### Artikel VII-15 Jacht zonder vergunning
 
 1. Een persoon wordt als schuldig beschouwd wanneer hij zonder geldige jachtlicentie deelneemt aan jachtactiviteiten, een jachtwapen hanteert of zich op jachtterrein begeeft met de kennelijke bedoeling te jagen.  
 2. Indien tevens sprake is van bezit of gebruik van een vuurwapen zonder geldige wapenvergunning, kunnen de bepalingen van **Artikel V-6 (Munitiebezit)** cumulatief worden toegepast.  
@@ -973,7 +973,7 @@ Een terroristisch misdrijf/daad houdt in dat er sprake is van de intentie om de 
 | Meerdere Veroordelingen  | 30 maanden |           | € 9000,-   |
 
 
-### Artikel VIII-16 Niet tonen jachtlicentie
+### Artikel VII-16 Niet tonen jachtlicentie
 
 1. Een persoon wordt als schuldig beschouwd wanneer hij, op vordering van een bevoegde ambtenaar, geen geldige jachtlicentie kan tonen terwijl hij deelneemt aan jachtactiviteiten of zich op jachtterrein bevindt.  
 2. De jachtlicentie is persoonlijk en niet overdraagbaar.  
@@ -986,7 +986,7 @@ Een terroristisch misdrijf/daad houdt in dat er sprake is van de intentie om de 
 | Meerdere Veroordelingen  |           |           | € 3000,-     |
 
 
-### Artikel VIII-17 Dierenbescherming en trofeeroof
+### Artikel VII-17 Dierenbescherming en trofeeroof
 
 1. Een persoon wordt als schuldig beschouwd wanneer hij zonder geldige jachtlicentie geweien, huiden of andere lichaamsdelen van een dier rooft of verhandelt.  
 2. Het is verboden om buit (dieren, onderdelen of trofeeën) mee te nemen die niet door de jager zelf rechtmatig is geschoten.  
@@ -1000,7 +1000,7 @@ Een terroristisch misdrijf/daad houdt in dat er sprake is van de intentie om de 
 | Meerdere Veroordelingen  | 22 maanden |           | € 6200,-   |
 
 
-### Artikel VIII-18 Veiligheidsbepalingen bij de jacht
+### Artikel VII-18 Veiligheidsbepalingen bij de jacht
 
 1. Een persoon wordt als schuldig beschouwd wanneer hij bij het gebruik van een jachtwapen nalaat redelijke veiligheidsmaatregelen te treffen, waaronder het dragen van herkenbare jachtkleding of het vermijden van schieten in de richting van bebouwing of personen.  
 2. Het negeren van veiligheidsvoorschriften wordt aangemerkt als roekeloos gedrag.  
@@ -1013,7 +1013,7 @@ Een terroristisch misdrijf/daad houdt in dat er sprake is van de intentie om de 
 | Meerdere Veroordelingen  | 18 maanden |           | € 4500,-   |
 
 
-### Artikel VIII-19 Uitsluitingen en bijzondere bepalingen
+### Artikel VII-19 Uitsluitingen en bijzondere bepalingen
 
 1. **Artikel VI-1 (Uitsluitingsgronden)** is van overeenkomstige toepassing op overtredingen onder deze titel.  
 2. Indien een jager handelt in noodsituatie of ter bescherming van mens of dier, kan de (hulp-)Officier van Justitie besluiten af te zien van vervolging.  
