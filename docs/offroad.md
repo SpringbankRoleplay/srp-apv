@@ -56,6 +56,7 @@ Elk voertuig mag op onverharde wegen rijden t/nm 100 km/u. De voertuigen hierond
  * Benefactor Dubsta (alleen met off-road banden)
  * Benefactor Dubsta 6x6
  * Benefactor Dubsta Sport (alleen met off-road banden)
+ * Benefactor Omnimog
  * Bf Bifta
  * Bf Inject
  * Bollokan Pakunek (alleen met off-road banden)
@@ -90,6 +91,7 @@ Elk voertuig mag op onverharde wegen rijden t/nm 100 km/u. De voertuigen hierond
  * Nagasaki Blazer Hotrod
  * Nagasaki Blazer Sport
  * Nagasaki Outlaw
+ * Gallivanter Trailguard 3 (3 Door)
  * Ubermacht Rebla Safari
  * Vapid Caracara
  * Vapid Contendor
