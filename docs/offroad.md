@@ -75,6 +75,7 @@ Elk voertuig mag op onverharde wegen rijden t/nm 100 km/u. De voertuigen hierond
  * Declasse Yosemite DRT
  * Declasse L35
  * Gallivanter Baller Raid
+ * Gallivanter Trailguard 3 (3 Door)
  * Karin Bjxl
  * Karin Boor
  * Karin Everon 
@@ -91,7 +92,6 @@ Elk voertuig mag op onverharde wegen rijden t/nm 100 km/u. De voertuigen hierond
  * Nagasaki Blazer Hotrod
  * Nagasaki Blazer Sport
  * Nagasaki Outlaw
- * Gallivanter Trailguard 3 (3 Door)
  * Ubermacht Rebla Safari
  * Vapid Caracara
  * Vapid Contendor
