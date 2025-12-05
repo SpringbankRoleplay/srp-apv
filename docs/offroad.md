@@ -58,7 +58,6 @@ Elk voertuig mag op onverharde wegen rijden t/nm 100 km/u. De voertuigen hierond
  * Benefactor Dubsta Sport (alleen met off-road banden)
  * Bf Bifta
  * Bf Inject
- * Bf Trager
  * Bollokan Pakunek (alleen met off-road banden)
  * Bravado Esperta (alleen met off-road banden)
  * Bravado Bison
