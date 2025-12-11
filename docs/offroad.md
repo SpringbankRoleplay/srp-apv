@@ -29,6 +29,7 @@ Elk voertuig mag op onverharde wegen rijden t/nm 100 km/u. De voertuigen hierond
  * Gallivanter Baller Sport+
  * Gallivanter Baller ST-D
  * Gallivanter Baller ST-D Platinum
+ * Gallivanter Trailguard 3 (3 Door)
  * Karin Bjxl (alleen met off-road banden)
  * Karin Karuma Rally (alleen met off-road banden)
  * Karin Mogul RS (alleen met off-road banden)
@@ -75,7 +76,6 @@ Elk voertuig mag op onverharde wegen rijden t/nm 100 km/u. De voertuigen hierond
  * Declasse Yosemite DRT
  * Declasse L35
  * Gallivanter Baller Raid
- * Gallivanter Trailguard 3 (3 Door)
  * Karin Bjxl
  * Karin Boor
  * Karin Everon 
@@ -92,6 +92,8 @@ Elk voertuig mag op onverharde wegen rijden t/nm 100 km/u. De voertuigen hierond
  * Nagasaki Blazer Hotrod
  * Nagasaki Blazer Sport
  * Nagasaki Outlaw
+ * Ubermacht 3MX
+ * Ubermacht Rebla XR
  * Ubermacht Rebla Safari
  * Vapid Caracara
  * Vapid Contendor
