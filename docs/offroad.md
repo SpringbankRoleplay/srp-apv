@@ -33,13 +33,15 @@ Elk voertuig mag op onverharde wegen rijden t/nm 100 km/u. De voertuigen hierond
  * Karin Karuma Rally (alleen met off-road banden)
  * Karin Mogul RS (alleen met off-road banden)
  * Karin Sultan (alleen met off-road banden)
+ * Karin Sultan MK4 (alleen met offroad banden)
  * Karin Sult RSX (alleen met off-road banden)
  * Lampadati Novak
  * Obey Rocoto
  * Pagassi Toros
  * Pfister Astron Custom
- * Ubermacht Rebla CTs
+ * Ubermacht 3MX
  * Ubermacht Beretta
+ * Ubermacht Rebla CTs
  * Ubermacht X340R ZK
  * Vapid Aleutian XL
  * Vapid Minivan (alleen met off-road banden)
@@ -47,7 +49,6 @@ Elk voertuig mag op onverharde wegen rijden t/nm 100 km/u. De voertuigen hierond
  * Vulcar Starlight
  * Zirconiu Journey (alleen met off-road banden)
  * Zirconiu Journey Sport (alleen met off-road banden)
- * Karin Sultan MK4 (alleen met offroad banden)
 
 ### Off-road wegen
  * Aanhanger (alleen met off-road banden)
@@ -92,7 +93,6 @@ Elk voertuig mag op onverharde wegen rijden t/nm 100 km/u. De voertuigen hierond
  * Nagasaki Blazer Hotrod
  * Nagasaki Blazer Sport
  * Nagasaki Outlaw
- * Ubermacht 3MX
  * Ubermacht Rebla XR
  * Ubermacht Rebla Safari
  * Vapid Caracara
