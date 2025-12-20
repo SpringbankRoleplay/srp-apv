@@ -196,6 +196,7 @@ Binnen de greenzone is het verboden om enige vorm van geweld te gebruiken.
 * Ziekenhuis
 * Gemeentehuis
 * Bitcoin converter
+* Binnen officiële bedrijven in Springbank
 
 Het casino wordt standaard beschouwd als greenzone.
 Uitsluitend tijdens een actieve casino-overval vervalt deze status tijdelijk, en is het toegestaan dat het scenario zich binnen of rondom het casino afspeelt volgens de context van de overval. Zodra het scenario is beëindigd, herstelt de greenzone-status automatisch.
@@ -220,6 +221,7 @@ Uitsluitend tijdens een actieve casino-overval vervalt deze status tijdelijk, en
 1. Het is niet toegestaan om jezelf te vermommen als een overheidsmedewerker en/of te suggereren dat je een overheidsmedewerker bent.
 2. Het is toegestaan om kogel- en steekwerende vesten te dragen, zolang dit geen verwijzing heeft naar een overheidsdienst.
 3. Het is ook niet toegestaan om gang kleding van officiële gangs te gebruiken als je hier geen lid van bent.
+4. Het is niet toegestaan om kleding van officiële bedrijven, zoals in de bedrijven Discord genoteerd, te dragen indien je niet werkzaam bent bij dit bedrijf.
 
 > Straf ⇨ Categorie 2
 
@@ -282,14 +284,15 @@ De voorwaardelijke straffen zijn als volgt, bij het volgende op zak:
 
 > Straf ⇨ Categorie 3
 
-### Artikel  25 - Overval Regels
+### Artikel 25 - Overval Regels
 1. Je krijgt per hostage 2 eisen. Er zit een max van 8 eisen bij een overval.
 2. Het is niet toegestaan om hostages te pakken op de volgende plekken:
     * In de kledingwinkel in het kledingmenu;
     * Locaties waar werkzaamheden gestart en beëindigd worden;
-    * Officiële bedrijven binnen Springbank.
+    * Binnen officiële bedrijven in Springbank.
     * Het is ook niet toegestaan om iemand die AFK staat te dragen en als hostage mee te nemen.
-3. Zodra jij een overval doet en je krijgt groenlicht mag er 10min lang geen setup gegooid worden. De 10min worden gerekend vanaf het moment dat er groenlicht gegeven is. 
+    * Personeel van een officieel bedrijf binnen Springbank die werkzaam zijn in en rondom de foodtruck of vendingmachine.
+3. Zodra jij een overval doet en je krijgt groenlicht mag er 10min lang geen setup gegooid worden. De 10min worden gerekend vanaf het moment dat er groenlicht gegeven is.
 4. Indien Politie/KMar bij een OV de gehele afzetting heeft geplaatst of er na 15 minuten nog geen Politie/KMar aanwezig is, mag er op eigen risico weggereden worden met de buit zonder groenlicht.
 5. Indien je een OV doet zonder duidelijke hostage en zonder wapen vast te hebben, dan mag de politie binnenvallen. Dit geldt niet voor ovs waar een scenario aan vast zit, zoals: bouwvakkers, winkel vullers, etc. Dan moet dat scenario wel helemaal uitgewerkt zijn met bijbehorende papieren! Het is verplicht om een wapen vast te hebben gedurende de overval, indien je de starter bent van de overval.
 6. Bij de OILRIG overval mag enkel DSI of KLU aankoppelen, niet allebei
