@@ -282,7 +282,7 @@ De voorwaardelijke straffen zijn als volgt, bij het volgende op zak:
       * Scammen met keycards is niet toegestaan!
 5. Het oplichten met auto’s is niet toegestaan. Hier valt onder het ruilen van auto’s, of het verkopen van auto’s en het voertuig niet geven. Ook het liegen over tunes en de staat van de auto is niet toegestaan.
 
-> Straf ⇨ Categorie 3
+> Straf ⇨ Categorie 5
 
 ### Artikel 25 - Overval Regels
 1. Je krijgt per hostage 2 eisen. Er zit een max van 8 eisen bij een overval.
