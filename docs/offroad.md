@@ -58,6 +58,7 @@ Elk voertuig mag op onverharde wegen rijden t/nm 100 km/u. De voertuigen hierond
  * Benefactor Dubsta 6x6
  * Benefactor Dubsta Sport (alleen met off-road banden)
  * Benefactor Omnimog
+ * Benefactor Dubsta LX
  * Bf Bifta
  * Bf Inject
  * Bollokan Pakunek (alleen met off-road banden)
