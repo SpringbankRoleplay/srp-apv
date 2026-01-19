@@ -96,6 +96,7 @@ Elk voertuig mag op onverharde wegen rijden t/nm 100 km/u. De voertuigen hierond
  * Nagasaki Outlaw
  * Ubermacht Rebla XR
  * Ubermacht Rebla Safari
+ * Vapid Aleutian X
  * Vapid Caracara
  * Vapid Contendor
  * Vapid Contender Custom
