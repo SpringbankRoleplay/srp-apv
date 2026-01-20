@@ -38,9 +38,10 @@ Elk voertuig mag op onverharde wegen rijden t/nm 100 km/u. De voertuigen hierond
  * Karin Sult RSX (alleen met off-road banden)
  * Lampadati Novak
  * Obey Rocoto
- * Pagassi Toros
- * Pfister Astron Custom
- * Ubermacht 3MX
+ * Pegassi Toros (alleen met off-road banden)
+ * Pfister Astron Custom (alleen met off-road banden)
+ * Pfister Neon SUV (alleen met off-road banden)
+ * Ubermacht 3MX (alleen met off-road banden)
  * Ubermacht Beretta
  * Ubermacht Rebla CTs
  * Ubermacht X340R ZK
@@ -85,6 +86,7 @@ Elk voertuig mag op onverharde wegen rijden t/nm 100 km/u. De voertuigen hierond
  * Karin Rebel 20
  * Karin Rebel Raid
  * Maibatsu Manchez Safari
+ * Maibatsu Manchez I3
  * Maibatsu Monstrociti
  * Maibatsu Sanchez
  * Maibatsu Sanchez SM
