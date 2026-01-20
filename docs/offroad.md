@@ -21,6 +21,7 @@ Elk voertuig mag op onverharde wegen rijden t/nm 100 km/u. De voertuigen hierond
  * Bf Surfer x19 (alleen met off-road banden)
  * Bf Surfer x21 (alleen met off-road banden)
  * Bravado Gresley
+ * Canis Blackfang (alleen met off-road banden)
  * Coil Khamel
  * Declasse Gburrito (alleen met off-road banden)
  * Declasse Walton
