@@ -66,6 +66,7 @@ Elk voertuig mag op onverharde wegen rijden t/nm 100 km/u. De voertuigen hierond
  * Bollokan Pakunek (alleen met off-road banden)
  * Bravado Esperta (alleen met off-road banden)
  * Bravado Bison
+ * Bravado Gresley Hellfire
  * Canis Bodhi
  * Canis Freecrawler
  * Canis Gator 4x4
@@ -97,12 +98,14 @@ Elk voertuig mag op onverharde wegen rijden t/nm 100 km/u. De voertuigen hierond
  * Nagasaki Blazer Hotrod
  * Nagasaki Blazer Sport
  * Nagasaki Outlaw
+ * Nagasaki Outlaw XL 
  * Ubermacht Rebla XR
  * Ubermacht Rebla Safari
  * Vapid Aleutian X
  * Vapid Caracara
  * Vapid Contendor
  * Vapid Contender Custom
+ * Vapid VV-150
  * Vapid Sandking
  * Vapid Trophy
  * Vapid Trophy Sport
