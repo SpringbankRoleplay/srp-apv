@@ -104,7 +104,7 @@ Elk voertuig mag op onverharde wegen rijden t/nm 100 km/u. De voertuigen hierond
  * Nagasaki Outlaw XL 
  * Obey Tenf Rally
  * Rune Baikal 4X4 
- * Ubermacht Rebla XR
+ * Ubermacht Rebla XR (alleen met off-road banden)
  * Ubermacht Rebla Safari
  * Vapid Aleutian X
  * Vapid Caracara
