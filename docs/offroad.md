@@ -20,7 +20,6 @@ Elk voertuig mag op onverharde wegen rijden t/nm 100 km/u. De voertuigen hierond
  * Albany Cavcade XL
  * Bf Surfer x19 (alleen met off-road banden)
  * Bf Surfer x21 (alleen met off-road banden)
- * Bravado Gresley
  * Canis Blackfang (alleen met off-road banden)
  * Coil Khamel
  * Declasse Gburrito (alleen met off-road banden)
@@ -66,6 +65,7 @@ Elk voertuig mag op onverharde wegen rijden t/nm 100 km/u. De voertuigen hierond
  * Bollokan Pakunek (alleen met off-road banden)
  * Bravado Esperta (alleen met off-road banden)
  * Bravado Bison
+ * Bravado Brutus Titan
  * Bravado Gresley Hellfire
  * Canis Bodhi
  * Canis Freecrawler
@@ -81,14 +81,17 @@ Elk voertuig mag op onverharde wegen rijden t/nm 100 km/u. De voertuigen hierond
  * Declasse L35
  * Gallivanter Baller Raid
  * Gallivanter Trailguard 3 (3 Door)
+ * Karin Borneo
  * Karin Bjxl
  * Karin Boor
  * Karin Everon 
+ * Karin Everon Stock
  * Karin Rebel 20
  * Karin Rebel Raid
  * Maibatsu Manchez Safari
  * Maibatsu Manchez I3
  * Maibatsu Monstrociti
+ * Maibatsu Prally Turbo
  * Maibatsu Sanchez
  * Maibatsu Sanchez SM
  * Maibatsu Sanchez Sport
@@ -99,14 +102,20 @@ Elk voertuig mag op onverharde wegen rijden t/nm 100 km/u. De voertuigen hierond
  * Nagasaki Blazer Sport
  * Nagasaki Outlaw
  * Nagasaki Outlaw XL 
+ * Obey Tenf Rally
+ * Rune Baikal 4X4 
  * Ubermacht Rebla XR
  * Ubermacht Rebla Safari
  * Vapid Aleutian X
  * Vapid Caracara
  * Vapid Contendor
  * Vapid Contender Custom
+ * Vapid Coyote
+ * Vapid fpdbe Custom
  * Vapid VV-150
  * Vapid Sandking
+ * Vapid Sadler 4X4
+ * Vapid Slam 4X4
  * Vapid Trophy
  * Vapid Trophy Sport
  * Western Cliffhanger
