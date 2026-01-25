@@ -35,9 +35,9 @@ kan altijd aangepast worden per situatie en persoon.*
 
 ----- 
 
-# Openbare orde
+## Openbare orde
 
-## Artikel 1 - Fail-RP
+### Artikel 1 - Fail-RP
 
 FailRP: Het is niet toegestaan om opzettelijk een roleplay van slechte kwaliteit uit te spelen
 of de roleplay te verstoren. Je behoort je aan te passen aan de situatie waar jij je in bevindt.
@@ -71,7 +71,7 @@ kleding.
 > Straf ⇨ Categorie 2
 
 
-## Artikel 2 - Cheats
+### Artikel 2 - Cheats
 
 Het is niet toegestaan om gebruik te maken van software/hulpmiddelen (cheats ofwel hacks)
 van derde partijen om profijt te krijgen in het spel. Springbank Roleplay werkt conform de
@@ -83,7 +83,7 @@ dat we je preventief permanent bannen.
 
 > Straf ⇨ Categorie 7
 
-## Artikel 3 - Bugs en exploits
+### Artikel 3 - Bugs en exploits
 
 Het is niet toegestaan om opzettelijk misbruik te maken van een bug/exploit om voordeel
 voor jouzelf of anderen te behalen. Voorbeelden van bugs/exploits zijn: misbruiken van
@@ -101,7 +101,7 @@ wel misbruikt is, kan dit leiden tot een permanente verbanning van de server.
 
 > Straf ⇨ Categorie 6
 
-## Artikel 4 - Out Of Character
+### Artikel 4 - Out Of Character
 
 Het is niet toegestaan om je karakter te breken door OOC-informatie te gebruiken in-game.
 Dit geldt ook voor in /me. Enkele voorbeelden hiervan zijn maar niet beperkt tot:
@@ -111,7 +111,7 @@ Dit geldt ook voor in /me. Enkele voorbeelden hiervan zijn maar niet beperkt tot
 
 > Straf ⇨ Categorie 2
 
-## Artikel 5 - Meta-gaming
+### Artikel 5 - Meta-gaming
 
 Het is niet toegestaan om informatie te gebruiken die is verkregen buiten het spel om, of om
 in call te zitten in de breedste zin wanneer je in Springbank bent. Dit geldt ook voor
@@ -123,14 +123,14 @@ hebt van management.
 
 > Straf ⇨ Categorie 4
 
-## Artikel 6 - VDM (Vehicle Deathmatch)
+### Artikel 6 - VDM (Vehicle Deathmatch)
 
 Het is niet toegestaan om je voertuig als geweldsmiddel te gebruiken. Ook indien iemand
 niet overlijdt, telt dit als VDM.
 
 > Straf ⇨ Categorie 4
 
-## Artikel 7 - RDM (Random Deathmatch)
+### Artikel 7 - RDM (Random Deathmatch)
 
 Het is niet toegestaan om iemand te verwonden of van het leven te beroven zonder geldige
 reden of zonder voorafgaande roleplay. Dit geldt ook voor dieren.
@@ -142,7 +142,7 @@ Onder RDM valt onder andere maar niet beperkt tot:
 
 > Straf ⇨ Categorie 4
 
-## Artikel 8 - No Value Of Life
+### Artikel 8 - No Value Of Life
 
 Het is niet toegestaan geen waarde te hechten aan het leven van het karakter dat je speelt.
 Voorbeelden van NVOL zijn, maar niet beperkt tot:
@@ -176,7 +176,7 @@ hier in een nieuw leven voordeel uit te halen, ongeacht de reden of het scenario
 
 > Straf ⇨ Categorie 5
 
-## Artikel 9 - Combat-logging
+### Artikel 9 - Combat-logging
 
 Het is niet toegestaan om tijdens een actief scenario of 10 minuten daarna de stad te
 verlaten op welke manier dan ook. Mocht het onverhoopt toch voorkomen dat je direct de
@@ -189,7 +189,7 @@ de andere partij om het scenario te hervatten. Altijd communiceren!
 
 > Straf ⇨ Categorie 4
 
-## Artikel 10 - Combat-stashing
+### Artikel 10 - Combat-stashing
 
 Het is niet toegestaan om wapens of voorwerpen die je in een scenario actief hebt gebruikt,
 of hebt gestolen, of in beslag hebt genomen, binnen 10 minuten te stashen op een plek waar
@@ -202,7 +202,7 @@ doet tijdens het neerstorten.
 
 > Straf ⇨ Categorie 4
 
-## Artikel 11 - New Life Rule
+### Artikel 11 - New Life Rule
 
 Als jouw karakter is komen te overlijden wordt er verwacht dat jij alle roleplay voor jouw dood
 vergeten bent. Zoals: locaties, personen, situaties en aanleidingen. Je mag geïnformeerd
@@ -211,7 +211,7 @@ aansluiten bij het scenario waarin je bent overleden.
 
 > Straf ⇨ Categorie 4
 
-## Artikel 12 - Microfoon
+### Artikel 12 - Microfoon
 
 Het is tijdens het spelen ten allen tijden verplicht om een werkende microfoon te hebben
 waarin je duidelijk te verstaan bent. Het misbruiken van je microfoon is niet toegestaan, denk
@@ -220,7 +220,7 @@ etc.
 
 > Straf ⇨ Categorie 1
 
-## Artikel 13 - Talen
+### Artikel 13 - Talen
 
 Er wordt verwacht dat je de Nederlands of Engelse taal beheerst binnen Springbank
 Roleplay. 1. Het is niet toegestaan om andere talen dan Nederlands of Engels op een
@@ -229,7 +229,7 @@ basis zaak dat er ten allen tijde Nederlands wordt gesproken.
 
 > Straf ⇨ Categorie 1
 
-## Artikel 14 - Belediging
+### Artikel 14 - Belediging
 
 Het is niet toegestaan om in game of in de Springbank Discords aanstootgevende teksten te
 plaatsen of uit te spreken op welke mogelijke manier dan ook. Bijvoorbeeld hedendaagse
@@ -241,7 +241,7 @@ is ook van toepassing op de volgende punten:
 
 > Straf ⇨ Categorie 5
 
-## Artikel 15 - Deelname aan het verkeer
+### Artikel 15 - Deelname aan het verkeer
 
 Het is niet toegestaan om onrealistische rijstijlen aan te nemen. Enkele voorbeelden hiervan
 zijn, maar niet beperkt tot:
@@ -266,7 +266,7 @@ LET OP: Pitten is iets anders dan beuken.
 
 > Straf ⇨ Categorie 2
 
-## Artikel 16 - Reporting
+### Artikel 16 - Reporting
 
 De in-game functie om spelers te rapporteren en bugs of vragen in te dienen (/report) is
 alleen bedoeld voor gevallen dat dit ter plekke opgelost kan worden. Het is niet de bedoeling
@@ -279,7 +279,7 @@ servers.)
 
 > Straf ⇨ Categorie 3
 
-## Artikel 17 - Greenzone
+### Artikel 17 - Greenzone
 
 Binnen de greenzone is het verboden om enige vorm van geweld te gebruiken.
 - Het is niet toegestaan om een greenzone in te vluchten. Indien dit wel gebeurd, mag
@@ -298,7 +298,7 @@ beëindigd, herstelt de greenzone-status automatisch.
 > Straf ⇨ Categorie 2
 
 
-## Artikel 18 - Kledingregels
+### Artikel 18 - Kledingregels
 
 - Het is niet toegestaan om de standaard-outfit te dragen tijdens roleplay scenarios. In
 het begin krijg je een menu waar je dit kan aanpassen. Mocht dat onverhoopt niet
@@ -309,7 +309,7 @@ hebben.
 
 > Straf ⇨ Categorie 1
 
-## Artikel 19 - F6 Abuse
+### Artikel 19 - F6 Abuse
 
 - Het is verboden om het F6 menu te misbruiken.
 - Elke handeling waarbij functies van het F6 menu oneigenlijk worden gebruikt valt
@@ -322,7 +322,7 @@ omzeilen van regels door middel van het F6 menu.
 > Straf ⇨ Categorie 5
 
 
-## Artikel 20 - Monkeypunchen
+### Artikel 20 - Monkeypunchen
 
 - Het gebruik van de mechanic Monkeypunchen is verboden binnen Springbank.
 - Monkeypunchen wordt gezien als het bewust misbruiken van game mechanics
@@ -332,7 +332,7 @@ tijdens een gevecht.
 
 > Straf ⇨ Categorie 5
 
-## Artikel 21 - EDM  (Excessive Deathmatch)
+### Artikel 21 - EDM  (Excessive Deathmatch)
 
 - Het is niet toegestaan om een speler onnodig te finishen of te doden terwijl deze
 geen directe bedreiging meer vormt binnen een lopend scenario.
@@ -359,7 +359,7 @@ Onder gedetailleerde informatie valt onder andere maar niet beperkt tot voertuig
 en signalementen
 > Straf ⇨ Categorie 5
 
-## Artikel 22 Powergamen
+### Artikel 22 Powergamen
 
 Powergaming: Het is niet toegestaan om opzettelijk de roleplay op een oneerlijke of
 onrealistische manier te vormen, bijvoorbeeld door de verhaallijn op een onnatuurlijke
@@ -378,7 +378,7 @@ mechanic.
 - Het gebruiken van de Z-spier om spelers te vinden tijdens scenario’s.
 > Straf ⇨ Categorie 2
 
-## Artikel 23 Liegen tegen Staff
+### Artikel 23 Liegen tegen Staff
 
 - Het is verboden om in welke vorm dan ook te liegen tegen een stafflid.
 - Dit geldt tijdens tickets, staff gesprekken, klachten, second opinions en overige staff
@@ -388,7 +388,7 @@ aangemerkt als een overtreding en resulteert altijd in een sanctie.
 > Straf ⇨ Categorie 5
 
 
-## Artikel 24 Vliegregels
+### Artikel 24 Vliegregels
 
 Het is verboden om op een onrealistische of gevaarlijke manier te vliegen. Hieronder valt elk
 vlieggedrag dat niet past binnen realistische roleplay of dat een gevaar vormt voor spelers,
@@ -408,8 +408,8 @@ overheidsdiensten binnen een geldig roleplay scenario.
 
 -------
 
-# Overheid
-## Artikel 51 - Cop Baiting
+## Overheid
+### Artikel 51 - Cop Baiting
 
 1. Het is niet toegestaan om opzettelijk de aandacht proberen te trekken van
 politieagenten en/of Militaire politie-leden of hen van hun werk proberen te houden
@@ -420,7 +420,7 @@ naam hebt, valt dit onder cop baiting.
 
 > Straf ⇨ Categorie 2
 
-## Artikel 52 - Impersonatie overheidsmedewerker/Officiële gang
+### Artikel 52 - Impersonatie overheidsmedewerker/Officiële gang
 
 1. Het is niet toegestaan om jezelf te vermommen als een overheidsmedewerker en/of
 te suggereren dat je een overheidsmedewerker bent.
@@ -433,7 +433,7 @@ Discord genoteerd, te dragen indien je niet werkzaam bent bij dit bedrijf.
 
 > Straf ⇨ Categorie 2
 
-## Artikel 53 - Overheidsvoertuigen
+### Artikel 53 - Overheidsvoertuigen
 
 1. Het is niet toegestaan om overheidsvoertuigen te tunen.
 2. Het is alleen toegestaan om overheidsvoertuigen te besturen indien jij in dienst bent
@@ -446,7 +446,7 @@ eventueel besturen hiervan ten behoeve is van een goed roleplay scenario.
 
 > Straf ⇨ Categorie 2
 
-## Artikel 54 - Gedrag tegen overheidsmedewerkers
+### Artikel 54 - Gedrag tegen overheidsmedewerkers
 
 1. Er wordt verwacht dat je een eerlijke en realistische blik geeft op jouw verwondingen
 als je geholpen wordt door de ambulancezorg. Je gaat dus niet liegen over wat er is
@@ -462,7 +462,7 @@ aantallen in dienst corresponderen met de specificatie hieronder:
 
 > Straf ⇨ Categorie 2
 
-## Artikel 55 - Criminaliteit & Ambtenaren
+### Artikel 55 - Criminaliteit & Ambtenaren
 
 Voor overheidsmedewerkers is het niet toegestaan om zich op welke manier dan ook bezig
 te houden met illegale praktijken of illegale spullen in bezit te hebben, als dit niet ten
@@ -479,7 +479,7 @@ dienst dragen ten behoeve van de uitvoering van het werk.
 
 ------
 
-# Overtredingen - Criminele activiteiten
+## Overtredingen - Criminele activiteiten
 
 ## Informatie Criminele Activiteiten
 
@@ -505,7 +505,7 @@ voertuigen en 1 woning te doorzoeken
 *Een uitzondering is wanneer het om grote groeperingen/een hele gang gaat, aangezien het
 onderzoek hier langer duurt*
 
-## Artikel 101 - Overvallen & Oplichten (zie ook Artikel 106 - Rippen)
+### Artikel 101 - Overvallen & Oplichten (zie ook Artikel 106 - Rippen)
 
 1. Het is alleen toegestaan om iemand te overvallen en/of te bestelen indien deze
 persoon bezig is met criminele activiteiten. Hier moet je concreet (aantoonbaar)
@@ -538,7 +538,7 @@ het verkopen van auto’s en het voertuig niet geven. Ook het liegen over tunes 
 
 > Straf ⇨ Categorie 5
 
-## Artikel 102 - Overval Regels
+### Artikel 102 - Overval Regels
 
 1. Je krijgt per hostage 2 eisen. Er geldt een maximum van 8 eisen bij een overval.
 2. Het is niet toegestaan om hostages te pakken op de volgende plekken:
@@ -568,7 +568,7 @@ Bijvoorbeeld: 4 wapens is 4 eenheden. Ben je met minder, is dit eigen risico.
 
 > Straf ⇨ Categorie 3
 
-## Artikel 103 - Wraak en liquidaties
+### Artikel 103 - Wraak en liquidaties
 
 1. Het is alleen toegestaan om iemand te liquideren als het slachtoffer in kennis is van
 de reden hierachter. Het is dus de bedoeling dat dit aan het slachtoffer duidelijk wordt
@@ -581,7 +581,7 @@ van het leven heeft beroofd.
 > Straf ⇨ Categorie 2
 
 
-## Artikel 104 - Overvallen
+### Artikel 104 - Overvallen
 
 1. Het is niet toegestaan om een overval te starten een half uur voor en een half uur na
 de restarts.
@@ -611,7 +611,7 @@ achtervolging aan te rijden.
 
 > Straf ⇨ Categorie 4
 
-## Artikel 105 - Campen
+### Artikel 105 - Campen
 
 1. Het is niet toegestaan om te campen op een locatie betrokken bij illegale praktijken
 met de intentie om bijvoorbeeld mensen te overvallen of te vermoorden.
@@ -623,7 +623,7 @@ houden of te gijzelen.
 
 > Straf ⇨ Categorie 2
 
-## Artikel 106 - Rippen
+### Artikel 106 - Rippen
 
 Indien je iemand illegale activiteiten hebt zien doen, heb je met geldig bewijs 6 uur de tijd
 deze persoon te rippen. LET OP: Enkel de kleur van een auto of kenteken is onvoldoende.
@@ -664,7 +664,7 @@ de bedoeling om elke agent van de straat te halen, om diens rang te checken.
 
 > Straf ⇨ Categorie 5
 
-## Artikel 107 - Witwassen
+### Artikel 107 - Witwassen
 
 1. Je mag handelen op de meldingen vanuit Anton
     - Wanneer het kenteken overeenkomt met het kenteken die je hebt ontvangen
@@ -679,9 +679,9 @@ van de tafel is.
 
 ----
 
-# Overige bepalingen
+## Overige bepalingen
 
-## Artikel 151 - Bodycams
+### Artikel 151 - Bodycams
 
 1. Het gebruik van body- en/of dashcam beelden in een roleplay scenario is alleen
 toegestaan indien deze aan de volgende voorwaarden voldoen:
@@ -696,7 +696,7 @@ worden en zijn de bovenstaande voorwaarden dus niet van toepassing.
 > Straf ⇨ Categorie 1
 
 
-## Artikel 152 - Herkenning
+### Artikel 152 - Herkenning
 
 1.  Het is alleen toegestaan om iemand aan zijn/haar stem te herkennen, indien dit
 onder de volgende voorwaarden valt:
@@ -717,7 +717,7 @@ robotstemmen, baby stemmen of andere storende effecten.
 
 > Straf ⇨ Categorie 2
 
-## Artikel 153 - Alternatieve karakters
+### Artikel 153 - Alternatieve karakters
 
 1. Het is niet toegestaan om gebruik te maken van alternatieve accounts ('alt accounts')
 om enig voordeel te behalen.
@@ -730,14 +730,14 @@ je lopende account.
 
 > Straf ⇨ Categorie 6 + eventuele account wipe
 
-## Artikel 154 - Wisselen van baan
+### Artikel 154 - Wisselen van baan
 
 Wanneer je van overheidsbaan naar overheidsbaan, van een verified/officiële groepering
 naar overheid of andersom wilt wisselen en tussen groeperingen onderling. dan dien je 7
 dagen te wachten vanaf het moment van ontslag tot aan je eerste startdag. Hier kan door
 management uitzondering op gemaakt worden.
 
-## Artikel 155 - Real life trading
+### Artikel 155 - Real life trading
 
 1. Het is nooit toegestaan om goederen in Springbank (in de breedste zin) te verkopen,
 kopen of ruilen tegen echt geld en/of goederen buiten het spel om.
@@ -750,7 +750,7 @@ geven, wanneer deze de stad uit gaan. Dit geldt voor ALLE goederen.
 
 > Straf ⇨ Categorie 7
 
-## Artikel 156 - Bedrijven/huizen
+### Artikel 156 - Bedrijven/huizen
 
 1. Het is niet toegestaan om eigenaar te zijn van twee bedrijven
 2. Het is alleen toegestaan om een beveiligingscamera te plaatsen op eigen terrein, in
@@ -760,7 +760,7 @@ de directe omgeving van jouw woning.
 
 > Straf ⇨ Categorie 5
 
-## Artikel 157 - Graphic packs
+### Artikel 157 - Graphic packs
 
 Het gebruik van bepaalde soorten graphic packs en beeldscherminstellingen kunnen een
 oneerlijk voordeel opleveren of de spelervaring voor anderen negatief beïnvloeden. Daarom
