@@ -33,9 +33,12 @@ Elk voertuig mag op onverharde wegen rijden t/nm 100 km/u. De voertuigen hierond
  * Karin Karuma Rally (alleen met off-road banden)
  * Karin Mogul RS (alleen met off-road banden)
  * Karin Sultan (alleen met off-road banden)
+ * Karin Sultan SR4 (alleen met off-road banden)
  * Karin Sultan MK4 (alleen met offroad banden)
  * Karin Sult RSX (alleen met off-road banden)
  * Lampadati Novak
+ * Maibatsu Sunrise (alleen met off-road banden)
+ * Maibatsu Sunrise HYC (alleen met off-road banden)
  * Obey Rocoto
  * Pegassi Toros (alleen met off-road banden)
  * Pfister Astron Custom (alleen met off-road banden)
@@ -53,9 +56,11 @@ Elk voertuig mag op onverharde wegen rijden t/nm 100 km/u. De voertuigen hierond
 
 ### Off-road wegen
  * Aanhanger (alleen met off-road banden)
+ * Albany Cavalade FXT
  * Annis Hellion
  * Beclasse Draugur
  * Benefactor Dubsta (alleen met off-road banden)
+ * Benefactor Dubsta 4X4
  * Benefactor Dubsta 6x6
  * Benefactor Dubsta Sport (alleen met off-road banden)
  * Benefactor Omnimog
