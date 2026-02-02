@@ -756,7 +756,7 @@ geven, wanneer deze de stad uit gaan. Dit geldt voor ALLE goederen.
 2. Het is alleen toegestaan om een beveiligingscamera te plaatsen op eigen terrein, in
 de directe omgeving van jouw woning.
 3. De bedrijven mogen niet verkocht worden. Dit gaat enkel via de Gemeente.
-4. Je mag maximaal 3 huizen op je naam hebben staan.
+4. Je mag maximaal 4 huizen op je naam hebben staan.
 
 > Straf ⇨ Categorie 5
 
