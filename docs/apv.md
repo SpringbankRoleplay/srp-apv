@@ -499,7 +499,7 @@ ontvoerd.
 geleverd kan worden dat deze ook daadwerkelijk gijzel genomen zijn.
 5. Het is niet toegestaan om een onderhandelaar te gijzelen.
 6. Hypercars en Supercars mogen niet gebruikt worden bij overvallen. SPEC Super Volatus valt hier ook onder.
-*Uitzondering op de SPEC Super Volatus dat hij gebruikt mag worden bij de oilrig.*
+*Uitzondering op de SPEC Super Volatus, deze mag gerbuikt worden bij de oilrig.*
 7. Een overval mag gecounterd worden tot het moment dat zichtbaar waarneembaar is dat er een scenario plaatsvindt tussen de overvallers en de politie.
 8. Indien de volledige afzetting is afgemaakt is het voor overvallers en hun groep niet toegestaan om de overheid te beschieten. Outside shooters zijn dus niet toegestaan.
 Je dient het scenario af te maken met onderhandelingen en groen licht.
