@@ -28,8 +28,6 @@ Het kan dus voorkomen dat iets wat hier niet specifiek in staat verwezen wordt, 
 
 *De categorieën zijn een inschatting van de straf die bij een bepaald artikel hoort. Deze straf kan altijd aangepast worden per situatie en persoon.*
 
------
-
 ## Openbare orde
 
 ### Artikel 1 - Fail-RP
