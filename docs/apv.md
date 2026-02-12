@@ -28,6 +28,8 @@ Het kan dus voorkomen dat iets wat hier niet specifiek in staat verwezen wordt, 
 
 *De categorieën zijn een inschatting van de straf die bij een bepaald artikel hoort. Deze straf kan altijd aangepast worden per situatie en persoon.*
 
+-----
+
 ## Openbare orde
 
 ### Artikel 1 - Fail-RP
@@ -206,15 +208,14 @@ Enkele voorbeelden hiervan zijn, maar niet beperkt tot:
 Speciale off-road of semi-off road voertuigen mogen harder dan 100 km/u over de onverharde wegen.
 Volledige off-road mag alleen met een daarvoor bestemde auto.
 
-# Voor pitten geldt het volgende
+**Voor pitten geldt het volgende:**
 
 1. Indien je een voertuig inzet om een zogenoemde pit uit te voeren is dit alleen toegestaan als de snelheid lager is dan 100 km/u en dit op een verantwoorde wijze gaat.
 2. Een voertuig mag geen zwaarder voertuig pitten of brake checken, de volgorde gaat als volgt:
 1: Motorvoertuigen \ 2: Sportauto’s en hypercars \ 3: Personenauto’s, zoals Sedan en Coupé \ 4: SUV’s \ 5: Bussen en vrachtwagens.
 3. Politieagenten van de landelijke eenheid verkeerspolitie mogen een pit uitvoeren tot
 snelheden van 130 km/u. De dienst speciale interventies hebben een specialistische
-training gehad en mogen op uitzondering een pit uitvoeren tot snelheden van 150
-km/u.
+training gehad en mogen op uitzondering een pit uitvoeren tot snelheden van 150km/u.
 **LET OP: Pitten is iets anders dan beuken.**
 
 > Straf ⇨ Categorie 2
@@ -344,6 +345,8 @@ overheidsdiensten binnen een geldig roleplay scenario.
 
 > Straf ⇨ Categorie 4
 
+-------
+
 ## Overheid
 
 ### Artikel 51 - Cop Baiting
@@ -412,6 +415,8 @@ training hebben gehad. Deze medewerkers mogen wel hun dienstwapens buiten hun
 dienst dragen ten behoeve van de uitvoering van het werk.
 
 > Straf ⇨ Categorie 5 en ontslag
+
+------
 
 ## Overtredingen - Criminele activiteiten
 
@@ -552,6 +557,8 @@ gebouw waar de tafel staat bevindt of, indien de tafel buiten staat, op de verdi
 
 > Straf ⇨ Categorie 2
 
+----
+
 ## Overige bepalingen
 
 ### Artikel 151 - Bodycams
@@ -641,3 +648,5 @@ weergegeven dan standaard, is verboden.
 7. Het gebruik van NVE of andere visual graphic packs zijn toegestaan zolang het binnen alle bovenstaande regels valt.
 
 > Straf ⇨ Categorie 6
+
+-------
