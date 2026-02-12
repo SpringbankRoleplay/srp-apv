@@ -344,8 +344,6 @@ overheidsdiensten binnen een geldig roleplay scenario.
 
 > Straf ⇨ Categorie 4
 
--------
-
 ## Overheid
 
 ### Artikel 51 - Cop Baiting
@@ -414,8 +412,6 @@ training hebben gehad. Deze medewerkers mogen wel hun dienstwapens buiten hun
 dienst dragen ten behoeve van de uitvoering van het werk.
 
 > Straf ⇨ Categorie 5 en ontslag
-
-------
 
 ## Overtredingen - Criminele activiteiten
 
@@ -556,8 +552,6 @@ gebouw waar de tafel staat bevindt of, indien de tafel buiten staat, op de verdi
 
 > Straf ⇨ Categorie 2
 
-----
-
 ## Overige bepalingen
 
 ### Artikel 151 - Bodycams
@@ -647,5 +641,3 @@ weergegeven dan standaard, is verboden.
 7. Het gebruik van NVE of andere visual graphic packs zijn toegestaan zolang het binnen alle bovenstaande regels valt.
 
 > Straf ⇨ Categorie 6
-
--------
