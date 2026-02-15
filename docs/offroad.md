@@ -90,6 +90,7 @@ Elk voertuig mag op onverharde wegen rijden t/nm 100 km/u. De voertuigen hierond
  * Karin Bjxl
  * Karin Boor
  * Karin Everon 
+ * Karin Everon Baja
  * Karin Everon Stock
  * Karin Rebel 20
  * Karin Rebel Raid
@@ -107,7 +108,8 @@ Elk voertuig mag op onverharde wegen rijden t/nm 100 km/u. De voertuigen hierond
  * Nagasaki Blazer Sport
  * Nagasaki Outlaw
  * Nagasaki Outlaw XL 
- * Obey Tenf Rally
+ * Obey Tenf Rally 
+ * Pfister XX3
  * Rune Baikal 4X4 
  * Ubermacht Rebla XR (alleen met off-road banden)
  * Ubermacht Rebla Safari
