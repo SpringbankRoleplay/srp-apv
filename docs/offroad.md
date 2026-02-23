@@ -62,6 +62,7 @@ Elk voertuig mag op onverharde wegen rijden t/nm 100 km/u. De voertuigen hierond
  * Benefactor Dubsta (alleen met off-road banden)
  * Benefactor Dubsta 4X4
  * Benefactor Dubsta 6x6
+ * Benefactor Dubsta 6X6 XR
  * Benefactor Dubsta Sport (alleen met off-road banden)
  * Benefactor Omnimog
  * Benefactor Dubsta LX
