@@ -45,6 +45,8 @@ Elk voertuig mag op onverharde wegen rijden t/nm 100 km/u. De voertuigen hierond
  * Pfister Neon SUV (alleen met off-road banden)
  * Ubermacht 3MX (alleen met off-road banden)
  * Ubermacht Beretta
+ * Ubermacht FX3R (alleen met off-road banden)
+ * Ubermacht FX7R (alleen met off-road banden)
  * Ubermacht Rebla CTs
  * Ubermacht X340R ZK
  * Vapid Aleutian XL
@@ -60,6 +62,7 @@ Elk voertuig mag op onverharde wegen rijden t/nm 100 km/u. De voertuigen hierond
  * Annis Hellion
  * Beclasse Draugur
  * Benefactor Dubsta (alleen met off-road banden)
+ * Benefactor Dubsta EVO XR
  * Benefactor Dubsta 4X4
  * Benefactor Dubsta 6x6
  * Benefactor Dubsta 6X6 XR
