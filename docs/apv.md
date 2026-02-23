@@ -511,6 +511,7 @@ Je dient het scenario af te maken met onderhandelingen en groen licht.
 ### Artikel 105 - Campen
 
 1. Het is niet toegestaan om te campen op een locatie betrokken bij illegale praktijken met de intentie om bijvoorbeeld mensen te overvallen of te vermoorden.
+*Uitzondering hierop is witwas npc op eiland.*
 2. Onder lid 1 wordt verstaan: wanneer jij verdacht lang binnen 100 meter van een locatie bent zonder goede aanleiding. Dit geldt ook voor overheidsdiensten.
 3. Het is voor zowel overheid als onderwereld niet toegestaan om bij locaties als officiële ganghuizen, HB of ESI HQ rond te rijden met als doel hier mensen aan te houden of te gijzelen.
 
