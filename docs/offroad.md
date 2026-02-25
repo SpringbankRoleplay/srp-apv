@@ -60,7 +60,9 @@ Elk voertuig mag op onverharde wegen rijden t/nm 100 km/u. De voertuigen hierond
  * Aanhanger (alleen met off-road banden)
  * Albany Cavalade FXT
  * Annis Hellion
+ * Annis Patriot
  * Beclasse Draugur
+ * Benefactor Dubsta Eiland Edition
  * Benefactor Dubsta (alleen met off-road banden)
  * Benefactor Dubsta EVO XR
  * Benefactor Dubsta 4X4
@@ -69,10 +71,12 @@ Elk voertuig mag op onverharde wegen rijden t/nm 100 km/u. De voertuigen hierond
  * Benefactor Dubsta Sport (alleen met off-road banden)
  * Benefactor Omnimog
  * Benefactor Dubsta LX
+ * Bestotion Slamvan XER
  * Bf Bifta
  * Bf Inject
  * Bollokan Pakunek (alleen met off-road banden)
  * Bravado Esperta (alleen met off-road banden)
+ * Bravado Rumpo XL Eiland Edition
  * Bravado Bison
  * Bravado Brutus Titan
  * Bravado Gresley Hellfire
@@ -85,6 +89,7 @@ Elk voertuig mag op onverharde wegen rijden t/nm 100 km/u. De voertuigen hierond
  * Canis WPT
  * Coil Brawler
  * Coil LOD-4
+ * Dinka Rebel 6
  * Declasse Draugur
  * Declasse Yosemite DRT
  * Declasse L35
