@@ -89,7 +89,7 @@ Elk voertuig mag op onverharde wegen rijden t/nm 100 km/u. De voertuigen hierond
  * Canis WPT
  * Coil Brawler
  * Coil LOD-4
- * Coil Money
+ * Coil Money (Enkel met offroad banden)
  * Dinka Rebel 6
  * Declasse Draugur
  * Declasse Yosemite DRT
