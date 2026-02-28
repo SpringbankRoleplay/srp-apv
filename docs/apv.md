@@ -479,7 +479,7 @@ Bijvoorbeeld: 4 wapens is 4 eenheden. Ben je met minder, is dit eigen risico.
 
 ### Artikel 103 - Wraak en liquidaties
 
-1. Het is alleen toegestaan om iemand te liquideren als het slachtoffer in kennis is van de reden hierachter. 
+1. Het is alleen toegestaan om iemand te liquideren als het slachtoffer in kennis is van de reden hierachter.
 Het is dus de bedoeling dat dit aan het slachtoffer duidelijk wordt gemaakt voor hij geliquideerd wordt.
 2. Als je van het leven bent beroofd is het niet toegestaan om in de komende 24 uur na deze actie mee te doen aan eventuele wraakacties op de persoon en/of groep die jou van het leven heeft beroofd.
 3. Wraak mag enkel binnen 48 uur na het scenario plaatsvinden.
@@ -488,23 +488,22 @@ Het is dus de bedoeling dat dit aan het slachtoffer duidelijk wordt gemaakt voor
 
 ### Artikel 104 - Overvallen
 
-1. Het is niet toegestaan om een overval te starten een half uur voor en een half uur na de restarts.
-2. Het is niet toegestaan om een hostage te rippen, indien je iemand als hostage meeneemt, mag je diegene niet rippen na het fouilleren.
+1. Het starten van een grote overval is verboden binnen 45 minuten voor en 45 minuten na een restart.
+2. Het starten van een kleine overval is verboden binnen 30 minuten voor en 30 minuten na een restart.
+3. Het is niet toegestaan om een hostage te rippen, indien je iemand als hostage meeneemt, mag je diegene niet rippen na het fouilleren.
 Ook dien je de hostage gelegenheid te geven diens spullen veilig op te bergen.
 *Let op: de hostage mag dit moment niet gebruiken om weg te rennen.*
-3. Het is niet toegestaan om iemand als gijzelaar in te zetten als dit een kennis van jou
-is. Dit moet dus een onbekend persoon zijn die jij op een eerlijke manier hebt
-ontvoerd.
-4. Het gebruikmaken van outside hostages is alleen toegestaan indien er bewijs
-geleverd kan worden dat deze ook daadwerkelijk gijzel genomen zijn.
-5. Het is niet toegestaan om een onderhandelaar te gijzelen.
-6. Hypercars en Supercars mogen niet gebruikt worden bij overvallen. SPEC Super Volatus valt hier ook onder.
+4. Het is niet toegestaan om iemand als gijzelaar in te zetten als dit een kennis van jou is.
+Dit moet dus een onbekend persoon zijn die jij op een eerlijke manier hebt ontvoerd.
+5. Het gebruikmaken van outside hostages is alleen toegestaan indien er bewijs geleverd kan worden dat deze ook daadwerkelijk gijzel genomen zijn.
+6. Het is niet toegestaan om een onderhandelaar te gijzelen.
+7. Hypercars en Supercars mogen niet gebruikt worden bij overvallen. SPEC Super Volatus valt hier ook onder.
 *Uitzondering op de SPEC Super Volatus, deze mag gerbuikt worden bij de oilrig.*
-7. Een overval mag gecounterd worden tot het moment dat zichtbaar waarneembaar is dat er een scenario plaatsvindt tussen de overvallers en de politie.
-8. Indien de volledige afzetting is afgemaakt is het voor overvallers en hun groep niet toegestaan om de overheid te beschieten. Outside shooters zijn dus niet toegestaan.
+8. Een overval mag gecounterd worden tot het moment dat zichtbaar waarneembaar is dat er een scenario plaatsvindt tussen de overvallers en de politie.
+9. Indien de volledige afzetting is afgemaakt is het voor overvallers en hun groep niet toegestaan om de overheid te beschieten. Outside shooters zijn dus niet toegestaan.
 Je dient het scenario af te maken met onderhandelingen en groen licht.
-9. Je mag iemand maximaal 30 minuten gehostaged houden totdat het roleplay scenario gestart wordt (gijzeling voor wraak redenen valt hier niet onder).
-10. Het is niet toegestaan om na een overval met een voertuig in of achter de achtervolging aan te rijden.
+10. Je mag iemand maximaal 30 minuten gehostaged houden totdat het roleplay scenario gestart wordt (gijzeling voor wraak redenen valt hier niet onder).
+11. Het is niet toegestaan om na een overval met een voertuig in of achter de achtervolging aan te rijden.
 
 > Straf ⇨ Categorie 4
 
