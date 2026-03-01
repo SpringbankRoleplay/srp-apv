@@ -37,6 +37,7 @@ Elk voertuig mag op onverharde wegen rijden t/nm 100 km/u. De voertuigen hierond
  * Karin Sultan MK4 (alleen met offroad banden)
  * Karin Sult RSX (alleen met off-road banden)
  * Lampadati Novak
+ * Maibatsu Mule (alleen met off-road banden)
  * Maibatsu Sunrise (alleen met off-road banden)
  * Maibatsu Sunrise HYC (alleen met off-road banden)
  * Obey Rocoto
