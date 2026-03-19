@@ -105,18 +105,31 @@ Ook is het niet toegestaan een eigen server te hebben voor je bedrijf of gang me
 Het is niet toegestaan om je voertuig als geweldsmiddel te gebruiken.
 Ook indien iemand niet overlijdt, telt dit als VDM.
 
+*Tijdens een rijdende blokkade is het niet toegestaan om een motor te blokkeren.*
+
 > Straf ⇨ Categorie 4
 
-### Artikel 7 - RDM (Random Deathmatch)
+## Artikel 7 – RDM (Random Deathmatch)
 
-Het is niet toegestaan om iemand te verwonden of van het leven te beroven zonder geldige
-reden of zonder voorafgaande roleplay. Dit geldt ook voor dieren.
+Het is niet toegestaan om iemand te verwonden of van het leven te beroven zonder geldige aanleiding en zonder voorafgaande roleplay. Dit geldt ook voor dieren.
 
-Onder RDM valt onder andere maar niet beperkt tot:
+Onder RDM valt onder andere, maar niet beperkt tot:
 
-* Iemand slaan of doden zonder dat er sprake is van enige roleplay.
+* Iemand slaan of doden zonder dat er sprake is van geldige roleplay.
 * Het uitlokken van een situatie met als doel iemand te kunnen doden.
-* Het doden van iemand die op geen enkele manier betrokken is bij een scenario.
+* Het doden van een speler die op geen enkele manier betrokken is bij het scenario.
+* Het finishen of doden van een speler die geen directe en actieve bedreiging meer vormt binnen het lopende scenario.
+
+### Toelichting dreiging
+
+Een speler wordt alleen als directe bedreiging gezien wanneer deze:
+
+* Nog actief kan deelnemen aan het gevecht, én
+* In de afgelopen 2 minuten gericht heeft geschoten op jou of jouw groepering.
+
+Wanneer een speler is uitgeschakeld en niet meer kan deelnemen aan het gevecht, is het niet toegestaan deze alsnog te finishen, tenzij het gevecht op dat moment nog actief en gaande is.
+
+*Indien een partij in de minderheid is, mag er gekozen worden om diegene te finishen binnen 10 seconden van het benen schieten*
 
 > Straf ⇨ Categorie 4
 
@@ -166,6 +179,11 @@ Als jouw karakter is komen te overlijden wordt er verwacht dat jij alle roleplay
 Zoals: locaties, personen, situaties en aanleidingen.
 Je mag geïnformeerd worden, dan kan je enkel de informatie gebruiken die je hoort.
 **LET OP: Je mag niet terug aansluiten bij het scenario waarin je bent overleden.**
+
+**KO slaan**
+
+KO slaan mag enkel gebruikt worden wanneer dit roleplay-technisch passend is.
+Na het KO slaan kan de speler gedurende 15 minuten geen gedetailleerde informatie herinneren over het scenario (zoals voertuiggegevens of signalementen).
 
 > Straf ⇨ Categorie 4
 
@@ -282,25 +300,6 @@ tijdens een gevecht.
 * Intentie of context doet hierbij niet ter zake.
 
 > Straf ⇨ Categorie 5
-
-### Artikel 21 - EDM  (Excessive Deathmatch)
-
-* Het is niet toegestaan om een speler onnodig te finishen of te doden terwijl deze geen directe bedreiging meer vormt binnen een lopend scenario.
-
-Onder EDM valt onder andere maar niet beperkt tot:
-
-* Het doodschieten of finishen van een speler die duidelijk geen gevaar meer vormt.
-* Het doden van iemand die is uitgeschakeld en niet meer actief kan deelnemen aan het scenario. (Bijvoorbeeld iemand die je al in de benen hebt geschoten)
-* Het afmaken van spelers terwijl een minder ingrijpende oplossing passend is binnen de roleplay.
-
-Een speler wordt alleen als bedreiging gezien wanneer deze nog actief kan deelnemen aan het gevecht en in de afgelopen 2 minuten gericht heeft geschoten op jou of jouw groepering.
-
-**KO slaan**
-
-KO slaan mag enkel gebruikt worden wanneer dit roleplay-technisch passend is.
-Na het KO slaan kan de speler gedurende 15 minuten geen gedetailleerde informatie herinneren over het scenario (zoals voertuiggegevens of signalementen).
-
-> Straf ⇨ Categorie 4
 
 ### Artikel 22 Powergamen
 
