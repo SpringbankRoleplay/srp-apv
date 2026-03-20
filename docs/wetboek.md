@@ -982,7 +982,7 @@ Zwaar vuurwerk (Cobra's, nitraten, en extreem grote potten), zullen vallen onder
 
 |   | *Celstraf*  | *Taakstraf*  | *boete*  |
 |---|---|---|---|
-| **Eerste Veroordeling** | 18 maanden |  | € 7500,-  |
+|  **Eerste Veroordeling** | 18 maanden |  | € 7500,-  |
 | **Tweede Veroordeling**  | 36 maanden | | € 10000,-  |
 | **Meerdere Veroordelingen**  | 54 maanden |  | € 15000,-  |
 
@@ -1020,7 +1020,7 @@ Zwaar vuurwerk (Cobra's, nitraten, en extreem grote potten), zullen vallen onder
 
 |   | *Celstraf*  | *Taakstraf*  | *boete*  |
 |-------------------------|-----------|-----------|-------------|
-| **Eerste Veroordeling**      | 12 maanden |           | € 4500,-   |
+|  **Eerste Veroordeling**      | 12 maanden |           | € 4500,-   |
 | **Tweede Veroordeling**      | 20 maanden |           | € 6800,-   |
 | **Meerdere Veroordelingen**  | 30 maanden |           | € 9000,-   |
 
@@ -1033,7 +1033,7 @@ Zwaar vuurwerk (Cobra's, nitraten, en extreem grote potten), zullen vallen onder
 
 |   | *Celstraf*  | *Taakstraf*  | *boete*  |
 |-------------------------|-----------|-----------|-------------|
-| **Eerste Veroordeling**      |           |           | € 2500,-     |
+|  **Eerste Veroordeling**      |           |           | € 2500,-     |
 | **Tweede Veroordeling**      |           |           | € 2750,-     |
 | **Meerdere Veroordelingen**  |           |           | € 3000,-     |
 
@@ -1076,8 +1076,8 @@ Zwaar vuurwerk (Cobra's, nitraten, en extreem grote potten), zullen vallen onder
 Een persoon wordt als schuldig beschouwd wanneer hij zonder geldige aanleiding of rede een melding maakt bij een overheidsinstantie, die niet naar waarheid wordt gemaakt.
 
 |   | *Celstraf*  | *Taakstraf*  | *boete*  |
-|---|---|---|---|---|
-| **Eerste Veroordeling** |   | 10 uur  | € 2000,-  |
+|---|---|---|---|
+|  **Eerste Veroordeling** |   | 10 uur  | € 2000,-  |
 | **Tweede Veroordeling**  |   | 15 uur  | € 2500,-  | 
 | **Meerdere Veroordelingen**  |   | 20 uur  | € 3000,-  | 
 
