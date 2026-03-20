@@ -105,6 +105,8 @@ Ook is het niet toegestaan een eigen server te hebben voor je bedrijf of gang me
 Het is niet toegestaan om je voertuig als geweldsmiddel te gebruiken.
 Ook indien iemand niet overlijdt, telt dit als VDM.
 
+*Tijdens een rijdende blokkade is het niet toegestaan om een motor te blokkeren.*
+
 > Straf ⇨ Categorie 4
 
 ## Artikel 7 – RDM (Random Deathmatch)

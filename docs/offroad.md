@@ -24,6 +24,7 @@ Elk voertuig mag op onverharde wegen rijden t/nm 100 km/u. De voertuigen hierond
  * Coil Khamel
  * Declasse Gburrito (alleen met off-road banden)
  * Declasse Walton
+ * Enus Jubilee Carbon Master
  * Gallivanter Baller
  * Gallivanter Baller Sport
  * Gallivanter Baller Sport+
@@ -94,7 +95,7 @@ Elk voertuig mag op onverharde wegen rijden t/nm 100 km/u. De voertuigen hierond
  * Dinka Rebel 6
  * Declasse Draugur
  * Declasse Yosemite DRT
- * Declasse L35
+ * Gallivanter Baller Masterpiece 
  * Gallivanter Baller Raid
  * Gallivanter Trailguard 3 (3 Door)
  * Karin Borneo
