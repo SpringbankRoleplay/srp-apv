@@ -419,11 +419,9 @@ dienst dragen ten behoeve van de uitvoering van het werk.
 
 ## Informatie Criminele Activiteiten
 
-Als de recherche voldoende bewijs heeft om een huis binnen te vallen, mogen ze 50% van
-de kluis afpakken + de wapens en de volledige inventory van de personen binnen
-meenemen per categorie. De categorieën zijn: Grote wapens, kleine wapens en melee
-wapens, geldzaken (wit geld enkel bij goed onderzoek) en drugs. De voorwaardelijke
-straffen zijn als volgt, bij het volgende op zak:
+Als de recherche voldoende bewijs heeft om een huis binnen te vallen, mogen ze 50% van de kluis afpakken + de wapens en de volledige inventory van de personen binnen meenemen per categorie.
+De categorieën zijn: Grote wapens, kleine wapens en melee wapens, geldzaken (wit geld enkel bij goed onderzoek) en drugs.
+De voorwaardelijke straffen zijn als volgt, bij het volgende op zak:
 
 * Drugs vanaf 100 stuks > De politie 7 dagen de tijd om maximaal 3 autos uit garage random te doorzoeken
 * Drugs vanaf 300 stuks > De politie heeft 7 dagen de tijd om maximaal 5 autos en 1 woning random te doorzoeken
@@ -431,6 +429,8 @@ straffen zijn als volgt, bij het volgende op zak:
 * Hand Vuurwapen > De politie heeft 7 dagen de tijd om maximaal 5 voertuigen te doorzoeken.
 * Semi automatisch wapen > De politie heeft 7 dagen de tijd om maximaal 5 voertuigen en 1 woning te doorzoeken
 * Vol automaat wapen > De politie heeft 7 dagen de tijd om maximaal 5 voertuigen en 3 woningen te doorzoeken
+* Vuurwerk categorie 2 vanaf 3 stuks > De politie heeft 7 dagen de tijd om maximaal 3 voertuigen te doorzoeken.
+* Vuurwerk categorie 2 vanaf 10 stuks > De politie heeft 7 dagen de tijd om maximaal 5 voertuigen te doorzoeken.
 
 *Een uitzondering is wanneer het om grote groeperingen/een hele gang gaat, aangezien het onderzoek hier langer duurt*
 
