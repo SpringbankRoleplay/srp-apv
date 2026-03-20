@@ -1071,7 +1071,7 @@ Zwaar vuurwerk (Cobra's, nitraten, en extreem grote potten), zullen vallen onder
 2. Indien een jager handelt in noodsituatie of ter bescherming van mens of dier, kan de (hulp-)Officier van Justitie besluiten af te zien van vervolging.  
 3. De overheid behoudt zich het recht voor jachtlicenties in te trekken bij herhaalde overtredingen of ernstig misbruik.
 
-### Artikel VII-20 False melding.
+### Artikel VII-20 Valse melding.
 
 Een persoon wordt als schuldig beschouwd wanneer hij zonder geldige aanleiding of rede een melding maakt bij een overheidsinstantie, die niet naar waarheid wordt gemaakt.
 
