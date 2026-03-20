@@ -109,7 +109,6 @@
 
 ## Titel I - Vermogensdelicten
 
-
 ### Artikel I-1 Diefstal (310 SR)
 
 1. Een persoon is schuldig aan diefstal wanneer hij of zij een goed of voertuig wegneemt zonder toestemming of enig recht daartoe te hebben.
@@ -384,7 +383,7 @@ Poging tot uitbraak wordt bestraft als volgt:
 1. Er is sprake van schuldig gedrag in het verkeer wanneer iemand gevaar of mogelijke hinder veroorzaakt op de openbare weg.
 2. Het rijbewijs kan ook worden ingevorderd op basis van de inschatting van de dienstdoende agent.
 
-|   | *Celstraf*  | *Taakstraf*  | *boete*  | 
+|   | *Celstraf*  | *Taakstraf*  | *boete*  |
 |---|---|---|---|
 |  **Eerste Veroordeling** |   |  | € 3000,-  | 
 | **Tweede Veroordeling**  |   | 5 uur | € 4000,-  | 
@@ -413,7 +412,7 @@ Poging tot uitbraak wordt bestraft als volgt:
 4. Alleen met toestemming van een (h)OvJ of rechter kan er een veroordeling plaatsvinden voor dit artikel.
 5. Indien de feiten en omstandigheden hiertoe aanleiding geven, kan ook het rijbewijs worden ingevorderd en/of het voertuig in beslag worden genomen.
 
-|   | *Celstraf*  | *Taakstraf*  | *boete*  | 
+|   | *Celstraf*  | *Taakstraf*  | *boete*  |
 |---|---|---|---|
 |  **Eerste Veroordeling** | | 45 uur | € 3000,-  | 
 | **Tweede Veroordeling**  | 12 maanden  | | € 7500,- | 
@@ -492,10 +491,10 @@ Poging tot uitbraak wordt bestraft als volgt:
 ### Artikel III-10 Fout parkeren (25 RVV 1990)
 
 1. Een persoon die zijn of haar voertuig op een wijze parkeert die niet overeenkomt met de aangegeven parkeersituatie, wordt als schuldig beschouwd. Voorbeelden hiervan zijn:
- * Dubbelparkeren of opzettelijk het doorkruisen van parkeervakken;
- * Parkeren langs een rode trottoirrand;
- * Volledig parkeren op de stoep;
- * Parkeren op een plaats die alleen bedoeld is voor dienstvoertuigen.
+    * Dubbelparkeren of opzettelijk het doorkruisen van parkeervakken;
+    * Parkeren langs een rode trottoirrand;
+    * Volledig parkeren op de stoep;
+    * Parkeren op een plaats die alleen bedoeld is voor dienstvoertuigen.
 2. Voor deze acties is een boete van € 1750,- vastgesteld.
 
 ### Artikel III-11 Snelheidsovertredingen
@@ -554,7 +553,6 @@ Poging tot uitbraak wordt bestraft als volgt:
 2. Een volledig overzicht van alle boetes is tevens te vinden in het kostendocument.
 3. Onderstaande strafbare feiten kunnen bestraft worden met een boete, als zodanig:
 
-|   |   |
 |---|---|
 | Blokkeren van de weg | € 720,- |
 | Maken van een U-turn daar waar dat niet is toegestaan | € 420,- |
@@ -575,7 +573,7 @@ Poging tot uitbraak wordt bestraft als volgt:
 4. Indien persoon zoals bedoeld in lid 3 niet de eigenaar van het voertuig is, wordt het voertuig eveneens direct in beslag genomen en vernietigd.
 5. De eigenaar van het voertuig blijft verantwoordelijk, ook al wordt het voertuig met een andere bestuurder aangetroffen.
 
-| Illegale voertuigen | Soort |
+| *Illegale voertuigen* | *Soort* |
 |---|---|
 | Cliffhanger | Motor |
 | Dune Buggy | Buggy |
@@ -820,13 +818,13 @@ Poging tot uitbraak wordt bestraft als volgt:
     - Zwaar vuurwerk: VIPER SIX, FINAL STRIKE CAKE
 6. Indien er meer dan 20 artikelen van zwaar vuurwerk worden gevonden wordt het gerekend onder explosieven en zal Artikel V-2 Vuurwapens en Explosieven (26 WWM) van toepassing zijn(inclusief eventuele doorzoeking)
 
-| **Licht Vuurwerk**  | *Celstraf*  | *Taakstraf*  | *boete*  |
+| ***`Licht Vuurwerk`***  | *Celstraf*  | *Taakstraf*  | *boete*  |
 |---|---|---|---|
 | **Eerste Veroordeling** |  |  | € 600,-  |
 | **Tweede Veroordeling**  |  |  | € 1000,-  |
 | **Meerdere Veroordelingen**  |  | 10 Uur | € 1500,-  |
 
-| **Zwaar vuurwerk**  | *Celstraf*  | *Taakstraf*  | *boete*  |
+| ***`Zwaar vuurwerk`***  | *Celstraf*  | *Taakstraf*  | *boete*  |
 |---|---|---|---|
 | **Eerste Veroordeling** |  | 10 Uur | € 1500,-  |
 | **Tweede Veroordeling**  |  | 20 Uur | € 2500,-  |
@@ -981,7 +979,6 @@ Zwaar vuurwerk (Cobra's, nitraten, en extreem grote potten), zullen vallen onder
 | Politiebureau |
 | Militaire politie brigade |
 | Echo Headquarters |
-|  |
 
 |   | *Celstraf*  | *Taakstraf*  | *boete*  |
 |---|---|---|---|
