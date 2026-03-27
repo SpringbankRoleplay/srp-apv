@@ -344,6 +344,16 @@ overheidsdiensten binnen een geldig roleplay scenario.
 
 > Straf ⇨ Categorie 4
 
+### Artikel 25 - Wapen Gebruik
+
+Het is niet toegestaan om op banden te schieten met als doel een reactie uit te lokken.
+
+Het is wel toegestaan om banden te schieten wanneer er sprake is van illegale activiteiten, zoals bij een achtervolging, overval, of andere strafbare handelingen, mits dit binnen de context van het scenario past.
+
+Van een achtervolging is sprake wanneer iemand minimaal 5 turns actief wordt gevolgd door dezelfde persoon of hetzelfde voertuig.
+
+> Straf ⇨ Categorie 4
+
 -------
 
 ## Overheid
