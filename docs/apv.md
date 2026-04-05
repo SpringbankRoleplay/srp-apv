@@ -481,8 +481,7 @@ Dan moet dat scenario wel helemaal uitgewerkt zijn met bijbehorende papieren!
 6. Er mag geen ESI aankoppelen bij een kleine bank, tenzij de politie ESI oproept aangezien zij beschoten worden
 7. Als er een counter plaatsvindt, dan wordt er aangekoppeld op het aantal wapens.
 Bijvoorbeeld: 4 wapens is 4 eenheden. Ben je met minder, is dit eigen risico.
-8. Per locatie mag maximaal één setup geplaatst worden. Per setup mogen maximaal twee personen aanwezig zijn, bestaande uit één bestuurder en één persoon die de setup uitvoert.
-**Het gebruik van automatische wapens is niet toegestaan.**
+8. Per locatie mag maximaal een setup geplaatst worden. Per setup mogen maximaal 3 mensen aanwezig zijn die mogen schieten tijdens de setup. Tijdens een setup mag enkel op banden worden geschoten.
 
 > Straf ⇨ Categorie 3
 
