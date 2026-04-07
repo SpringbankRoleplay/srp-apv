@@ -42,6 +42,7 @@ Elk voertuig mag op onverharde wegen rijden t/nm 100 km/u. De voertuigen hierond
  * Maibatsu Sunrise (alleen met off-road banden)
  * Maibatsu Sunrise HYC (alleen met off-road banden)
  * Obey Rocoto
+ * Obey R650
  * Pegassi Toros (alleen met off-road banden)
  * Pfister Astron Custom (alleen met off-road banden)
  * Pfister Neon SUV (alleen met off-road banden)
@@ -95,9 +96,11 @@ Elk voertuig mag op onverharde wegen rijden t/nm 100 km/u. De voertuigen hierond
  * Dinka Rebel 6
  * Declasse Draugur
  * Declasse Yosemite DRT
+ * Enus Regent (Fully Offroad met offroad banden)
  * Gallivanter Baller Masterpiece 
  * Gallivanter Baller Raid
  * Gallivanter Trailguard 3 (3 Door)
+ * Gallivanter trailguard 6
  * Karin Borneo
  * Karin Bjxl
  * Karin Boor
