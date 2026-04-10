@@ -46,7 +46,9 @@ wanneer die persoon zelf bij zijn auto bezig is.
 * Het niet realistisch reageren op je verwondingen. Bijvoorbeeld meteen op de motor stappen, nadat je in je benen geschoten bent.
 Als je benen geschoten bent, mag je 60 seconden niet meer rennen, schieten of meedoen met het scenario.
 Je mag wel rustig lopend een schuilplek zoeken, of als passagier in de auto stappen. Blijf je in het scenario, heb je medische zorg nodig alvorens je verder mag gaan.
-*Medische zorg valt enkel onder, ambulance verzorging en/of ESI medic*
+
+*Medische zorg valt enkel onder, ambulance verzorging en/of ESI medic* // *Het gebruik van morfine maakt het mogelijk om tijdelijk toch door te gaan binnen het scenario. Zodra de werking van de morfine is uitgewerkt, is een bezoek van de ambulance verplicht.*
+
 * Indien je een harde crash hebt gemaakt, of een crash beeld hebt, mag je niet meteendoor met het scenario.
 Je moet 30 seconden wachten. In een achtervolging moet je afkoppelen.
 *Dit geldt voor zowel overheid als onderwereld. Of de crash te hard is, is op bepaling van staff.*
