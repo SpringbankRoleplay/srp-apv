@@ -143,6 +143,7 @@ Enkele voorbeelden hiervan zijn, maar niet beperkt tot:
 * Niet meewerken wanneer iemand binnen shouting range een vuurwapen op je richt.
 * Tegenwerken bij fouilleren of bij een hands-up situatie (items droppen binnen 10 seconden).
 * Onrealistisch gevaarlijk gedrag zoals laag vliegen met heli/vliegtuig of tussen gebouwen door.
+* Niet meewerken zodra KLU een lock heeft uitgevoerd.
 * Weerstand bieden tegen slag- of steekwapens binnen 1 meter (tenzij je in een afgesloten voertuig zit).
 * Wegvluchten van een taser mag alleen als je nog niet getaserd bent.
 * Rijdende voertuigen blokkeren is toegestaan tot een maximale snelheid van 150 KM/H.
@@ -168,10 +169,11 @@ Deze tijd biedt de mogelijkheid om de situatie uit te leggen aan de andere parti
 
 ### Artikel 10 - Combat-stashing
 
-Het is niet toegestaan om wapens of voorwerpen die je in een scenario actief hebt gebruikt, of hebt gestolen, of in beslag hebt genomen, binnen 10 minuten te stashen op een plek waar niemand anders bij kan.
-Zolang je je nog bevindt in het scenario (neem bijvoorbeeld een achtervolging na het gebruik van je wapen, of het verwerken van goederen) tellen deze 10 minuten niet.
-De 10 minuten gelden pas vanaf het moment dat het scenario afgelopen is.
-Dit geldt ook wanneer jij je wapen in je dashboard stashed en deze op slot doet, of in je heli doet tijdens het neerstorten.
+Het is niet toegestaan om wapens of voorwerpen die je in een scenario actief hebt gebruikt, hebt gestolen of in beslag hebt genomen, binnen 10 minuten te stashen op een plek waar niemand anders bij kan.
+
+De 10 minuten gaan in vanaf het moment dat je het wapen of voorwerp hebt gebruikt of afgenomen.
+
+Dit geldt ook wanneer je het wapen in je dashboard stasht en deze op slot doet, of wanneer je het in een heli legt, bijvoorbeeld tijdens een crash.
 
 > Straf ⇨ Categorie 4
 
@@ -480,6 +482,7 @@ Dit geldt niet voor overvallen waar een scenario aan vast zit, zoals: bouwvakker
 Dan moet dat scenario wel helemaal uitgewerkt zijn met bijbehorende papieren!
 **Het is verplicht om een wapen vast te houden gedurende de overval, indien je de starter bent van de overval.**
 5. Bij de OILRIG overval mag enkel ESI of EAS aankoppelen, niet allebei
+**Er mag een switch plaatsvinden, indien dit nodig is. Tijdens deze switch moet de eerder gekoppelde eenheid na 1 minuut volledig afgekoppeld zijn**
 6. Er mag geen ESI aankoppelen bij een kleine bank, tenzij de politie ESI oproept aangezien zij beschoten worden
 7. Als er een counter plaatsvindt, dan wordt er aangekoppeld op het aantal wapens.
 Bijvoorbeeld: 4 wapens is 4 eenheden. Ben je met minder, is dit eigen risico.
