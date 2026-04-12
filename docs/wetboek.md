@@ -581,6 +581,25 @@ Poging tot uitbraak wordt bestraft als volgt:
 | Sanchez | Motor |
 | Sanchez Sport | Motor |
 
+### Artikel III-15 Vliegen zonder vliegbrevet
+
+1. Schuldig is een persoon die zonder daartoe gerechtigd te zijn een luchtvaartuig bestuurt, terwijl hij niet beschikt over een geldig en op naam gesteld vliegbrevet dat vereist is voor het betreffende type luchtvaartuig.
+
+2. Schuldig is tevens een persoon die een luchtvaartuig bestuurt met een ongeldig, verlopen, geschorst of ingetrokken vliegbrevet, dan wel handelt in strijd met de voorwaarden en beperkingen die aan het vliegbrevet zijn verbonden.
+
+Onder vliegen zonder vliegbrevet wordt mede verstaan:
+
+* Het opstijgen, landen of besturen van een luchtvaartuig zonder enige vorm van bevoegdheid;
+* Het laten besturen van een luchtvaartuig door een onbevoegd persoon;
+* Het uitvoeren van commerciële of risicovolle vluchten zonder de vereiste aanvullende certificeringen;
+* Het negeren van luchtverkeersregels of aanwijzingen van bevoegde instanties tijdens het vliegen zonder geldige bevoegdheid.
+
+|---| *Taakstraf* | *Boete* |
+|---|---|---|
+| **Eerste Veroordeling**   |   |   € 100.000,- |
+| **Tweede Veroordeling**    |   | 20 uur |  € 150.000,- |
+| **Meerdere Veroordelingen** |  30 uur |  € 200.000,- |
+
 ## Titel IV - Opiumwet
 
 
