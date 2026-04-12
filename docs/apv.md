@@ -547,8 +547,7 @@ degene richt. Het meenemen van dat voertuig voor overladen en /leensleutel vrage
 5. Het is niet toegestaan om iemand te rippen en daarna te vermoorden, tenzij je een geldige reden hebt binnen dit scenario.
 6. Het is toegestaan iemand te handsuppen/rippen indien persoon je actief volgt of actief scout.
 7. Het is toegestaan iemand te fouilleren indien deze een masker of holster draagt.
-8. Airdrops mogen geript worden. Let op! Dit is geen combat gebied. Je mag rippen,
-maar geen onnodig geweld gebruiken.
+8. Airdrops mogen geript worden, dit mag enkel wanneer de persoon zich binnen shouting range van de airdrop bevindt. De rode cirkel is geen redzone!
 9. Rippen bij de opdrachten van Tyeisha is niet toegestaan. De politie behoort je te
 laten gaan, als je een goeie roleplay neerzet en geen grote illegale zaken op zak hebt.
 10. Illegale goederen terug rippen, nadat deze zijn afgenomen door een overheidsinstantie, mag alleen op de volgende manier:
