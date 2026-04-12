@@ -597,8 +597,8 @@ Onder vliegen zonder vliegbrevet wordt mede verstaan:
 |   | *Taakstraf* | *Boete* |
 |---|---|---|
 | **Eerste Veroordeling**   |   |   € 100.000,- |
-| **Tweede Veroordeling**    |   | 20 uur |  € 150.000,- |
-| **Meerdere Veroordelingen** |  30 uur |  € 200.000,- |
+| **Tweede Veroordeling**      | 20 uur | € 150.000,- |
+| **Meerdere Veroordelingen** | 30 uur |  € 200.000,- |
 
 ## Titel IV - Opiumwet
 
