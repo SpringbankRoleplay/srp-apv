@@ -594,7 +594,7 @@ Onder vliegen zonder vliegbrevet wordt mede verstaan:
 * Het uitvoeren van commerciële of risicovolle vluchten zonder de vereiste aanvullende certificeringen;
 * Het negeren van luchtverkeersregels of aanwijzingen van bevoegde instanties tijdens het vliegen zonder geldige bevoegdheid.
 
-|---| *Taakstraf* | *Boete* |
+|   | *Taakstraf* | *Boete* |
 |---|---|---|
 | **Eerste Veroordeling**   |   |   € 100.000,- |
 | **Tweede Veroordeling**    |   | 20 uur |  € 150.000,- |

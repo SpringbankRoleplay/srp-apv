@@ -480,9 +480,11 @@ voorbeelden verstaan:
 4. Indien je een overval doet zonder duidelijke hostage en zonder wapen vast te hebben, dan mag de politie binnenvallen.
 Dit geldt niet voor overvallen waar een scenario aan vast zit, zoals: bouwvakkers, vakkenvullers, etc.
 Dan moet dat scenario wel helemaal uitgewerkt zijn met bijbehorende papieren!
-**Het is verplicht om een wapen vast te houden gedurende de overval, indien je de starter bent van de overval.**
-5. Bij de OILRIG overval mag enkel ESI of EAS aankoppelen, niet allebei
-**Er mag een switch plaatsvinden, indien dit nodig is. Tijdens deze switch moet de eerder gekoppelde eenheid na 1 minuut volledig afgekoppeld zijn**
+
+*Het is verplicht om een wapen vast te houden gedurende de overval, indien je de starter bent van de overval.*
+5. Bij de OILRIG overval mag enkel ESI of EAS aankoppelen, niet allebei.
+
+*Er mag een switch plaatsvinden, indien dit nodig is. Tijdens deze switch moet de eerder gekoppelde eenheid na 1 minuut volledig afgekoppeld zijn*
 6. Er mag geen ESI aankoppelen bij een kleine bank, tenzij de politie ESI oproept aangezien zij beschoten worden
 7. Als er een counter plaatsvindt, dan wordt er aangekoppeld op het aantal wapens.
 Bijvoorbeeld: 4 wapens is 4 eenheden. Ben je met minder, is dit eigen risico.
