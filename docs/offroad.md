@@ -92,13 +92,15 @@ Elk voertuig mag op onverharde wegen rijden t/nm 100 km/u. De voertuigen hierond
  * Canis WPT
  * Coil Brawler
  * Coil LOD-4
- * Coil Money (Enkel met offroad banden)
+ * Coil Money (alleen met off-road banden)
  * Dinka Rebel 6
  * Declasse Draugur
  * Declasse Yosemite DRT
- * Enus Regent (Fully Offroad met offroad banden)
+ * Enus Jubilee Mans (alleen met off-road banden)
+ * Enus Regent (alleen met off-road banden)
  * Gallivanter Baller Masterpiece 
  * Gallivanter Baller Raid
+ * Gallivanter Bastion
  * Gallivanter Trailguard 3 (3 Door)
  * Gallivanter trailguard 6
  * Karin Borneo
@@ -123,7 +125,8 @@ Elk voertuig mag op onverharde wegen rijden t/nm 100 km/u. De voertuigen hierond
  * Nagasaki Blazer Sport
  * Nagasaki Outlaw
  * Nagasaki Outlaw XL 
- * Obey Tenf Rally 
+ * Obey Tenf Rally
+ * Pegassi Toros Mancarbon (alleen met off-road banden) 
  * Pfister XX3
  * Rune Baikal 4X4 
  * Ubermacht Rebla XR (alleen met off-road banden)
