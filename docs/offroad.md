@@ -26,6 +26,7 @@ Elk voertuig mag op onverharde wegen rijden t/nm 100 km/u. De voertuigen hierond
  * Declasse Walton
  * Enus Jubilee Carbon Master
  * Gallivanter Baller
+ * Gallivanter Ballerp5x
  * Gallivanter Baller Sport
  * Gallivanter Baller Sport+
  * Gallivanter Baller ST-D
@@ -129,6 +130,7 @@ Elk voertuig mag op onverharde wegen rijden t/nm 100 km/u. De voertuigen hierond
  * Pegassi Toros Mancarbon (alleen met off-road banden) 
  * Pfister XX3
  * Rune Baikal 4X4 
+ * Ubermacht FX3R Offroad 
  * Ubermacht Rebla XR (alleen met off-road banden)
  * Ubermacht Rebla Safari
  * Vapid Aleutian X
