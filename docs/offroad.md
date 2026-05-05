@@ -33,6 +33,7 @@ Elk voertuig mag op onverharde wegen rijden t/nm 100 km/u. De voertuigen hierond
  * Gallivanter Baller ST-D Platinum
  * Karin Bjxl (alleen met off-road banden)
  * Karin Karuma Rally (alleen met off-road banden)
+ * Karin Kuruma RS (alleen met off-road banden)
  * Karin Mogul RS (alleen met off-road banden)
  * Karin Sultan (alleen met off-road banden)
  * Karin Sultan SR4 (alleen met off-road banden)
@@ -94,6 +95,7 @@ Elk voertuig mag op onverharde wegen rijden t/nm 100 km/u. De voertuigen hierond
  * Coil Brawler
  * Coil LOD-4
  * Coil Money (alleen met off-road banden)
+ * Dinka Mountainier
  * Dinka Rebel 6
  * Declasse Draugur
  * Declasse Yosemite DRT
