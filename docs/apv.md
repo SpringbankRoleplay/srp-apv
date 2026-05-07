@@ -41,8 +41,7 @@ of de roleplay te verstoren. Je behoort je aan te passen aan de situatie waar ji
 * Tijdens een achtervolging je voertuig in de garage zetten om te voorkomen dat je herkend wordt.
 * Het expres slecht/niet afmaken van een scenario of te verstoren, ondanks de situatie.
 Ook het verstoren/belemmeren van overheidsmedewerkers hoort hierbij.
-* Het stelen uit kofferbakken door bijvoorbeeld iemand van de motor af te trappen, of bij de garage uit iemands auto te stelen,
-wanneer die persoon zelf bij zijn auto bezig is.
+* Het stelen uit kofferbakken door bijvoorbeeld iemand van de motor af te trappen, of bij de garage uit iemands auto te stelen, wanneer die persoon zelf bij zijn auto bezig is. Ook is het niet toegestaan zonder enige aanleiding iemand zijn auto open te maken met een gasbrander.
 * Het niet realistisch reageren op je verwondingen. Bijvoorbeeld meteen op de motor stappen, nadat je in je benen geschoten bent.
 Als je benen geschoten bent, mag je 60 seconden niet meer rennen, schieten of meedoen met het scenario.
 Je mag wel rustig lopend een schuilplek zoeken, of als passagier in de auto stappen. Blijf je in het scenario, heb je medische zorg nodig alvorens je verder mag gaan.
@@ -77,9 +76,8 @@ Voorbeelden van bugs/exploits zijn:
 
 * Misbruiken van bepaalde animaties (zoals het schoppen vanaf een motor of emote bug abuse om te glitchen), dupliceren van items, in het algemeen het misbruik maken van een bug om daar je voordeel uit te halen.
 
-Wanneer het managementteam van mening is dat het misbruik van de bug en/of exploit te veel invloed heeft op de economie, kunnen zij besluiten om af te wijken van de standaard strafmaatregelen.
-In dit geval zal er een grondig onderzoek plaatsvinden naar de omstandigheden en gevolgen van het misbruik.
-Op basis van dit onderzoek kan er besloten worden om af te zien van de standaard strafmaatregelen en een passende alternatieve maatregel te nemen, zoals een account wipe.
+* Wanneer het managementteam van mening is dat het misbruik van de bug en/of exploit te veel invloed heeft op de economie, kunnen zij besluiten om af te wijken van de standaard strafmaatregelen.
+
 **Indien een bug of exploit niet gemeld, maar wel misbruikt is, kan dit leiden tot een permanente verbanning van de server.**
 
 > Straf ⇨ Categorie 6
