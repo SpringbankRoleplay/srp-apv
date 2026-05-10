@@ -79,6 +79,7 @@ Elk voertuig mag op onverharde wegen rijden t/nm 100 km/u. De voertuigen hierond
  * Bestotion Slamvan XER
  * Bf Bifta
  * Bf Inject
+ * BF Trager Civ (alleen met off-road banden)
  * Bollokan Pakunek (alleen met off-road banden)
  * Bravado Esperta (alleen met off-road banden)
  * Bravado Rumpo XL Eiland Edition
