@@ -833,8 +833,8 @@ Onder vliegen zonder vliegbrevet wordt mede verstaan:
 1. Strafbaar is een persoon die in heeft afgestoken of in het bezit is van vuurwerk.
 2. Indien het vuurwerk is afgestoken in een druk gebied of schade heeft veroorzaakt aan gebouwen of omgeving wordt de straf met 33% verhoogt
 3. Onderscheid wordt gemaakt tussen
-    - Licht vuurwerk: POPSHOCK, SKY CAKE
-    - Zwaar vuurwerk: VIPER SIX, FINAL STRIKE CAKE
+    - Licht vuurwerk: FINAL STRIKE CAKE, SKY CAKE
+    - Zwaar vuurwerk: VIPER SIX, POPSHOCK
 6. Indien er meer dan 20 artikelen van zwaar vuurwerk worden gevonden wordt het gerekend onder explosieven en zal Artikel V-2 Vuurwapens en Explosieven (26 WWM) van toepassing zijn(inclusief eventuele doorzoeking)
 
 | ***`Licht Vuurwerk`***  | *Celstraf*  | *Taakstraf*  | *boete*  |
