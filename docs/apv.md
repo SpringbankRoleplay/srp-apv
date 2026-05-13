@@ -39,16 +39,11 @@ of de roleplay te verstoren. Je behoort je aan te passen aan de situatie waar ji
 **Voorbeelden van FailRP zijn, maar niet beperkt tot:**
 
 * Tijdens een achtervolging je voertuig in de garage zetten om te voorkomen dat je herkend wordt.
-* Het expres slecht/niet afmaken van een scenario of te verstoren, ondanks de situatie.
+* Het expres slecht/niet afmaken van een scenario of te verstoren, ondanks de situatie. 
 Ook het verstoren/belemmeren van overheidsmedewerkers hoort hierbij.
 * Het stelen uit kofferbakken door bijvoorbeeld iemand van de motor af te trappen, of bij de garage uit iemands auto te stelen, wanneer die persoon zelf bij zijn auto bezig is. Ook is het niet toegestaan zonder enige aanleiding iemand zijn auto open te maken met een gasbrander.
 * Het niet realistisch reageren op je verwondingen. Bijvoorbeeld meteen op de motor stappen, nadat je in je benen geschoten bent.
-Als je benen geschoten bent, mag je 60 seconden niet meer rennen, schieten of meedoen met het scenario.
-Je mag wel rustig lopend een schuilplek zoeken, of als passagier in de auto stappen. Blijf je in het scenario, heb je medische zorg nodig alvorens je verder mag gaan.
-
-*Medische zorg valt enkel onder, ambulance verzorging en/of ESI medic* // *Het gebruik van morfine maakt het mogelijk om tijdelijk toch door te gaan binnen het scenario. Zodra de werking van de morfine is uitgewerkt, is een bezoek van de ambulance verplicht.*
-
-* Indien je een harde crash hebt gemaakt, of een crash beeld hebt, mag je niet meteendoor met het scenario.
+* Indien je een harde crash hebt gemaakt, of een crash beeld hebt, mag je niet meteen door met het scenario.
 Je moet 30 seconden wachten. In een achtervolging moet je afkoppelen.
 *Dit geldt voor zowel overheid als onderwereld. Of de crash te hard is, is op bepaling van staff.*
 * Dit is bijvoorbeeld:
@@ -111,25 +106,7 @@ Ook indien iemand niet overlijdt, telt dit als VDM.
 
 ## Artikel 7 – RDM (Random Deathmatch)
 
-Het is niet toegestaan om iemand te verwonden of van het leven te beroven zonder geldige aanleiding en zonder voorafgaande roleplay. Dit geldt ook voor dieren.
-
-Onder RDM valt onder andere, maar niet beperkt tot:
-
-* Iemand slaan of doden zonder dat er sprake is van geldige roleplay.
-* Het uitlokken van een situatie met als doel iemand te kunnen doden.
-* Het doden van een speler die op geen enkele manier betrokken is bij het scenario.
-* Het finishen of doden van een speler die geen directe en actieve bedreiging meer vormt binnen het lopende scenario.
-
-### Toelichting dreiging
-
-Een speler wordt alleen als directe bedreiging gezien wanneer deze:
-
-* Nog actief kan deelnemen aan het gevecht, én
-* In de afgelopen 2 minuten gericht heeft geschoten op jou of jouw groepering.
-
-Wanneer een speler is uitgeschakeld en niet meer kan deelnemen aan het gevecht, is het niet toegestaan deze alsnog te finishen, tenzij het gevecht op dat moment nog actief en gaande is.
-
-*Indien een partij in de minderheid is, mag er gekozen worden om diegene te finishen binnen 10 seconden van het benen schieten*
+Het is niet toegestaan om iemand te verwonden of van het leven te beroven zonder voorafgaande roleplay. Dit geldt ook voor dieren.
 
 > Straf ⇨ Categorie 4
 
@@ -169,9 +146,8 @@ Deze tijd biedt de mogelijkheid om de situatie uit te leggen aan de andere parti
 
 Het is niet toegestaan om wapens of voorwerpen die je in een scenario actief hebt gebruikt, hebt gestolen of in beslag hebt genomen, binnen 10 minuten te stashen op een plek waar niemand anders bij kan.
 
-De 10 minuten gaan in vanaf het moment dat je het wapen of voorwerp hebt gebruikt of afgenomen.
-
-Dit geldt ook wanneer je het wapen in je dashboard stasht en deze op slot doet, of wanneer je het in een heli legt, bijvoorbeeld tijdens een crash.
+* De 10 minuten gaan in vanaf het moment dat je het wapen of voorwerp hebt gebruikt of afgenomen.
+* Dit geldt ook wanneer je het wapen in je dashboard stasht en deze op slot doet, of wanneer je het in een heli legt, bijvoorbeeld tijdens een crash.
 
 > Straf ⇨ Categorie 4
 
@@ -233,9 +209,8 @@ Volledige off-road mag alleen met een daarvoor bestemde auto.
 1. Indien je een voertuig inzet om een zogenoemde pit uit te voeren is dit alleen toegestaan als de snelheid lager is dan 100 km/u en dit op een verantwoorde wijze gaat.
 2. Een voertuig mag geen zwaarder voertuig pitten of brake checken, de volgorde gaat als volgt:
 1: Motorvoertuigen \ 2: Sportauto’s en hypercars \ 3: Personenauto’s, zoals Sedan en Coupé \ 4: SUV’s \ 5: Bussen en vrachtwagens.
-3. Politieagenten van de landelijke eenheid verkeerspolitie mogen een pit uitvoeren tot
-snelheden van 130 km/u. De dienst speciale interventies hebben een specialistische
-training gehad en mogen op uitzondering een pit uitvoeren tot snelheden van 150km/u.
+3. Politieagenten van de landelijke eenheid verkeerspolitie mogen een pit uitvoeren tot snelheden van 130 km/u.
+De dienst speciale interventies hebben een specialistische training gehad en mogen op uitzondering een pit uitvoeren tot snelheden van 150km/u.
 **LET OP: Pitten is iets anders dan beuken.**
 
 > Straf ⇨ Categorie 2
@@ -275,8 +250,7 @@ De volgende locaties worden gezien als een greenzone:
 * Het is niet toegestaan om de standaard-outfit te dragen tijdens roleplay scenarios. In
 het begin krijg je een menu waar je dit kan aanpassen. Mocht dat onverhoopt niet
 lukken wordt er verwacht dat jij naar een kledingwinkel gaat.
-* Het is niet toegestaan om doorzichtige lichaamsdelen zoals armen, benen of torso te
-hebben.
+* Het is niet toegestaan om doorzichtige lichaamsdelen zoals armen, benen of torso te hebben.
 * Het is zaak om ervoor te zorgen dat jouw armen niet door jouw t-shirt heenkomen.
 
 > Straf ⇨ Categorie 1
@@ -296,8 +270,7 @@ omzeilen van regels door middel van het F6 menu.
 ### Artikel 20 - Monkeypunchen
 
 * Het gebruik van de mechanic Monkeypunchen is verboden binnen Springbank.
-* Monkeypunchen wordt gezien als het bewust misbruiken van game mechanics
-tijdens een gevecht.
+* Monkeypunchen wordt gezien als het bewust misbruiken van game mechanics tijdens een gevecht.
 * Wanneer een speler hierop wordt betrapt, leidt dit altijd tot een strafbepaling.
 * Intentie of context doet hierbij niet ter zake.
 
@@ -387,13 +360,9 @@ Discord genoteerd, te dragen indien je niet werkzaam bent bij dit bedrijf.
 ### Artikel 53 - Overheidsvoertuigen
 
 1. Het is niet toegestaan om overheidsvoertuigen te tunen.
-2. Het is alleen toegestaan om overheidsvoertuigen te besturen indien jij in dienst bent
-bij de desbetreffende overheidsdienst.
-
-3. Het is verplicht om, wanneer je in dienst bent, in het aangewezen voertuig rond te
-rijden met dienstkleding aan.
-4. Een uitzondering op lid 2 is wanneer de diefstal van een overheidsvoertuig en het
-eventueel besturen hiervan ten behoeve is van een goed roleplay scenario.
+2. Het is alleen toegestaan om overheidsvoertuigen te besturen indien jij in dienst bent bij de desbetreffende overheidsdienst.
+3. Het is verplicht om, wanneer je in dienst bent, in het aangewezen voertuig rond te rijden met dienstkleding aan.
+4. Een uitzondering op lid 2 is wanneer de diefstal van een overheidsvoertuig en het eventueel besturen hiervan ten behoeve is van een goed roleplay scenario.
 
 > Straf ⇨ Categorie 2
 
@@ -421,9 +390,8 @@ is het vereist dat medewerkers geen illegale zaken meer in hun bezit hebben, zij
 uur om in overleg met hun baas zich te ontdoen van deze spullen.
 
 1. Het is niet toegestaan om in het bezit te zijn van objecten die afkomstig zijn van een overheidsdienst, wanneer je niet in dienst bent.
-2. Een uitzondering geldt voor medewerkers van de politie die een specialistische
-training hebben gehad. Deze medewerkers mogen wel hun dienstwapens buiten hun
-dienst dragen ten behoeve van de uitvoering van het werk.
+2. Een uitzondering geldt voor medewerkers van de politie die een specialistische training hebben gehad. 
+Deze medewerkers mogen wel hun dienstwapens buiten hundienst dragen ten behoeve van de uitvoering van het werk.
 
 > Straf ⇨ Categorie 5 en ontslag
 
@@ -460,7 +428,7 @@ voorbeelden verstaan:
 3. De volgende zaken mogen nooit gestolen en/of overvallen worden:
     * Geld wat op de bank staat.
     * Onder dwang iemand zijn huis of loods betreden en leegroven.
-        * De inhoud van kluizen van verified of offi gangs of bedrijven (andere kluizen zijn eigen risico).
+    * De inhoud van kluizen van verified of offi gangs of bedrijven (andere kluizen zijn eigen risico).
 4. Scammen, ripdealen of andere vormen van oplichting zijn verboden.
 
 > Straf ⇨ Categorie 5
