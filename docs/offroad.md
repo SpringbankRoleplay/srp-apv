@@ -43,6 +43,7 @@ Elk voertuig mag op onverharde wegen rijden t/nm 100 km/u. De voertuigen hierond
  * Maibatsu Mule (alleen met off-road banden)
  * Maibatsu Sunrise (alleen met off-road banden)
  * Maibatsu Sunrise HYC (alleen met off-road banden)
+ * MTL Brickade Flatbed
  * Obey Rocoto
  * Obey R650
  * Pegassi Toros (alleen met off-road banden)
@@ -52,6 +53,7 @@ Elk voertuig mag op onverharde wegen rijden t/nm 100 km/u. De voertuigen hierond
  * Ubermacht Beretta
  * Ubermacht FX3R (alleen met off-road banden)
  * Ubermacht FX7R (alleen met off-road banden)
+ * Übermacht Granz BN (alleen met off-road banden)
  * Ubermacht Rebla CTs
  * Ubermacht X340R ZK
  * Vapid Aleutian XL
@@ -110,6 +112,7 @@ Elk voertuig mag op onverharde wegen rijden t/nm 100 km/u. De voertuigen hierond
  * Karin Borneo
  * Karin Bjxl
  * Karin Boor
+ * Karin Bushmaster
  * Karin Everon 
  * Karin Everon Baja
  * Karin Everon Stock
