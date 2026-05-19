@@ -302,20 +302,18 @@ Als je iets wilt afpakken, zoals een wapenriem of comms, dan dien je dit te ook 
 
 ### Artikel 24 Vliegregels
 
-Het is verboden om op een onrealistische of gevaarlijke manier te vliegen. Hieronder valt elk
-vlieggedrag dat niet past binnen realistische roleplay of dat een gevaar vormt voor spelers,
-objecten of scenario’s.
+Het is verboden om op een onrealistische of gevaarlijke manier te vliegen. Hieronder valt elk vlieggedrag dat niet past binnen realistische roleplay of dat een gevaar vormt voor spelers, objecten of scenario’s.
 
-Het is verboden om te vliegen en of te landen boven de volgende gebieden:
+Het is verboden om te vliegen en/of te landen boven de volgende gebieden:
 
 * Politie hoofdbureau
 * Militaire politie brigade
 * Militaire basis
 * Gevangenis
 
-Deze locaties zijn ten allen tijde verboden terrein.
-Uitzonderingen gelden uitsluitend wanneer je expliciete instructies ontvangt van
-overheidsdiensten binnen een geldig roleplay scenario.
+Deze locaties zijn te allen tijde verboden terrein.
+Daarnaast is het tijdens een achtervolging in de lucht verboden om naar het eiland te vluchten om de achtervolging te ontlopen.
+Uitzonderingen gelden uitsluitend wanneer je expliciete instructies ontvangt van overheidsdiensten binnen een geldig roleplay scenario.
 
 > Straf ⇨ Categorie 4
 
