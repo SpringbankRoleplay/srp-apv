@@ -390,6 +390,7 @@ uur om in overleg met hun baas zich te ontdoen van deze spullen.
 1. Het is niet toegestaan om in het bezit te zijn van objecten die afkomstig zijn van een overheidsdienst, wanneer je niet in dienst bent.
 2. Een uitzondering geldt voor medewerkers van de politie die een specialistische training hebben gehad. 
 Deze medewerkers mogen wel hun dienstwapens buiten hundienst dragen ten behoeve van de uitvoering van het werk.
+3. Het is niet toegestaan om in dienst te blijven terwijl je niet actief deelneemt aan de roleplay (AFK). Een korte afwezigheid is toegestaan, mits deze niet langer duurt dan 15 minuten. Indien je verwacht langer afwezig te zijn, dien je uit dienst te gaan.
 
 > Straf ⇨ Categorie 5 en ontslag
 
