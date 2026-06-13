@@ -302,20 +302,18 @@ Als je iets wilt afpakken, zoals een wapenriem of comms, dan dien je dit te ook 
 
 ### Artikel 24 Vliegregels
 
-Het is verboden om op een onrealistische of gevaarlijke manier te vliegen. Hieronder valt elk
-vlieggedrag dat niet past binnen realistische roleplay of dat een gevaar vormt voor spelers,
-objecten of scenario’s.
+Het is verboden om op een onrealistische of gevaarlijke manier te vliegen. Hieronder valt elk vlieggedrag dat niet past binnen realistische roleplay of dat een gevaar vormt voor spelers, objecten of scenario’s.
 
-Het is verboden om te vliegen en of te landen boven de volgende gebieden:
+Het is verboden om te vliegen en/of te landen boven de volgende gebieden:
 
 * Politie hoofdbureau
 * Militaire politie brigade
 * Militaire basis
 * Gevangenis
 
-Deze locaties zijn ten allen tijde verboden terrein.
-Uitzonderingen gelden uitsluitend wanneer je expliciete instructies ontvangt van
-overheidsdiensten binnen een geldig roleplay scenario.
+Deze locaties zijn te allen tijde verboden terrein.
+Daarnaast is het tijdens een achtervolging in de lucht verboden om naar het eiland te vluchten om de achtervolging te ontlopen.
+Uitzonderingen gelden uitsluitend wanneer je expliciete instructies ontvangt van overheidsdiensten binnen een geldig roleplay scenario.
 
 > Straf ⇨ Categorie 4
 
@@ -392,6 +390,7 @@ uur om in overleg met hun baas zich te ontdoen van deze spullen.
 1. Het is niet toegestaan om in het bezit te zijn van objecten die afkomstig zijn van een overheidsdienst, wanneer je niet in dienst bent.
 2. Een uitzondering geldt voor medewerkers van de politie die een specialistische training hebben gehad. 
 Deze medewerkers mogen wel hun dienstwapens buiten hundienst dragen ten behoeve van de uitvoering van het werk.
+3. Het is niet toegestaan om in dienst te blijven terwijl je niet actief deelneemt aan de roleplay (AFK). Een korte afwezigheid is toegestaan, mits deze niet langer duurt dan 15 minuten. Indien je verwacht langer afwezig te zijn, dien je uit dienst te gaan.
 
 > Straf ⇨ Categorie 5 en ontslag
 
@@ -400,17 +399,16 @@ Deze medewerkers mogen wel hun dienstwapens buiten hundienst dragen ten behoeve 
 ## Overtredingen - Criminele activiteiten
 
 ## Informatie Criminele Activiteiten
-
-Als de recherche voldoende bewijs heeft om een huis binnen te vallen, mogen ze 50% van de kluis afpakken + de wapens en de volledige inventory van de personen binnen meenemen per categorie.
-De categorieën zijn: Grote wapens, kleine wapens en melee wapens, geldzaken (wit geld enkel bij goed onderzoek) en drugs.
-De voorwaardelijke straffen zijn als volgt, bij het volgende op zak:
+Als de recherche voldoende bewijs heeft om een huis of ganghuis binnen te vallen, mogen zij 50% van de inhoud van de kluis in beslag nemen, samen met alle aanwezige wapens en de volledige inventory van de personen die zich binnen bevinden meenemen per categorie. 
+Bij een ganghuis gelden deze regels voor alle leden van de betreffende gang. De categorieën zijn: grote wapens, kleine wapens en melee wapens, geldzaken waarbij wit geld enkel in beslag genomen mag worden bij voldoende onderbouwd onderzoek en drugs. 
+De voorwaardelijke straffen zijn als volgt bij het volgende op zak:
 
 * Drugs vanaf 100 stuks > De politie 7 dagen de tijd om maximaal 3 autos uit garage random te doorzoeken
 * Drugs vanaf 300 stuks > De politie heeft 7 dagen de tijd om maximaal 5 autos en 1 woning random te doorzoeken
 * Meelee wapen > De politie heeft 7 dagen de tijd om maximaal 3 voertuigen te doorzoeken
-* Hand Vuurwapen > De politie heeft 7 dagen de tijd om maximaal 5 voertuigen te doorzoeken.
-* Semi automatisch wapen > De politie heeft 7 dagen de tijd om maximaal 5 voertuigen en 1 woning te doorzoeken
-* Vol automaat wapen > De politie heeft 7 dagen de tijd om maximaal 5 voertuigen en 3 woningen te doorzoeken
+* Categorie 1 vuurwapens > De politie heeft 7 dagen de tijd om maximaal 5 voertuigen te doorzoeken.
+* Categorie 2 vuurwapens > De politie heeft 7 dagen de tijd om maximaal 5 voertuigen en 1 woning te doorzoeken
+* Categorie 3 vuurwapens > De politie heeft 7 dagen de tijd om maximaal 5 voertuigen en 3 woningen te doorzoeken
 * Vuurwerk categorie 2 vanaf 3 stuks > De politie heeft 7 dagen de tijd om maximaal 3 voertuigen te doorzoeken.
 * Vuurwerk categorie 2 vanaf 10 stuks > De politie heeft 7 dagen de tijd om maximaal 5 voertuigen te doorzoeken.
 

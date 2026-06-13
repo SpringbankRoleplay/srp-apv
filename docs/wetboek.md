@@ -105,7 +105,7 @@
 
 1. Voorhechtenis is alleen toegestaan voor feiten waar een celstraf op staat.
 2. Voorhechtenis kan alleen gegeven worden indien er wettig overtuigend bewijs is dat de verdachte een strafbaar feit heeft begaan.
-3. De maximale periode van de voorhechtenis is 24 uur. Dit kan maximaal verlengt worden tot 72 uur voorarrest door een hOvJ.
+3. De maximale periode van de voorhechtenis is 24 uur. Dit kan niet verlengd worden. Na 24 uur moet de verdachte worden veroordeeld of vrijgesproken worden. 
 
 ## Titel I - Vermogensdelicten
 
@@ -753,7 +753,7 @@ Onder vliegen zonder vliegbrevet wordt mede verstaan:
 
 |   | *Celstraf*  | *Taakstraf*  | *boete*  |
 |---|---|---|---|
-|  **Eerste Veroordeling** | 13 maanden  |  | € 5000,-  |
+| **Eerste Veroordeling** | 13 maanden  |  | € 5000,-  |
 | **Tweede Veroordeling**  | 27 maanden  |  | € 7500,-  |
 | **Meerdere Veroordelingen**  | 54 maanden  |  | € 10000,- |
 
@@ -762,17 +762,24 @@ Onder vliegen zonder vliegbrevet wordt mede verstaan:
 1. Strafbaar is een persoon die een vuurwapen voorhanden heeft, bij zich draagt, of opgeslagen heeft in huis of in de laadruimte van zijn of haar vervoersmiddel zonder hiervoor de geldige vergunning te hebben.
 2. Onderscheid wordt gemaakt tussen:
    * kleine vuurwapens (pistolen, revolvers, e.d.), aangeduid als Categorie 1;
-   * Automatische vuurwapens, jachtgeweren, shotguns, explosieven, granaten, thermiet, etc., aangeduid als Categorie 2.
+   * Jachtgeweren, shotguns (excl. SR-06), SMG, explosieven, granaten, thermiet, etc., aangeduid als Categorie 2;
+   * Assault rifles, Designated Marksman Rifle, SR-06, aangeduid als Categorie 3;
 
 | ***`Categorie 1`***  | *Celstraf*  | *Taakstraf*  | *boete*  |
 |---|---|---|---|
-|  **Eerste Veroordeling** | 45 maanden  |  | € 10000,-  |
+| **Eerste Veroordeling** | 45 maanden  |  | € 10000,-  |
 | **Tweede Veroordeling**  | 63 maanden  |  | € 12500,-  |
 | **Meerdere Veroordelingen**  | 81 maanden  |  | € 15000,-  |
 
 | ***`Categorie 2`***  | *Celstraf*  | *Taakstraf*  | *boete*  |
 |---|---|---|---|
-|  **Eerste Veroordeling** | 81 maanden  |  | € 20000,-  |
+| **Eerste Veroordeling** | 66 maanden  |  | € 15000,-  |
+| **Tweede Veroordeling**  | 81 maanden  |  | € 20000,-  |
+| **Meerdere Veroordelingen**  | 120 maanden  |  | € 25000,-  |
+
+| ***`Categorie 3`***  | *Celstraf*  | *Taakstraf*  | *boete*  |
+|---|---|---|---|
+| **Eerste Veroordeling** | 81 maanden  |  | € 20000,-  |
 | **Tweede Veroordeling**  | 108 maanden  |  | € 25000,-  |
 | **Meerdere Veroordelingen**  | 144 maanden  |  | € 27500,-  |
 
