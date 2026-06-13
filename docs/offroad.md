@@ -36,6 +36,7 @@ Elk voertuig mag op onverharde wegen rijden t/nm 100 km/u. De voertuigen hierond
  * Karin Kuruma RS (alleen met off-road banden)
  * Karin Mogul RS (alleen met off-road banden)
  * Karin Sultan (alleen met off-road banden)
+ * Karin Sultan CTX (alleen met off-road banden)
  * Karin Sultan SR4 (alleen met off-road banden)
  * Karin Sultan MK4 (alleen met offroad banden)
  * Karin Sult RSX (alleen met off-road banden)
@@ -60,6 +61,7 @@ Elk voertuig mag op onverharde wegen rijden t/nm 100 km/u. De voertuigen hierond
  * Vapid Minivan (alleen met off-road banden)
  * Vapid Minivan Lowrider (alleen met off-road banden)
  * Vulcar Starlight
+ * Vulcar VX90R (alleen met off-road banden)
  * Zirconiu Journey (alleen met off-road banden)
  * Zirconiu Journey Sport (alleen met off-road banden)
 
@@ -69,6 +71,7 @@ Elk voertuig mag op onverharde wegen rijden t/nm 100 km/u. De voertuigen hierond
  * Annis Hellion
  * Annis Patriot
  * Beclasse Draugur
+ * Benefactor Dubsta CTX 
  * Benefactor Dubsta Eiland Edition
  * Benefactor Dubsta (alleen met off-road banden)
  * Benefactor Dubsta EVO XR
@@ -108,6 +111,7 @@ Elk voertuig mag op onverharde wegen rijden t/nm 100 km/u. De voertuigen hierond
  * Gallivanter Baller Raid
  * Gallivanter Bastion
  * Gallivanter Trailguard 3 (3 Door)
+ * Gallivanter Trailguard 5 Mans X
  * Gallivanter trailguard 6
  * Karin Borneo
  * Karin Bjxl
@@ -125,6 +129,7 @@ Elk voertuig mag op onverharde wegen rijden t/nm 100 km/u. De voertuigen hierond
  * Maibatsu Sanchez
  * Maibatsu Sanchez SM
  * Maibatsu Sanchez Sport
+ * M-VOLT
  * Nagasaki Bf400
  * Nagasaki Bf900
  * Nagasaki Blazer
