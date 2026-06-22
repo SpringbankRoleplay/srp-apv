@@ -626,4 +626,8 @@ weergegeven dan standaard, is verboden.
 
 > Straf ⇨ Categorie 6
 
+### Artikel 158 - Stream sniping
+
+Het is niet toegestaan om een speler te stream snipen, dit betekent dat je bewust gebruik maakt van informatie die je verkrijgt via een livestream van een speler om voordeel te behalen in het spel.
+
 -------
