@@ -105,7 +105,7 @@
 
 1. Voorhechtenis is alleen toegestaan voor feiten waar een celstraf op staat.
 2. Voorhechtenis kan alleen gegeven worden indien er wettig overtuigend bewijs is dat de verdachte een strafbaar feit heeft begaan.
-3. De maximale periode van de voorhechtenis is 24 uur. Dit kan maximaal verlengt worden tot 72 uur voorarrest door een hOvJ.
+3. De maximale periode van de voorhechtenis is 24 uur. Dit kan niet verlengd worden. Na 24 uur moet de verdachte worden veroordeeld of vrijgesproken worden. 
 
 ## Titel I - Vermogensdelicten
 
