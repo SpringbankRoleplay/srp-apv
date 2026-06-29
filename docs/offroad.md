@@ -68,6 +68,7 @@ Elk voertuig mag op onverharde wegen rijden t/nm 100 km/u. De voertuigen hierond
 ### Off-road wegen
  * Aanhanger (alleen met off-road banden)
  * Albany Cavalade FXT
+ * Albany Cavalcade Mans
  * Annis Hellion
  * Annis Patriot
  * Beclasse Draugur
