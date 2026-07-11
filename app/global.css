@@ -1,0 +1,26 @@
+@import 'tailwindcss';
+@import 'fumadocs-ui/css/neutral.css';
+@import 'fumadocs-ui/css/preset.css';
+
+/* Mantine blue.6 als primary kleur (was standaard) */
+:root {
+  --color-fd-primary: #228be6;
+  --color-fd-primary-foreground: #ffffff;
+  --color-fd-ring: #228be6;
+}
+
+.dark {
+  /* iets lichter blauw voor dark mode (Mantine blue.5) */
+  --color-fd-primary: #339af0;
+  --color-fd-primary-foreground: #0b1220;
+  --color-fd-ring: #339af0;
+}
+
+html {
+  scrollbar-gutter: stable;
+}
+
+html > body[data-scroll-locked] {
+  margin-right: 0px !important;
+  --removed-body-scroll-bar-size: 0px !important;
+}
