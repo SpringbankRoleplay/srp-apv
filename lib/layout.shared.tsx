@@ -10,7 +10,6 @@ export function baseOptions(): BaseLayoutProps {
           <span className="font-semibold">{appName}</span>
         </span>
       ),
-    },
-    githubUrl: discordUrl,
+    }
   };
 }
