@@ -6,5 +6,3 @@ export const gitConfig = {
   repo: 'srp-apv',
   branch: 'main',
 };
-
-export const discordUrl = 'https://discord.gg/springbankrp';
