@@ -139,7 +139,7 @@ Elk voertuig mag op onverharde wegen rijden t/nm 100 km/u. De voertuigen hierond
  * Nagasaki Outlaw
  * Nagasaki Outlaw XL 
  * Obey Tenf Rally
- * Pegassi Toros Mancarbon (alleen met off-road banden) 
+ * Pegassi Toros Mancarbon (Spec Variant)(alleen met off-road banden) 
  * Pfister XX3
  * Rune Baikal 4X4 
  * Ubermacht FX3R Offroad 
