@@ -1,0 +1,63 @@
+@import 'tailwindcss';
+@import 'fumadocs-ui/css/neutral.css';
+@import 'fumadocs-ui/css/preset.css';
+
+/* Mantine blue.6 als primary kleur (was standaard) */
+:root {
+  --color-fd-primary: #228be6;
+  --color-fd-primary-foreground: #ffffff;
+  --color-fd-ring: #228be6;
+}
+
+.dark {
+  /* iets lichter blauw voor dark mode (Mantine blue.5) */
+  --color-fd-primary: #339af0;
+  --color-fd-primary-foreground: #0b1220;
+  --color-fd-ring: #339af0;
+}
+
+html {
+  scrollbar-gutter: stable;
+}
+
+html > body[data-scroll-locked] {
+  margin-right: 0px !important;
+  --removed-body-scroll-bar-size: 0px !important;
+}
+
+.straf-categorie {
+  position: relative;
+  cursor: help;
+  text-decoration: underline dotted;
+  text-underline-offset: 3px;
+}
+
+.straf-categorie::after {
+  position: absolute;
+  z-index: 50;
+  bottom: calc(100% + 8px);
+  left: 50%;
+  width: max-content;
+  max-width: min(280px, 80vw);
+  padding: 7px 10px;
+  border: 1px solid var(--color-fd-border);
+  border-radius: 7px;
+  background: var(--color-fd-popover);
+  color: var(--color-fd-popover-foreground);
+  box-shadow: 0 6px 20px rgb(0 0 0 / 18%);
+  content: attr(data-tooltip);
+  font-size: 0.8125rem;
+  font-weight: 500;
+  line-height: 1.35;
+  opacity: 0;
+  pointer-events: none;
+  transform: translate(-50%, 4px);
+  transition: opacity 120ms ease, transform 120ms ease;
+  white-space: normal;
+}
+
+.straf-categorie:hover::after,
+.straf-categorie:focus-visible::after {
+  opacity: 1;
+  transform: translate(-50%, 0);
+}
