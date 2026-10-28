@@ -20,15 +20,15 @@ function getText(children: ReactNode): string | undefined {
 
 export function StrafCategorie({ children, ...props }: ComponentPropsWithoutRef<'strong'>) {
   const text = getText(children);
-  const match = text?.match(/^Straf ⇨ Categorie ([1-8])(.*)$/);
+  const match = text?.match(/^(Straf(?: \S+)?) ⇨ Categorie ([1-8])(.*)$/);
 
   if (!match) return <strong {...props}>{children}</strong>;
 
-  const [, categorie, toevoeging] = match;
+  const [, label, categorie, toevoeging] = match;
 
   return (
     <strong {...props}>
-      Straf ⇨{' '}
+      {label} ⇨{' '}
       <span
         className="straf-categorie"
         tabIndex={0}
